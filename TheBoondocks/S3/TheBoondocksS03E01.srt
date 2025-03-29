@@ -2326,3 +2326,7 @@ que le gustaría compartir.
 512
 00:21:50,021 --> 00:21:53,021
 Sí. Estoy retirado.
+
+513
+00:21:53,030 --> 00:21:58,030
+Traducido por @Turcudinho
