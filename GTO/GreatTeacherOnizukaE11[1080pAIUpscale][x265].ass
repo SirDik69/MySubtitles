@@ -1,0 +1,316 @@
+[Script Info]
+Title: Español (LA)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: next,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,7,0050,0050,0090,0
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:17.30,0:00:22.04,On Top,,0000,0000,0000,,Mi adrenalina siempre está a tope
+Dialogue: 0,0:00:22.97,0:00:28.51,On Top,,0000,0000,0000,,Así que siento que me voy a sobrecalentar
+Dialogue: 0,0:00:28.51,0:00:32.85,On Top,,0000,0000,0000,,Incluso si exploto y me hago cenizas
+Dialogue: 0,0:00:33.88,0:00:39.59,On Top,,0000,0000,0000,,Probablemente seguiré riendo\NAsí como ahora
+Dialogue: 0,0:00:39.59,0:00:45.12,On Top,,0000,0000,0000,,Dejando atrás el pueblo\NHasta el fin del mundo
+Dialogue: 0,0:00:45.12,0:00:50.60,On Top,,0000,0000,0000,,Quememos llanta\NY muramos juntos como amantes
+Dialogue: 0,0:00:50.60,0:00:55.43,On Top,,0000,0000,0000,,Descontrolémonos\nHasta que alcancemos nuestro límite
+Dialogue: 0,0:00:56.20,0:01:02.24,On Top,,0000,0000,0000,,Para que podamos alcanzar el horizonte
+Dialogue: 0,0:01:02.24,0:01:04.94,On Top,,0000,0000,0000,,¡Choque!\nEn la mañana que rueda
+Dialogue: 0,0:01:05.15,0:01:08.58,On Top,,0000,0000,0000,,¡Flash!\nEstoy en el subidón de piloto más genial
+Dialogue: 0,0:01:09.40,0:01:13.92,On Top,,0000,0000,0000,,Hacia la línea de meta
+Dialogue: 0,0:01:37.51,0:01:41.05,On Top,,0000,0000,0000,,Certamen Señorita Inogashira\nAbierto al público
+Dialogue: 0,0:01:43.05,0:01:45.05,On Top,,0000,0000,0000,,Salón Público de Musashino
+Dialogue: 0,0:01:43.27,0:01:49.29,On Top,,0000,0000,0000,,{\i1}Gracias por venir.\nFuji TV presenta una audición abierta...{\i0}
+Dialogue: 0,0:01:49.29,0:01:53.69,On Top,,0000,0000,0000,,{\i1}...para la chica imagen del Parque Inogashira,\nSeñorita Inogashira. Está por comenzar.{\i0}
+Dialogue: 0,0:02:01.50,0:02:08.01,Default,,0000,0000,0000,,Perdón. Oigan, ¿ya estamos todos?\nAkiyama, Asano, Iijima...
+Dialogue: 0,0:02:06.92,0:02:09.29,Default,,0000,0000,0000,,- No pases lista aquí.
+Dialogue: 0,0:02:09.29,0:02:10.10,Default,,0000,0000,0000,,Tienes razón.
+Dialogue: 0,0:02:10.10,0:02:11.56,Default,,0000,0000,0000,,¿Qué estará pensando?
+Dialogue: 0,0:02:11.78,0:02:16.33,Default,,0000,0000,0000,,Ahora presenciaremos el momento\ncuando Tomoko Nomura se convierta en estrella...
+Dialogue: 0,0:02:16.33,0:02:18.90,Default,,0000,0000,0000,,...y estudiaremos cómo funciona la sociedad.
+Dialogue: 0,0:02:18.90,0:02:22.03,Default,,0000,0000,0000,,¡No olviden animarla!\nY a Aizawa también.
+Dialogue: 0,0:02:22.03,0:02:24.58,Default,,0000,0000,0000,,Hola a todos. Qué bueno verlos.
+Dialogue: 0,0:02:25.67,0:02:28.46,Default,,0000,0000,0000,,Oiga, maestro, ¿de verdad va a funcionar?
+Dialogue: 0,0:02:28.46,0:02:31.19,Default,,0000,0000,0000,,¿Hacer de Toroko una estrella?
+Dialogue: 0,0:02:32.95,0:02:34.93,Default,,0000,0000,0000,,Oye, ¿estás escuchando?
+Dialogue: 0,0:02:35.42,0:02:37.90,Default,,0000,0000,0000,,Oye, deja de comer bocadillos y dulces.
+Dialogue: 0,0:02:38.70,0:02:39.45,Default,,0000,0000,0000,,¿Qué pasa?
+Dialogue: 0,0:02:39.87,0:02:43.59,Default,,0000,0000,0000,,La número 18 se perdió entre\nel vestidor y aquí.
+Dialogue: 0,0:02:43.59,0:02:45.18,Default,,0000,0000,0000,,¡Búsquenla! ¡Rápido!
+Dialogue: 0,0:02:48.49,0:02:53.35,Default,,0000,0000,0000,,¡Vaya, empieza con un percance!\nPuede que este año sea un concurso tormentoso.
+Dialogue: 0,0:02:55.43,0:02:56.73,Default,,0000,0000,0000,,Me perdí.
+Dialogue: 0,0:02:59.71,0:03:01.95,Default,,0000,0000,0000,,¡Vaya, hay tanta gente aquí!
+Dialogue: 0,0:03:02.54,0:03:07.27,Default,,0000,0000,0000,,Miyabi-chan, sé que puedes ganar,\nporque hoy estás...
+Dialogue: 0,0:03:07.27,0:03:09.96,Default,,0000,0000,0000,,No me hables.\nTe dije que te corté.
+Dialogue: 0,0:03:11.93,0:03:13.10,Default,,0000,0000,0000,,Lo siento.
+Dialogue: 0,0:03:13.10,0:03:14.82,Default,,0000,0000,0000,,¿Ya apareció la número 18?
+Dialogue: 0,0:03:14.82,0:03:18.36,Default,,0000,0000,0000,,¿No eres tú?\nTú eres la número 18, ¿verdad?
+Dialogue: 0,0:03:18.36,0:03:19.24,Default,,0000,0000,0000,,Ella no está aquí.
+Dialogue: 0,0:03:21.38,0:03:23.26,Default,,0000,0000,0000,,¡Soy yo! ¡Estoy aquí!
+Dialogue: 0,0:03:23.26,0:03:26.47,Default,,0000,0000,0000,,Pónganse en fila.\nTodos, cuando les dé la señal...
+Dialogue: 0,0:03:26.47,0:03:28.42,Default,,0000,0000,0000,,...pasen al escenario\nEn una sola línea.
+Dialogue: 0,0:03:32.95,0:03:37.19,Default,,0000,0000,0000,,Siento haberlos hecho esperar.\nAquí están las chicas.
+Dialogue: 0,0:03:37.49,0:03:39.72,Default,,0000,0000,0000,,Por favor, entren.
+Dialogue: 0,0:03:45.84,0:03:49.46,Default,,0000,0000,0000,,Número 12, Motoko Ohashi.\nUn placer estar aquí.
+Dialogue: 0,0:03:49.46,0:03:51.60,Default,,0000,0000,0000,,Autopromoción, por favor.
+Dialogue: 0,0:03:51.79,0:03:57.12,Default,,0000,0000,0000,,A ver...\nMis medidas son 84-55-85.
+Dialogue: 0,0:03:57.12,0:03:59.06,Default,,0000,0000,0000,,Y mi estatura es 1.58.
+Dialogue: 0,0:03:59.06,0:04:03.55,Default,,0000,0000,0000,,Mis habilidades son karaoke y piano.\nY me gustan mucho las pegatinas.
+Dialogue: 0,0:04:04.07,0:04:07.97,Default,,0000,0000,0000,,- ¿No es feroz la competencia?\n- Me pregunto a qué escuela irá.
+Dialogue: 0,0:04:07.97,0:04:12.78,Default,,0000,0000,0000,,No se preocupen. Con la cara de Nomura\ny buen cuerpo, ganará fácilmente.
+Dialogue: 0,0:04:12.78,0:04:16.62,Default,,0000,0000,0000,,¡Idiota! Requieren una autopromoción,\nuna canción y otras cosas.
+Dialogue: 0,0:04:16.62,0:04:19.55,Default,,0000,0000,0000,,Esa Toroko nunca podrá hacer\nesas cosas bien.
+Dialogue: 0,0:04:19.55,0:04:23.16,Default,,0000,0000,0000,,Si la cara fuera lo único que cuenta,\nmi mamá ya sería una gran estrella.
+Dialogue: 0,0:04:24.25,0:04:27.47,Default,,0000,0000,0000,,- Bueno, es solo un ejemplo.\n- Es el turno de Aizawa.
+Dialogue: 0,0:04:28.23,0:04:31.37,Default,,0000,0000,0000,,Número 13, Miyabi Aizawa.\nGracias por su consideración.
+Dialogue: 0,0:04:31.90,0:04:34.26,Default,,0000,0000,0000,,¡Vaya, tenemos una chica muy hermosa!
+Dialogue: 0,0:04:34.26,0:04:36.36,Default,,0000,0000,0000,,¡Vaya, Miyabi es linda!
+Dialogue: 0,0:04:36.36,0:04:39.55,Default,,0000,0000,0000,,Cuando está iluminada así,\nparece una estrella.
+Dialogue: 0,0:04:40.11,0:04:43.18,Default,,0000,0000,0000,,Mis habilidades son cantar, actuar\ny tocar el piano.
+Dialogue: 0,0:04:43.18,0:04:49.10,Default,,0000,0000,0000,,No he decidido qué quiero ser,\npero quiero contribuir a la sociedad...
+Dialogue: 0,0:04:49.10,0:04:52.20,Default,,0000,0000,0000,,...y ayudar a la gente necesitada.
+Dialogue: 0,0:04:52.20,0:04:54.68,Default,,0000,0000,0000,,- No puedo creer lo que está diciendo.\n- Esa perra.
+Dialogue: 0,0:04:54.68,0:04:58.54,Default,,0000,0000,0000,,- Está adelantada al juego.\n- Por eso les tengo miedo a las chicas.
+Dialogue: 0,0:05:00.30,0:05:01.93,Default,,0000,0000,0000,,¡Hacen mucho ruido!
+Dialogue: 0,0:05:02.33,0:05:06.58,Default,,0000,0000,0000,,¿Podrías traerme un poco de jugo?\nEste bocadillo está muy salado.
+Dialogue: 0,0:05:08.72,0:05:10.63,Default,,0000,0000,0000,,¡Mierda!
+Dialogue: 0,0:05:11.80,0:05:16.02,Default,,0000,0000,0000,,¿Por qué tengo que actuar\ncomo su aprendiz? Aquí tiene.
+Dialogue: 0,0:05:16.63,0:05:19.62,Default,,0000,0000,0000,,- Disculpe, jovencito.\n- ¿Qué? ¿Cambio?
+Dialogue: 0,0:05:19.86,0:05:22.29,Default,,0000,0000,0000,,Son 150 yenes. Le faltan 30 yenes.
+Dialogue: 0,0:05:22.55,0:05:24.26,Default,,0000,0000,0000,,¡Ese bastardo!
+Dialogue: 0,0:05:25.82,0:05:27.59,Default,,0000,0000,0000,,Aquí tiene.
+Dialogue: 0,0:05:27.59,0:05:29.70,Default,,0000,0000,0000,,¿Por qué tardaste tanto?
+Dialogue: 0,0:05:30.56,0:05:32.70,Default,,0000,0000,0000,,¡Porque estaba agitando la botella!
+Dialogue: 0,0:05:32.70,0:05:35.40,Default,,0000,0000,0000,,Tomoko es la siguiente. Murai-chan.
+Dialogue: 0,0:05:37.21,0:05:39.51,Default,,0000,0000,0000,,Lo supuse. Eres muy joven\npara jugarme una broma.
+Dialogue: 0,0:05:40.25,0:05:44.08,Default,,0000,0000,0000,,¡Ahí está Tomoko! Oh, necesito\nque me hagas un favor más.
+Dialogue: 0,0:05:50.17,0:05:53.08,Default,,0000,0000,0000,,Núm... núm... ¡número 18!\nNom...
+Dialogue: 0,0:05:53.08,0:05:58.17,Default,,0000,0000,0000,,- Eres Tomoko Nomura, ¿verdad?\n- Sí.
+Dialogue: 0,0:06:00.14,0:06:01.46,Default,,0000,0000,0000,,¿Qué es eso?
+Dialogue: 0,0:06:01.46,0:06:05.40,Default,,0000,0000,0000,,Cálmate. Tu uniforme de clase de gimnasia\nes genial y loco...
+Dialogue: 0,0:06:05.40,0:06:07.80,Default,,0000,0000,0000,,...pero la primera ronda es\nuna competencia de trajes de baño.
+Dialogue: 0,0:06:09.30,0:06:11.65,Default,,0000,0000,0000,,Estoy muy avergonzada.
+Dialogue: 0,0:06:11.65,0:06:14.14,Default,,0000,0000,0000,,Oh, no. La regué.\n¡Me cambiaré enseguida!
+Dialogue: 0,0:06:15.83,0:06:19.91,Default,,0000,0000,0000,,Vaya. ¡Oye, tú! ¿Aquí mismo?
+Dialogue: 0,0:06:21.47,0:06:24.88,Default,,0000,0000,0000,,¡Vaya, uniforme de gimnasia como traje de baño!
+Dialogue: 0,0:06:24.88,0:06:28.04,Default,,0000,0000,0000,,¡Eso es una locura!\nNo, es muy refrescante.
+Dialogue: 0,0:06:28.89,0:06:30.06,Default,,0000,0000,0000,,¿Qué pasa?
+Dialogue: 0,0:06:31.74,0:06:35.09,Default,,0000,0000,0000,,Vaya. ¡Otro gran percance!
+Dialogue: 0,0:06:36.10,0:06:37.60,Default,,0000,0000,0000,,¿Una excursión?
+Dialogue: 0,0:06:37.60,0:06:42.68,Default,,0000,0000,0000,,¿Qué está pensando, cambiando\nel horario sin permiso?
+Dialogue: 0,0:06:42.68,0:06:46.27,Default,,0000,0000,0000,,¿A dónde fueron?\n¿Al Capitolio o al museo de ciencias?
+Dialogue: 0,0:06:46.27,0:06:49.30,Default,,0000,0000,0000,,¡Un profesor como él es ridículo!
+Dialogue: 0,0:06:49.30,0:06:51.84,Default,,0000,0000,0000,,Escuché algo\nsobre un concurso de belleza.
+Dialogue: 0,0:06:53.06,0:06:55.11,Default,,0000,0000,0000,,¡Te estoy preguntando a dónde fueron!
+Dialogue: 0,0:06:56.30,0:06:59.08,Default,,0000,0000,0000,,¿Un concurso de belleza?
+Dialogue: 0,0:07:00.17,0:07:02.30,Default,,0000,0000,0000,,¿Qué demonios está pensando?
+Dialogue: 0,0:07:02.30,0:07:07.35,Default,,0000,0000,0000,,¿Canceló su clase y les está\nenseñando sobre chicas hermosas?
+Dialogue: 0,0:07:07.35,0:07:10.71,Default,,0000,0000,0000,,Despídanlo. Despídanlo.\n¡Está despedido! ¡Está despedido!
+Dialogue: 0,0:07:14.17,0:07:16.64,Default,,0000,0000,0000,,Esa chica tiene una seria tanga atorada.
+Dialogue: 0,0:07:16.64,0:07:20.20,Default,,0000,0000,0000,,Oye, maestro, Toroko es la siguiente.\n¿Va a estar bien?
+Dialogue: 0,0:07:20.71,0:07:25.18,Default,,0000,0000,0000,,A diferencia de Miyabi que canta bien,\nToroko no puede hacer nada bien.
+Dialogue: 0,0:07:25.76,0:07:29.51,Default,,0000,0000,0000,,Simplemente no entiendes\nlo lenta que es.
+Dialogue: 0,0:07:29.51,0:07:34.35,Default,,0000,0000,0000,,Ocurrirá un milagro\nsi mi juicio fue correcto.
+Dialogue: 0,0:07:34.35,0:07:38.79,On Top,,0000,0000,0000,,Audición Abierta Certamen Señorita Inogashira\nPatrocinado por Fuji Television
+Dialogue: 0,0:07:34.67,0:07:38.79,Default,,0000,0000,0000,,Número 18, Tomoko Nomura.\nVoy a cantar.
+Dialogue: 0,0:07:39.88,0:07:41.76,Default,,0000,0000,0000,,Uno, dos, tres. ¡Vamos!
+Dialogue: 0,0:07:42.10,0:07:46.30,Default,,0000,0000,0000,,¡Ah, Eh, Oh, Eh, Oh!
+Dialogue: 0,0:07:47.28,0:07:50.39,Default,,0000,0000,0000,,Ah, en un ahiru en pánico
+Dialogue: 0,0:07:50.39,0:07:53.30,Default,,0000,0000,0000,,Eh, en un iruka travieso
+Dialogue: 0,0:07:53.30,0:07:56.21,Default,,0000,0000,0000,,Oh, en un usagi caído
+Dialogue: 0,0:07:56.42,0:07:59.37,Default,,0000,0000,0000,,Eh, en encho sensei
+Dialogue: 0,0:07:59.37,0:08:02.03,Default,,0000,0000,0000,,Sabía que no sabía\nlo que estaba haciendo.
+Dialogue: 0,0:08:03.04,0:08:04.98,Default,,0000,0000,0000,,¿Qué clase de idiota es ella?
+Dialogue: 0,0:08:04.98,0:08:07.92,Default,,0000,0000,0000,,- Parece un programa infantil.\n- ¡Ella es demasiado!
+Dialogue: 0,0:08:08.23,0:08:10.85,Default,,0000,0000,0000,,¿Está loca?
+Dialogue: 0,0:08:11.16,0:08:13.07,Default,,0000,0000,0000,,La última ronda es actuación.
+Dialogue: 0,0:08:13.07,0:08:17.83,Default,,0000,0000,0000,,Tomaremos un descanso de 30 minutos.\nMemorícense sus líneas durante el descanso.
+Dialogue: 0,0:08:23.27,0:08:25.63,Default,,0000,0000,0000,,- ¿Cómo te va?\n- Más o menos.
+Dialogue: 0,0:08:25.63,0:08:30.67,Default,,0000,0000,0000,,Eres bastante genial.\nLas otras concursantes son basura.
+Dialogue: 0,0:08:30.67,0:08:35.34,Default,,0000,0000,0000,,El nivel de la competencia es bajo.\nParece que podrías ganar.
+Dialogue: 0,0:08:35.34,0:08:38.12,Default,,0000,0000,0000,,No me interesa.\nMe invitaron a competir.
+Dialogue: 0,0:08:38.94,0:08:43.70,Default,,0000,0000,0000,,Podrías llevarte el trofeo.\n¿O tienes seguro o algo así?
+Dialogue: 0,0:08:44.54,0:08:46.99,Default,,0000,0000,0000,,Como un trato con una productora.
+Dialogue: 0,0:08:46.99,0:08:49.76,Default,,0000,0000,0000,,Soy una aficionada.\nNo tengo nada que ver con eso.
+Dialogue: 0,0:08:50.04,0:08:53.30,Default,,0000,0000,0000,,Si eres una aficionada,\nno ganarías.
+Dialogue: 0,0:08:53.30,0:08:55.70,Default,,0000,0000,0000,,Como dije, ¡no me importa\nsi gano o no!
+Dialogue: 0,0:08:55.93,0:08:58.63,Default,,0000,0000,0000,,Entonces, ¿por qué participaste en esto?
+Dialogue: 0,0:08:58.63,0:09:01.03,Default,,0000,0000,0000,,- ¡Te dije, me pidieron!\n- Miyabi-chan.
+Dialogue: 0,0:09:02.98,0:09:07.41,Default,,0000,0000,0000,,Si no quieres hablar, está bien.\nHablaré sola.
+Dialogue: 0,0:09:07.87,0:09:12.78,Default,,0000,0000,0000,,El Sr. Onizuka me dijo que compitiera\nsin pensarlo bien.
+Dialogue: 0,0:09:12.78,0:09:18.28,Default,,0000,0000,0000,,Pero realmente quiero que Miyabi-chan\ngane. De verdad.
+Dialogue: 0,0:09:19.02,0:09:19.88,Default,,0000,0000,0000,,¿Y?
+Dialogue: 0,0:09:21.58,0:09:25.66,Default,,0000,0000,0000,,Así que, te estaré animando.\nBuena suerte.
+Dialogue: 0,0:09:25.88,0:09:29.32,Default,,0000,0000,0000,,No necesito que me desees suerte.\nEstoy segura de que ganaré.
+Dialogue: 0,0:09:30.23,0:09:33.37,Default,,0000,0000,0000,,Tienes razón. Vas a ganar.
+Dialogue: 0,0:09:34.17,0:09:36.95,Default,,0000,0000,0000,,¡No te me acerques, bote de basura!
+Dialogue: 0,0:09:41.04,0:09:44.58,Default,,0000,0000,0000,,Ahora creo que debería\nmemorizar mis líneas.
+Dialogue: 0,0:09:46.60,0:09:47.71,Default,,0000,0000,0000,,Lo siento.
+Dialogue: 0,0:09:50.14,0:09:52.10,Default,,0000,0000,0000,,Lo siento.
+Dialogue: 0,0:09:59.44,0:10:00.99,On Top,,0000,0000,0000,,Solo Personal Autorizado\nNo Entrar
+Dialogue: 0,0:10:01.56,0:10:05.93,Default,,0000,0000,0000,,Siempre estabas brillando.
+Dialogue: 0,0:10:06.63,0:10:07.98,Default,,0000,0000,0000,,Estabas...
+Dialogue: 0,0:10:09.35,0:10:11.44,Default,,0000,0000,0000,,No puedo hacerlo.\nNo puedo memorizar nada.
+Dialogue: 0,0:10:12.56,0:10:16.59,Default,,0000,0000,0000,,Siempre... Te estaba observando...
+Dialogue: 0,0:10:22.07,0:10:26.27,Default,,0000,0000,0000,,- ¡Maestro!\n- ¿Qué tal te va?
+Dialogue: 0,0:10:26.27,0:10:30.07,Default,,0000,0000,0000,,Hay caracteres chinos difíciles,\ny no puedo memorizarlos.
+Dialogue: 0,0:10:30.50,0:10:35.80,Default,,0000,0000,0000,,- Tampoco pude cantar bien.\n- ¿De verdad? Pude sentir tu pasión.
+Dialogue: 0,0:10:37.22,0:10:38.70,Default,,0000,0000,0000,,No puedo hacerlo.
+Dialogue: 0,0:10:39.15,0:10:42.94,Default,,0000,0000,0000,,Agradezco tu esfuerzo por cambiar\na una persona estúpida como yo, pero...
+Dialogue: 0,0:10:43.78,0:10:48.07,Default,,0000,0000,0000,,- No digas eso. Ese tamaño de copa F...\n- Déjame ir a casa ahora.
+Dialogue: 0,0:10:48.07,0:10:50.44,Default,,0000,0000,0000,,¿Te refieres, con ese atuendo?
+Dialogue: 0,0:10:50.44,0:10:52.30,Default,,0000,0000,0000,,No quiero volver\nal vestidor.
+Dialogue: 0,0:10:54.26,0:10:57.78,Default,,0000,0000,0000,,Miyabi ya no me habla.
+Dialogue: 0,0:10:58.70,0:11:01.45,Default,,0000,0000,0000,,Háblale una vez más\ndesde el escenario.
+Dialogue: 0,0:11:02.22,0:11:04.65,Default,,0000,0000,0000,,Dijiste que seguirías\nmis indicaciones, ¿verdad?
+Dialogue: 0,0:11:06.46,0:11:09.43,Default,,0000,0000,0000,,- Continúa con la audición.\n- Pero yo...
+Dialogue: 0,0:11:09.43,0:11:14.06,Default,,0000,0000,0000,,Estarás bien. Solo sé tú misma.
+Dialogue: 0,0:11:10.88,0:11:14.06,On Top,,0000,0000,0000,,Certamen Señorita Inogashira\nGuion de Ejercicio de Actuación
+Dialogue: 0,0:11:18.47,0:11:21.44,Default,,0000,0000,0000,,
+Dialogue: 0,0:11:23.14,0:11:27.34,Default,,0000,0000,0000,,- Muchas gracias.\n- Gracias. Buena actuación.
+Dialogue: 0,0:11:28.05,0:11:29.81,Default,,0000,0000,0000,,Siguiente persona. Tome esto, por favor.
+Dialogue: 0,0:11:31.21,0:11:32.78,Default,,0000,0000,0000,,La siguiente concursante,\npor favor, pase.
+Dialogue: 0,0:11:35.04,0:11:38.47,Default,,0000,0000,0000,,Ella actuará la Escena 3.\nAdelante.
+Dialogue: 0,0:11:40.77,0:11:43.96,Default,,0000,0000,0000,,Número 13, Miyabi Aizawa. Gracias.
+Dialogue: 0,0:11:44.98,0:11:47.93,Default,,0000,0000,0000,,- Mira cómo la aman.\n- Ya es una estrella.
+Dialogue: 0,0:11:51.14,0:11:54.46,Default,,0000,0000,0000,,¿Una llave de habitación? Está justo ahí.
+Dialogue: 0,0:11:55.66,0:11:58.78,Default,,0000,0000,0000,,Puedes quedártela. No me importa.
+Dialogue: 0,0:11:58.78,0:12:02.84,Default,,0000,0000,0000,,- Es como una actriz.\n- Definitivamente ganará.
+Dialogue: 0,0:12:04.61,0:12:07.20,Default,,0000,0000,0000,,Oye, Murai, escucha.
+Dialogue: 0,0:12:08.12,0:12:11.55,Default,,0000,0000,0000,,¿Qué? ¿Ahora? Todavía no me decido.
+Dialogue: 0,0:12:11.99,0:12:15.86,Default,,0000,0000,0000,,Como hace un día hermoso,\niba a limpiar un poco.
+Dialogue: 0,0:12:16.30,0:12:20.66,Default,,0000,0000,0000,,Como dije, ya no me preocupa\nmás. Cosas así pasan.
+Dialogue: 0,0:12:21.20,0:12:25.23,Default,,0000,0000,0000,,Sí, así es. No te preocupes.
+Dialogue: 0,0:12:25.86,0:12:28.94,Default,,0000,0000,0000,,Llámame de nuevo.\nLuego hablamos. Adiós.
+Dialogue: 0,0:12:37.95,0:12:42.08,Default,,0000,0000,0000,,¡Esa fue una actuación increíble\npara una niña de 14 años!
+Dialogue: 0,0:12:42.48,0:12:47.44,Default,,0000,0000,0000,,- Muchas gracias.\n- ¡Denle otro aplauso!
+Dialogue: 0,0:12:48.33,0:12:50.52,Default,,0000,0000,0000,,Qué guion tan cursi. ¡Es una broma!
+Dialogue: 0,0:12:51.69,0:12:54.20,Default,,0000,0000,0000,,Ahora la siguiente concursante, por favor.
+Dialogue: 0,0:12:55.57,0:12:58.16,Default,,0000,0000,0000,,Quédense aquí y esperen, por favor.
+Dialogue: 0,0:13:04.37,0:13:07.48,Default,,0000,0000,0000,,Aquí, fui a comprarlo.\n¿Ya estás feliz?
+Dialogue: 0,0:13:07.48,0:13:09.65,Default,,0000,0000,0000,,Está bien, está bien.
+Dialogue: 0,0:13:09.65,0:13:12.71,Default,,0000,0000,0000,,¡No haré más favores!
+Dialogue: 0,0:13:13.41,0:13:18.18,Default,,0000,0000,0000,,- Murai, préstame tu celular.\n- ¿Qué? ¿Mi celular?
+Dialogue: 0,0:13:18.54,0:13:22.25,Default,,0000,0000,0000,,Ahora, la última actuación\nde la audición abierta de hoy.
+Dialogue: 0,0:13:22.25,0:13:26.05,Default,,0000,0000,0000,,Número 18, Tomoko Nomura.\nPor favor, pase.
+Dialogue: 0,0:13:32.84,0:13:38.13,Default,,0000,0000,0000,,¿Qué es eso? Me da vergüenza estar\nen la misma audición que esa tonta.
+Dialogue: 0,0:13:38.77,0:13:42.04,Default,,0000,0000,0000,,- ¿Ven? Toroko es un fracaso.\n- Miyabi seguramente ganará.
+Dialogue: 0,0:13:42.73,0:13:48.48,Default,,0000,0000,0000,,Se está recomponiendo. Actuará\nla Escena 2. Adelante.
+Dialogue: 0,0:14:01.23,0:14:06.25,Default,,0000,0000,0000,,No puedo hacerlo.\nSabía que no podía actuar.
+Dialogue: 0,0:14:07.99,0:14:09.24,Default,,0000,0000,0000,,¡Nomura!
+Dialogue: 0,0:14:10.64,0:14:13.34,Default,,0000,0000,0000,,¡Oye, qué vergüenza!\n¡Apúrate y siéntate!
+Dialogue: 0,0:14:13.87,0:14:16.00,Default,,0000,0000,0000,,Oye, ¿qué estás haciendo\ncon mi celular?
+Dialogue: 0,0:14:20.75,0:14:21.68,Default,,0000,0000,0000,,¡Nomura!
+Dialogue: 0,0:14:24.06,0:14:26.58,Default,,0000,0000,0000,,Muéstrales tu verdadero ser.
+Dialogue: 0,0:14:27.48,0:14:28.55,Default,,0000,0000,0000,,Maestro.
+Dialogue: 0,0:14:28.94,0:14:30.30,Default,,0000,0000,0000,,¡Qué vergüenza das!
+Dialogue: 0,0:14:30.30,0:14:33.99,Default,,0000,0000,0000,,- Finjamos que no lo conocemos.\n- Somos extraños.
+Dialogue: 0,0:14:35.99,0:14:37.66,On Top,,0000,0000,0000,,1. Presiona aquí\n2. Luego Aquí
+Dialogue: 0,0:14:53.73,0:14:56.81,Default,,0000,0000,0000,,Hola, esta es la residencia Aizawa.\nAhora no estamos.
+Dialogue: 0,0:14:56.81,0:14:58.18,On Top,,0000,0000,0000,,Recibiendo llamada
+Dialogue: 0,0:14:57.31,0:15:01.32,Default,,0000,0000,0000,,Deje un mensaje después del tono.
+Dialogue: 0,0:15:07.24,0:15:10.12,Default,,0000,0000,0000,,Siempre te estuve observando.
+Dialogue: 0,0:15:11.61,0:15:15.03,Default,,0000,0000,0000,,Siempre estabas brillando.
+Dialogue: 0,0:15:15.71,0:15:19.36,Default,,0000,0000,0000,,Me hacía feliz.
+Dialogue: 0,0:15:20.37,0:15:25.09,Default,,0000,0000,0000,,Por eso siempre te estuve siguiendo.
+Dialogue: 0,0:15:26.94,0:15:28.98,Default,,0000,0000,0000,,No es del guion.
+Dialogue: 0,0:15:29.46,0:15:32.18,Default,,0000,0000,0000,,Quería que me hablaras.
+Dialogue: 0,0:15:32.18,0:15:37.38,Default,,0000,0000,0000,,Pero no importa qué tan rápido corriera,\nno podía alcanzarte.
+Dialogue: 0,0:15:37.82,0:15:40.80,Default,,0000,0000,0000,,Sabía eso desde el principio...
+Dialogue: 0,0:15:42.22,0:15:44.89,Default,,0000,0000,0000,,...pero todo lo que quería era hablar\ncontigo con una sonrisa.
+Dialogue: 0,0:15:46.29,0:15:49.45,Default,,0000,0000,0000,,No sé cuándo todo esto\nse convirtió en un desastre.
+Dialogue: 0,0:16:02.23,0:16:07.46,Default,,0000,0000,0000,,Fue divertido estar contigo.\nTuvimos mucho tiempo juntos.
+Dialogue: 0,0:16:09.46,0:16:12.65,Default,,0000,0000,0000,,No importaba cuál fuera mi problema,\ncada vez que hablaba contigo...
+Dialogue: 0,0:16:13.12,0:16:16.22,Default,,0000,0000,0000,,...desaparecía de inmediato.
+Dialogue: 0,0:16:21.81,0:16:26.09,Default,,0000,0000,0000,,Eres inteligente y genial\ny siempre eres confiable.
+Dialogue: 0,0:16:27.36,0:16:31.05,Default,,0000,0000,0000,,Eres mi favorita.\nPero nunca podré alcanzarte.
+Dialogue: 0,0:16:35.43,0:16:40.06,Default,,0000,0000,0000,,No importa. Solo te\nobservaré desde la distancia.
+Dialogue: 0,0:16:44.50,0:16:47.79,Default,,0000,0000,0000,,Así que no te preocupes por mí.
+Dialogue: 0,0:16:49.15,0:16:51.32,Default,,0000,0000,0000,,Me las arreglaré de alguna manera.
+Dialogue: 0,0:17:23.10,0:17:25.79,Default,,0000,0000,0000,,Pero tengo un favor que pedirte.
+Dialogue: 0,0:17:29.79,0:17:32.12,Default,,0000,0000,0000,,Quiero que siempre estés sonriendo...
+Dialogue: 0,0:17:34.43,0:17:35.54,Default,,0000,0000,0000,,...porque tú eres...
+Dialogue: 0,0:17:36.91,0:17:39.50,Default,,0000,0000,0000,,...eres mi amiga favorita.
+Dialogue: 0,0:17:40.32,0:17:42.40,Default,,0000,0000,0000,,Mi amiga favorita.
+Dialogue: 0,0:17:51.56,0:17:53.49,Default,,0000,0000,0000,,Ahora, adiós.
+Dialogue: 0,0:18:16.86,0:18:19.05,Default,,0000,0000,0000,,Felicidades por el premio especial.
+Dialogue: 0,0:18:19.05,0:18:22.85,Default,,0000,0000,0000,,- ¡Déjame tomarte una foto!\n- ¿Podemos tener una entrevista?
+Dialogue: 0,0:18:22.85,0:18:24.98,Default,,0000,0000,0000,,- ¿Tienes agente?\n- Solo soy una...
+Dialogue: 0,0:18:25.74,0:18:29.32,Default,,0000,0000,0000,,¡Soy la ganadora! ¡No lo soporto!
+Dialogue: 0,0:18:31.14,0:18:34.61,Default,,0000,0000,0000,,- Toroko fue increíble.\n- ¡Me emocionó mucho!
+Dialogue: 0,0:18:34.61,0:18:37.10,Default,,0000,0000,0000,,Recibió tarjetas de compañías de televisión.
+Dialogue: 0,0:18:37.10,0:18:39.26,Default,,0000,0000,0000,,Puede que empiece su carrera\nen el mundo del espectáculo.
+Dialogue: 0,0:18:39.71,0:18:43.25,Default,,0000,0000,0000,,Me impresiona que Onizuka pudiera ver\ntal talento en Toroko.
+Dialogue: 0,0:18:43.25,0:18:44.75,Default,,0000,0000,0000,,Onizuka no es malo.
+Dialogue: 0,0:18:44.75,0:18:47.07,Default,,0000,0000,0000,,- ¿Dónde está Miyabi?\n- Se fue a casa.
+Dialogue: 0,0:18:47.07,0:18:49.05,Default,,0000,0000,0000,,Tal vez esté impactada\npor haber quedado en segundo lugar.
+Dialogue: 0,0:18:49.70,0:18:56.29,Default,,0000,0000,0000,,Tarjetas telefónicas, pósters, muñecas.\nToda clase de productos de Tomoko Nomura.
+Dialogue: 0,0:18:50.64,0:19:05.03,On Top,,0000,0000,0000,,Productos Premium de Tomoko Nomura\nVenta Directa
+Dialogue: 0,0:18:56.43,0:18:59.18,Default,,0000,0000,0000,,Bastardo,\n¿cuándo hiciste todo esto?
+Dialogue: 0,0:18:59.18,0:19:03.99,Default,,0000,0000,0000,,Cierra la boca y ayuda. Si vendemos\nsuficiente, te compraré un celular.
+Dialogue: 0,0:19:04.43,0:19:07.06,Default,,0000,0000,0000,,¡Le diste el mío a Toroko\nsin permiso!
+Dialogue: 0,0:19:08.74,0:19:11.02,Default,,0000,0000,0000,,He estado buscando...
+Dialogue: 0,0:19:11.50,0:19:12.24,Default,,0000,0000,0000,,¡Oh, mierda!
+Dialogue: 0,0:19:12.24,0:19:16.21,Default,,0000,0000,0000,,Fuyutsuki, ¿qué haces aquí?
+Dialogue: 0,0:19:16.21,0:19:20.05,Default,,0000,0000,0000,,Oh, ¡querías presenciar\ncómo Nomura se convierte en estrella!
+Dialogue: 0,0:19:20.05,0:19:21.33,Default,,0000,0000,0000,,No, no es eso.
+Dialogue: 0,0:19:22.96,0:19:27.66,Default,,0000,0000,0000,,- Usted también está aquí, Subdirector.\n- ¡Bastardo! ¡Esto es inaudito!
+Dialogue: 0,0:19:27.66,0:19:32.06,Default,,0000,0000,0000,,Por favor, cálmense. Estoy seguro\nde que el Sr. Onizuka tenía su propia idea.
+Dialogue: 0,0:19:32.06,0:19:36.40,Default,,0000,0000,0000,,¿Cómo? ¡Él no piensa! ¿Por qué está\nvendiendo esas cosas para empezar?
+Dialogue: 0,0:19:36.78,0:19:38.51,Default,,0000,0000,0000,,Maestro, ¿está bien?
+Dialogue: 0,0:19:38.51,0:19:42.37,Default,,0000,0000,0000,,¿Por qué no bebe esto\ny recupera el aliento?
+Dialogue: 0,0:19:42.37,0:19:44.64,Default,,0000,0000,0000,,¡No puedes engañarme!
+Dialogue: 0,0:19:46.37,0:19:48.38,Default,,0000,0000,0000,,Él compró esa bebida.
+Dialogue: 0,0:19:48.68,0:19:51.21,Default,,0000,0000,0000,,¡Ha pasado mucho tiempo\ndesde que la agité!
+Dialogue: 0,0:19:51.21,0:19:54.03,Default,,0000,0000,0000,,Bastardo, ¿qué dijiste?
+Dialogue: 0,0:19:54.03,0:19:55.23,Default,,0000,0000,0000,,¡Estás despedido!
+Dialogue: 0,0:19:56.58,0:19:59.20,Default,,0000,0000,0000,,{\i1}Quiero que siempre estés sonriendo.{\i0}
+Dialogue: 0,0:19:59.77,0:20:05.11,Default,,0000,0000,0000,,{\i1}Porque eres mi amiga favorita.\nMi amiga favorita.{\i0}
+Dialogue: 0,0:20:05.75,0:20:07.61,Default,,0000,0000,0000,,{\i1}Ahora, adiós.{\i0}
+Dialogue: 0,0:20:13.05,0:20:17.58,Default,,0000,0000,0000,,Buena venta. Habríamos vendido más\nsi ese calvo no hubiera aparecido.
+Dialogue: 0,0:20:17.58,0:20:22.18,Default,,0000,0000,0000,,Maestro, muchas gracias por hoy.
+Dialogue: 0,0:20:22.54,0:20:24.91,Default,,0000,0000,0000,,Suenas muy rígida y educada.
+Dialogue: 0,0:20:24.91,0:20:28.60,Default,,0000,0000,0000,,Porque te tomaste\ntantas molestias por mí.
+Dialogue: 0,0:20:29.04,0:20:31.65,Default,,0000,0000,0000,,Escuché de Kikuchi\nque me ayudaste...
+Dialogue: 0,0:20:31.65,0:20:34.70,Default,,0000,0000,0000,,...porque te sentías mal\nporque no tengo amigos.
+Dialogue: 0,0:20:35.01,0:20:38.81,Default,,0000,0000,0000,,Así que no sé qué decir,\npero realmente aprecio...
+Dialogue: 0,0:20:38.81,0:20:42.88,Default,,0000,0000,0000,,Estás siendo tonta. No hice nada.\nEso fue cosa tuya.
+Dialogue: 0,0:20:43.14,0:20:45.82,Default,,0000,0000,0000,,Además, hice dinero gracias a ti.
+Dialogue: 0,0:20:45.82,0:20:47.16,Default,,0000,0000,0000,,Maestro.
+Dialogue: 0,0:20:49.89,0:20:53.81,Default,,0000,0000,0000,,Kikuchi me dijo que\nesto te haría feliz.
+Dialogue: 0,0:20:54.18,0:20:56.52,Default,,0000,0000,0000,,Es la única manera\nen que puedo devolverte el favor.
+Dialogue: 0,0:20:56.52,0:21:01.20,Default,,0000,0000,0000,,Qué tonta eres. ¿Crees que\nesa pequeña cosa me hará feliz?
+Dialogue: 0,0:21:02.79,0:21:06.07,Default,,0000,0000,0000,,Si quieres complacerme,\nnecesitas hacer...
+Dialogue: 0,0:21:07.10,0:21:08.54,Default,,0000,0000,0000,,...¡algo como esto!
+Dialogue: 0,0:21:11.45,0:21:14.21,Default,,0000,0000,0000,,¿Qué es eso? ¡Un trasero sucio!
+Dialogue: 0,0:21:14.68,0:21:18.59,Default,,0000,0000,0000,,- ¿Qué está haciendo?\n- Es su forma de ocultar la vergüenza.
+Dialogue: 0,0:21:19.18,0:21:21.65,Default,,0000,0000,0000,,Podría ser...
+Dialogue: 0,0:21:22.45,0:21:26.19,Default,,0000,0000,0000,,Podría ser que la escuela\npodría volver a ser divertida como antes...
+Dialogue: 0,0:21:26.19,0:21:29.49,Default,,0000,0000,0000,,...porque lo tenemos a él\ncomo nuestro profesor de aula.
+Dialogue: 0,0:21:29.89,0:21:32.06,Default,,0000,0000,0000,,¡Mocoso!
+Dialogue: 0,0:21:45.59,0:21:49.83,On Top,,0000,0000,0000,,Tú y yo, vámonos lejos
+Dialogue: 0,0:21:50.03,0:21:55.10,On Top,,0000,0000,0000,,A buscar nuevas emociones hoy
+Dialogue: 0,0:21:55.20,0:22:00.10,On Top,,0000,0000,0000,,Juntos podemos superar
+Dialogue: 0,0:22:00.30,0:22:06.04,On Top,,0000,0000,0000,,Porque quiero disfrutar de un nuevo mañana
+Dialogue: 0,0:22:06.24,0:22:10.45,On Top,,0000,0000,0000,,Abre los ojos y abre la puerta
+Dialogue: 0,0:22:11.18,0:22:15.65,On Top,,0000,0000,0000,,El mundo frente a tus ojos
+Dialogue: 0,0:22:16.38,0:22:21.26,On Top,,0000,0000,0000,,Quiero salir\nCon mis sonidos favoritos
+Dialogue: 0,0:22:21.59,0:22:25.86,On Top,,0000,0000,0000,,Probaré mis emociones de infancia
+Dialogue: 0,0:22:27.06,0:22:36.67,On Top,,0000,0000,0000,,Estoy aquí para disfrutar de la luz del sol
+Dialogue: 0,0:22:37.20,0:22:46.68,On Top,,0000,0000,0000,,Me estoy divirtiendo\nMás que en el pasado
+Dialogue: 0,0:22:46.81,0:22:51.08,On Top,,0000,0000,0000,,Quiero verte, pero no puedo
+Dialogue: 0,0:22:51.28,0:22:56.16,On Top,,0000,0000,0000,,Así que solo abrazo mi amor
+Dialogue: 0,0:22:56.39,0:23:01.26,On Top,,0000,0000,0000,,Incluso caminando por una calle concurrida
+Dialogue: 0,0:23:01.46,0:23:07.89,On Top,,0000,0000,0000,,Tu sonrisa hace que mi cabeza dé vueltas
+Dialogue: 0,0:23:18.43,0:23:24.95,next,,0000,0000,0000,,{\fad(1,430)}Próximo Episodio
+Dialogue: 0,0:23:21.00,0:23:23.50,Default,,0000,0000,0000,,Estaba pensando que debería sacar una licencia.
+Dialogue: 0,0:23:24.42,0:23:28.87,Default,,0000,0000,0000,,- No tengas miedo. Sé valiente.\n- ¡Prepárense!
+Dialogue: 0,0:23:28.87,0:23:33.44,Default,,0000,0000,0000,,Sigue actuando como un tonto, Onizuka.\nMuy pronto mi mundo será perfecto.
