@@ -3,13 +3,13 @@ msubtitles:
     subtitles:
       - season: 1
         items:
-          - path: "GreatTeacherOnizukaE11[1080pAIUpscale][x265].srt"
-            episode: 11      
-          - path: "GreatTeacherOnizukaE12[1080pAIUpscale][x265].srt"
-            episode: 12      
-          - path: "GreatTeacherOnizukaE13[1080pAIUpscale][x265].srt"
-            episode: 13      
-          - path: "GreatTeacherOnizukaE14[1080pAIUpscale][x265].srt"
-            episode: 14      
-          - path: "GreatTeacherOnizukaE15[1080pAIUpscale][x265].srt"
-            episode: 15                  
+          - path: "GreatTeacherOnizukaE18[1080pAIUpscale][x265].srt"
+            episode: 18      
+          - path: "GreatTeacherOnizukaE19[1080pAIUpscale][x265].srt"
+            episode: 19      
+          - path: "GreatTeacherOnizukaE20[1080pAIUpscale][x265].srt"
+            episode: 20      
+          - path: "GreatTeacherOnizukaE21[1080pAIUpscale][x265].srt"
+            episode: 21      
+          - path: "GreatTeacherOnizukaE22[1080pAIUpscale][x265].srt"
+            episode: 22                  
