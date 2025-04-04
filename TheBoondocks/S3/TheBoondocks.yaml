@@ -1,0 +1,13 @@
+msubtitles:
+  - source: https://raw.githubusercontent.com/SirDik69/MySubtitles/main/TheBoondocks/
+    subtitles:
+      - season: 3
+        items:
+          - path: S3/TheBoondocksS03E02.srt
+            episode: 2      
+          - path: S3/TheBoondocksS03E03.srt
+            episode: 3
+          - path: S3/TheBoondocksS03E04.srt
+            episode: 4      
+          - path: S3/TheBoondocksS03E05.srt
+            episode: 5
