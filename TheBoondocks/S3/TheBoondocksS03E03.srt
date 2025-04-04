@@ -1,0 +1,2450 @@
+1
+00:00:01,478 --> 00:00:03,045
+ <i>* Soy la piedra</i>
+ <i>que el constructor rechazó *</i>
+
+2
+00:00:03,045 --> 00:00:04,511
+ <i>* Soy lo visual</i>
+ <i>la inspiración *</i>
+
+3
+00:00:04,511 --> 00:00:05,978
+ <i>* Que hizo que una dama</i>
+ <i>cantara blues *</i>
+
+4
+00:00:05,978 --> 00:00:07,878
+ <i>* Soy la chispa</i>
+ <i>que ilumina tus ideas *</i>
+
+5
+00:00:07,878 --> 00:00:09,478
+ <i>* La misma chispa</i>
+ <i>que enciende la oscuridad *</i>
+
+6
+00:00:09,478 --> 00:00:11,211
+ <i>* Para que puedas saber</i>
+ <i>la izquierda de la derecha *</i>
+
+7
+00:00:11,211 --> 00:00:13,444
+ <i>* Soy la papeleta en tu urna</i>
+ <i>la bala en el arma *</i>
+
+8
+00:00:13,444 --> 00:00:14,945
+ <i>* El brillo interno</i>
+ <i>que te permite saber *</i>
+
+9
+00:00:14,945 --> 00:00:16,177
+ <i>* Que llames sol a tu hermano *</i>
+
+10
+00:00:16,177 --> 00:00:17,478
+ <i>* La historia que apenas comienza *</i>
+
+11
+00:00:17,478 --> 00:00:18,845
+ <i>* La promesa</i>
+ <i>de lo que vendrá *</i>
+
+12
+00:00:18,845 --> 00:00:20,045
+ <i>* Y seguiré siendo un soldado *</i>
+
+13
+00:00:20,045 --> 00:00:21,978
+ <i>* Hasta que la guerra se gane</i>
+ <i>gane *</i>
+
+14
+00:00:21,978 --> 00:00:24,611
+ <i>* Chop, chop, chop</i>
+ <i>giro de judo *</i>
+
+15
+00:00:24,611 --> 00:00:27,277
+ <i>* Chop, chop, chop</i>
+ <i>giro de judo *</i>
+
+16
+00:00:27,277 --> 00:00:29,878
+ <i>* Chop, chop, chop</i>
+ <i>giro de judo *</i>
+
+17
+00:00:29,878 --> 00:00:31,244
+ <i>* Chop, chop, chop *</i>
+
+18
+00:00:33,679 --> 00:00:36,546
+HOMBRE:
+Admito que te envidio.
+
+19
+00:00:36,546 --> 00:00:41,746
+En China, si pierdes
+20 mil millones de dólares, te fusilan.
+
+20
+00:00:41,746 --> 00:00:44,980
+Aquí, te dan otros
+20 mil millones de dólares.
+
+21
+00:00:44,980 --> 00:00:46,379
+[RÍE]
+
+22
+00:00:46,379 --> 00:00:47,946
+Gracioso.
+
+23
+00:00:47,946 --> 00:00:51,145
+Nuestro equipo de kickball
+es muy formidable este año.
+
+24
+00:00:51,145 --> 00:00:53,946
+Mi nieta Ming
+es la capitana del equipo.
+
+25
+00:00:53,946 --> 00:00:56,346
+Espero que sea
+un concurso épico.
+
+26
+00:00:56,346 --> 00:00:59,513
+Sin ofender a su
+nieta, Sr. Long Do,
+
+27
+00:00:59,513 --> 00:01:02,446
+pero nuestro equipo
+se caga en su equipo.
+
+28
+00:01:02,446 --> 00:01:03,479
+[RÍE]
+
+29
+00:01:03,479 --> 00:01:06,079
+Ya veremos.
+
+30
+00:01:06,079 --> 00:01:10,246
+Odio arruinar un día tan hermoso
+con un amigo tan cercano
+
+31
+00:01:10,246 --> 00:01:13,279
+hablando de lo desagradable
+de los negocios.
+
+32
+00:01:13,279 --> 00:01:17,246
+Sin embargo, mis socios
+se están poniendo nerviosos.
+
+33
+00:01:17,246 --> 00:01:21,279
+Necesitamos nuestro dinero.
+Todo.
+
+34
+00:01:21,279 --> 00:01:22,946
+[TOSE]
+
+35
+00:01:22,946 --> 00:01:24,946
+Eso no es posible.
+
+36
+00:01:24,946 --> 00:01:26,946
+Desafortunado.
+
+37
+00:01:29,546 --> 00:01:32,579
+Ahora, Sr. Do, estoy seguro de que podemos
+encontrar otra manera
+
+38
+00:01:32,579 --> 00:01:33,613
+de solucionar esto.
+
+39
+00:01:33,613 --> 00:01:35,980
+Lo escucho.
+
+40
+00:01:35,980 --> 00:01:38,646
+Dígame, ¿cómo va su
+adicción al juego?
+
+41
+00:01:38,646 --> 00:01:40,713
+Mucho mejor.
+
+42
+00:01:40,713 --> 00:01:42,412
+Ahora.
+
+43
+00:01:42,412 --> 00:01:44,312
+Nunca más volveré a jugar
+kickball.
+
+44
+00:01:44,312 --> 00:01:45,880
+Vamos, muchacho,
+tienes que hacer esto.
+
+45
+00:01:45,880 --> 00:01:47,779
+Ed Wuncler te pidió
+por tu nombre.
+
+46
+00:01:47,779 --> 00:01:49,980
+Por su culpa dejé
+el juego en primer lugar
+
+47
+00:01:49,980 --> 00:01:52,446
+y le di a Jennifer Herman
+una cojera severa permanente.
+
+48
+00:01:52,446 --> 00:01:54,646
+Mira, nadie necesita que le recuerden
+ese trágico día
+
+49
+00:01:54,646 --> 00:01:56,746
+cuando le diste a esa chica
+una cojera severa permanente.
+
+50
+00:01:56,746 --> 00:01:58,412
+ <i>Era el Campeonato de la Liga Junior</i>
+
+51
+00:01:58,412 --> 00:02:00,980
+ <i>contra el equipo de Wuncler,</i>
+ <i>y Ed había sobornado a los árbitros.</i>
+
+52
+00:02:00,980 --> 00:02:02,746
+ <i>Y, oh, ustedes</i>
+ <i>estaban perdiendo feo.</i>
+
+53
+00:02:02,746 --> 00:02:04,045
+ <i>Era una paliza.</i>
+
+54
+00:02:04,045 --> 00:02:06,479
+Lo llamaban
+el Tiger Woods del kickball,
+
+55
+00:02:06,479 --> 00:02:07,880
+antes de lo de engañar a su esposa.
+
+56
+00:02:07,880 --> 00:02:09,312
+Ahora solo lo llaman "perdedor".
+
+57
+00:02:09,312 --> 00:02:11,112
+[TODOS ABUCHEAN]
+HOMBRE: ¡Huey, eres un asco!
+
+58
+00:02:12,513 --> 00:02:13,913
+MUJER:
+¡Eres un asco!
+
+59
+00:02:13,913 --> 00:02:15,613
+ABUELO:
+ <i>La multitud empezó a reírse,</i>
+
+60
+00:02:15,613 --> 00:02:18,079
+ <i>y todos sabemos que a ti</i>
+ <i>no te gusta que se rían de ti.</i>
+
+61
+00:02:18,079 --> 00:02:19,980
+ <i>Y te quebraste.</i>
+
+62
+00:02:19,980 --> 00:02:21,613
+ <i>Te volviste loco.</i>
+
+63
+00:02:21,613 --> 00:02:23,913
+[GRUNTIDOS]
+
+64
+00:02:23,913 --> 00:02:25,980
+ANUNCIADOR:
+Freeman le ha dado
+con el lanzamiento.
+
+65
+00:02:25,980 --> 00:02:27,246
+Oh, qué horror.
+
+66
+00:02:27,246 --> 00:02:30,946
+Y créanme, amigos,
+esto no fue un accidente.
+
+67
+00:02:30,946 --> 00:02:32,045
+Lo hizo a propósito.
+
+68
+00:02:32,045 --> 00:02:33,746
+Si esa chica sigue viva,
+
+69
+00:02:33,746 --> 00:02:36,579
+sin duda tendrá
+una cojera permanente y severa.
+
+70
+00:02:36,579 --> 00:02:37,946
+[QUEJIDO]
+
+71
+00:02:37,946 --> 00:02:39,412
+ANUNCIADOR:
+Una cosa es segura:
+
+72
+00:02:39,412 --> 00:02:41,579
+Ella nunca más
+volverá a jugar kickball.
+
+73
+00:02:41,579 --> 00:02:44,379
+Y tampoco
+debería hacerlo Huey Freeman.
+
+74
+00:02:44,379 --> 00:02:46,412
+Bueno, qué mal.
+Ed Wuncler es dueño de todo,
+
+75
+00:02:46,412 --> 00:02:48,179
+incluido el banco
+que es dueño de esta casa,
+
+76
+00:02:48,179 --> 00:02:50,179
+y acaba de recibir 20 mil millones
+de dólares en dinero de rescate.
+
+77
+00:02:50,179 --> 00:02:51,746
+Y estoy tratando
+de ser su mejor amigo.
+
+78
+00:02:51,746 --> 00:02:54,012
+Si Ed Wuncler me dice que salte,
+voy a preguntar qué tan alto,
+
+79
+00:02:54,012 --> 00:02:55,412
+y te lanzaré el trasero al aire.
+
+80
+00:02:55,412 --> 00:02:57,446
+No voy a jugar.
+
+81
+00:02:57,446 --> 00:02:58,813
+Está bien, bien.
+
+82
+00:02:58,813 --> 00:03:00,880
+Si no quieres jugar,
+no quieres jugar.
+
+83
+00:03:00,880 --> 00:03:03,346
+Ed, aquí está como prometí.
+Ahora ven aquí, muchacho.
+
+84
+00:03:03,346 --> 00:03:04,613
+[RÍE]
+
+85
+00:03:04,613 --> 00:03:06,079
+Buen trabajo, Robert.
+
+86
+00:03:06,079 --> 00:03:09,212
+Recordaré esto cuando vaya
+de compras por mi yate de Navidad.
+
+87
+00:03:09,212 --> 00:03:10,412
+ABUELO:
+¡Sí, muchacho!
+
+88
+00:03:10,412 --> 00:03:11,513
+WUNCLER:
+Ahora Huey,
+
+89
+00:03:11,513 --> 00:03:13,412
+el Torneo Armonioso de Kickball
+Junior/Senior de Wushung/Woodcrest
+
+90
+00:03:13,412 --> 00:03:15,513
+es la mayor
+competición de kickball
+
+91
+00:03:15,513 --> 00:03:18,946
+en la historia de este deporte.
+
+92
+00:03:18,946 --> 00:03:20,880
+ <i>Hace ciento veintinueve años,</i>
+
+93
+00:03:20,880 --> 00:03:24,613
+ <i>mi tatarabuelo Prescott</i>
+ <i>Rothschild Wuncler</i>
+
+94
+00:03:24,613 --> 00:03:26,679
+ <i>navegó a Wushung, China.</i>
+
+95
+00:03:26,679 --> 00:03:29,713
+ <i>Los monjes locales habían inventado</i>
+ <i>un juego similar al béisbol,</i>
+
+96
+00:03:29,713 --> 00:03:33,112
+ <i>excepto que involucraba una pelota</i>
+ <i>de goma roja y muchas patadas.</i>
+
+97
+00:03:33,112 --> 00:03:35,613
+ <i>Originalmente lo llamó</i>
+ <i>"béisbol japonés"</i>
+
+98
+00:03:35,613 --> 00:03:37,546
+ <i>porque no sabía</i>
+ <i>en qué país estaba</i>
+
+99
+00:03:37,546 --> 00:03:38,746
+ <i>y no le importaba.</i>
+
+100
+00:03:38,746 --> 00:03:40,579
+ <i>Trajo el deporte</i>
+ <i>de vuelta a Estados Unidos,</i>
+
+101
+00:03:40,579 --> 00:03:42,813
+ <i>donde las perras aguafiestas</i>
+ <i>progresistas</i>
+
+102
+00:03:42,813 --> 00:03:44,513
+ <i>lo rebautizaron como "kickball".</i>
+
+103
+00:03:44,513 --> 00:03:47,513
+ <i>Hoy, en espíritu de armonía</i>
+ <i>entre nuestras dos ciudades,</i>
+
+104
+00:03:47,513 --> 00:03:49,412
+ <i>alternamos la organización</i>
+ <i>de un torneo de kickball</i>
+
+105
+00:03:49,412 --> 00:03:52,112
+ <i>conocido como el Torneo Armonioso</i>
+ <i>de Kickball Junior/Senior de Wushung/Woodcrest.</i>
+
+106
+00:03:52,112 --> 00:03:54,646
+ <i>Torneo Armonioso</i>
+ <i>de Kickball.</i>
+
+107
+00:03:54,646 --> 00:03:56,412
+HUEY:
+No hay manera de que juegue.
+
+108
+00:03:56,412 --> 00:03:58,412
+Por tu culpa, le di una cojera
+permanente a una chica.
+
+109
+00:03:58,412 --> 00:03:59,946
+Oh, ¿en serio?
+
+110
+00:03:59,946 --> 00:04:01,246
+¿Esta niñita?
+
+111
+00:04:01,246 --> 00:04:03,179
+[PEDO]
+
+112
+00:04:03,179 --> 00:04:07,246
+Así es, Huey.
+Jennifer puede caminar perfectamente.
+
+113
+00:04:07,246 --> 00:04:08,546
+Anda, Jenny.
+
+114
+00:04:08,546 --> 00:04:11,045
+Estabas dominando toda la Liga
+Junior de Woodcrest,
+
+115
+00:04:11,045 --> 00:04:12,479
+y no podía permitirlo.
+
+116
+00:04:12,479 --> 00:04:15,312
+Me inventé la historia de la cojera
+permanente de Jennifer,
+
+117
+00:04:15,312 --> 00:04:18,179
+asumiendo correctamente que el trauma
+emocional del evento
+
+118
+00:04:18,179 --> 00:04:19,980
+te haría dejar el juego.
+
+119
+00:04:19,980 --> 00:04:23,713
+Pero ahora necesito ganar este partido
+contra los chinos.
+
+120
+00:04:23,713 --> 00:04:26,880
+¿Estabas dispuesto a marcarme
+de por vida por un juego de kickball?
+
+121
+00:04:26,880 --> 00:04:28,746
+Pero así de buen
+oponente eras.
+
+122
+00:04:28,746 --> 00:04:31,112
+Pero este juego es más grande
+que tú y yo, Huey.
+
+123
+00:04:31,112 --> 00:04:34,646
+Les presento al equipo armonioso
+de kickball de Woodcrest.
+
+124
+00:04:34,646 --> 00:04:38,212
+Primero, cortesía de Blackwater
+USA, el escuadrón senior...
+
+125
+00:04:38,212 --> 00:04:39,479
+HUEY:
+¿Mercenarios?
+
+126
+00:04:39,479 --> 00:04:42,679
+Prefieren el término
+"contratistas privados de kickball".
+
+127
+00:04:42,679 --> 00:04:44,179
+¿Y este es el escuadrón junior?
+
+128
+00:04:44,179 --> 00:04:46,746
+WUNCLER:
+Lo mejor que la República Dominicana
+tiene para ofrecer.
+
+129
+00:04:46,746 --> 00:04:50,846
+Como pueden ver, no he escatimado
+en gastos para la victoria.
+
+130
+00:04:50,846 --> 00:04:53,145
+[EQUIPO JUNIOR VITOREA]
+
+131
+00:04:57,246 --> 00:05:00,713
+Es el mejor equipo de kickball
+junior/senior jamás reunido.
+
+132
+00:05:00,713 --> 00:05:03,112
+Dime que no quieres ser parte
+de la historia del kickball.
+
+133
+00:05:03,112 --> 00:05:05,012
+No quiero ser parte
+de la historia del kickball.
+
+134
+00:05:05,012 --> 00:05:07,479
+No estoy haciendo una petición.
+Estoy preparado para chantajearte
+
+135
+00:05:07,479 --> 00:05:10,479
+con una foto tuya usando
+gafas de sol venecianas de Kanye West,
+
+136
+00:05:10,479 --> 00:05:14,012
+jeans apretados
+y zapatos de conducir Louis Vuitton.
+
+137
+00:05:14,012 --> 00:05:15,012
+Eso es photoshopeado.
+
+138
+00:05:15,012 --> 00:05:17,279
+Explícale eso a Media Takeout.
+
+139
+00:05:17,279 --> 00:05:18,379
+Me arriesgaré.
+
+140
+00:05:18,379 --> 00:05:19,546
+WUNCLER:
+Está bien, Huey.
+
+141
+00:05:19,546 --> 00:05:21,179
+No soy fan de la verdad,
+
+142
+00:05:21,179 --> 00:05:22,279
+pero aquí está:
+
+143
+00:05:22,279 --> 00:05:24,012
+Los chinos están cobrando
+algunas deudas
+
+144
+00:05:24,012 --> 00:05:26,279
+y tuve que apostar todo
+a este juego.
+
+145
+00:05:26,279 --> 00:05:29,513
+Mis bancos, tu casa,
+todo.
+
+146
+00:05:29,513 --> 00:05:31,813
+Si crees que yo soy malo,
+espera a que los chinos
+
+147
+00:05:31,813 --> 00:05:34,145
+te quiten todas las libertades
+de las que disfrutas.
+
+148
+00:05:34,145 --> 00:05:35,412
+Libertad para quejarse.
+
+149
+00:05:35,412 --> 00:05:38,379
+Libertad para tener tantos
+descendientes y rifles de asalto
+
+150
+00:05:38,379 --> 00:05:39,546
+como quieras.
+
+151
+00:05:39,546 --> 00:05:41,513
+La libertad
+de navegar por internet
+
+152
+00:05:41,513 --> 00:05:43,746
+para ver pornografía de tu elección.
+
+153
+00:05:43,746 --> 00:05:46,579
+No la porno.
+Me arriesgaré.
+
+154
+00:05:47,679 --> 00:05:49,546
+Nada de yate para ti.
+
+155
+00:05:49,546 --> 00:05:50,713
+[SUSPIRA]
+
+156
+00:05:50,713 --> 00:05:52,646
+[MIERDA]
+
+157
+00:06:03,646 --> 00:06:06,145
+Tú eres el que
+dejó el juego.
+
+158
+00:06:06,145 --> 00:06:08,946
+Debe haberme confundido
+con otra persona.
+
+159
+00:06:08,946 --> 00:06:11,346
+Eras un gran jugador.
+¿Por qué lo dejaste?
+
+160
+00:06:11,346 --> 00:06:14,446
+¿Por qué no juegas en el
+Torneo Armonioso de Kickball?
+
+161
+00:06:14,446 --> 00:06:15,713
+¿Qué te importa?
+
+162
+00:06:15,713 --> 00:06:17,079
+Me llamo Ming.
+
+163
+00:06:17,079 --> 00:06:20,012
+Soy la capitana del equipo armonioso
+de kickball junior/senior de Wushung.
+
+164
+00:06:20,012 --> 00:06:21,179
+kickball team.
+
+165
+00:06:21,179 --> 00:06:22,913
+ <i>Incluso antes de nacer,</i>
+
+166
+00:06:22,913 --> 00:06:26,813
+ <i>se decidió que sería</i>
+ <i>una jugadora de kickball campeona.</i>
+
+167
+00:06:26,813 --> 00:06:29,913
+ <i>A los 3 años me llevaron</i>
+ <i>al Centro Nacional de Entrenamiento</i>
+
+168
+00:06:29,913 --> 00:06:32,312
+ <i>de Kickball</i>
+ <i>en las afueras de Pekín.</i>
+
+169
+00:06:32,312 --> 00:06:37,446
+ <i>Entrené todos los días</i>
+ <i>y todas las noches para ser la mejor.</i>
+
+170
+00:06:37,446 --> 00:06:40,179
+ <i>Mi abuelo dice que</i>
+ <i>para controlar la pelota,</i>
+
+171
+00:06:40,179 --> 00:06:42,112
+debo controlarme a mí misma.
+
+172
+00:06:42,112 --> 00:06:45,246
+Pero solo yo y la pelota solos
+no es kickball.
+
+173
+00:06:45,246 --> 00:06:47,312
+Sin un oponente digno,
+no soy nada.
+
+174
+00:06:47,312 --> 00:06:49,045
+Debemos tener
+el último concurso
+
+175
+00:06:49,045 --> 00:06:51,980
+para decidir de una vez por todas
+quién es el mejor.
+
+176
+00:06:51,980 --> 00:06:56,079
+Como dije, me confundes
+con otra persona.
+
+177
+00:06:56,079 --> 00:06:59,579
+[MIERDA]
+
+178
+00:07:18,579 --> 00:07:19,946
+Jugaré.
+
+179
+00:07:19,946 --> 00:07:22,279
+Pero no estoy interesado
+en su último concurso.
+
+180
+00:07:22,279 --> 00:07:24,079
+Es solo un simple juego
+de kickball.
+
+181
+00:07:26,746 --> 00:07:29,446
+¿Así que decidiste venir a luchar
+por la libertad?
+
+182
+00:07:29,446 --> 00:07:31,346
+Bueno, tomaste
+la decisión correcta.
+
+183
+00:07:31,346 --> 00:07:32,646
+Muy bien, júntense.
+
+184
+00:07:32,646 --> 00:07:34,246
+Hace unos minutos,
+
+185
+00:07:34,246 --> 00:07:36,779
+en una flagrante violación
+de mis libertades civiles,
+
+186
+00:07:36,779 --> 00:07:39,946
+el INS se llevó a los cinco jugadores
+dominicanos
+
+187
+00:07:39,946 --> 00:07:42,312
+del escuadrón junior
+del equipo armonioso de Woodcrest
+
+188
+00:07:42,312 --> 00:07:43,713
+de kickball.
+
+189
+00:07:43,713 --> 00:07:47,145
+Debemos encontrar inmediatamente
+un reemplazo para estos jugadores.
+
+190
+00:07:47,145 --> 00:07:50,513
+Ahora estoy explorando la
+posibilidad de niños soldados
+
+191
+00:07:50,513 --> 00:07:53,112
+de Sierra Leona,
+pero puede que no lleguen en...
+
+192
+00:07:53,112 --> 00:07:55,412
+[HELICÓPTERO ZUMBA] ¿Eh?
+
+193
+00:07:55,412 --> 00:07:57,246
+¿Repita? Afirmativo,
+estamos en camino.
+
+194
+00:07:57,246 --> 00:07:59,412
+Vamos, chicos, esos somos nosotros.
+¡En marcha! ¡En marcha!
+
+195
+00:07:59,412 --> 00:08:02,179
+[MIERDA]
+
+196
+00:08:02,179 --> 00:08:04,112
+¿Qué está pasando?
+Lo siento, Sr. Wuncler.
+
+197
+00:08:04,112 --> 00:08:06,813
+Rescate de prisionero de guerra
+en Afganistán. ¡Esperen! ¡Esperen!
+
+198
+00:08:06,813 --> 00:08:09,212
+¡Maldita sea! Que se joda el prisionero.
+
+199
+00:08:09,212 --> 00:08:12,079
+Ustedes se quedan aquí
+y juegan al kickball.
+
+200
+00:08:13,212 --> 00:08:14,679
+[QUEJIDOS]
+
+201
+00:08:14,679 --> 00:08:16,579
+Bueno, capitán del equipo,
+
+202
+00:08:16,579 --> 00:08:19,212
+tienen dos días
+para formar un nuevo equipo.
+
+203
+00:08:19,212 --> 00:08:20,513
+¿Capitán del equipo?
+
+204
+00:08:20,513 --> 00:08:22,746
+ABUELO:
+Sí, nuevo equipo, no hay problema,
+Sr. Wuncler.
+
+205
+00:08:22,746 --> 00:08:23,779
+Nosotros nos encargamos.
+
+206
+00:08:23,779 --> 00:08:25,212
+[MIERDA]
+
+207
+00:08:29,513 --> 00:08:31,246
+¿Quién mierda eres tú?
+
+208
+00:08:31,246 --> 00:08:33,012
+Soy Jigme.
+Vengo del Tíbet.
+
+209
+00:08:33,012 --> 00:08:35,613
+Quiero derrotar a los opresores
+chinos en el kickball.
+
+210
+00:08:35,613 --> 00:08:38,312
+¿Por qué?
+Odio a los putos chinos.
+
+211
+00:08:39,479 --> 00:08:41,646
+Me gustaría hablar con usted
+en privado.
+
+212
+00:08:42,913 --> 00:08:46,045
+Este equipo es patético.
+
+213
+00:08:46,045 --> 00:08:48,446
+No tienen ninguna posibilidad
+contra los chinos.
+
+214
+00:08:48,446 --> 00:08:51,145
+Ni una puta
+oportunidad en el infierno.
+
+215
+00:08:51,145 --> 00:08:54,045
+Será una vergüenza
+que nunca, jamás superarán
+
+216
+00:08:54,045 --> 00:08:57,746
+por el resto de sus miserables
+vidas hasta que mueran.
+
+217
+00:08:57,746 --> 00:09:00,813
+¿Saben lo que una de estas pelotas
+puede hacerle a un cuerpo humano?
+
+218
+00:09:00,813 --> 00:09:03,613
+Los harán pedazos.
+Los destrozarán.
+
+219
+00:09:03,613 --> 00:09:06,913
+Algunos incluso pueden perder
+el control de sus intestinos.
+
+220
+00:09:06,913 --> 00:09:09,112
+Para el tercer inning
+estarán meándose y cagándose
+
+221
+00:09:09,112 --> 00:09:11,946
+encima justo delante
+de sus amigos y seres queridos.
+
+222
+00:09:11,946 --> 00:09:14,479
+Va a ser jodidamente
+terrible.
+
+223
+00:09:14,479 --> 00:09:16,980
+Debemos encontrar
+mejores atletas.
+
+224
+00:09:16,980 --> 00:09:19,412
+Esto es lo que hay.
+
+225
+00:09:19,412 --> 00:09:21,446
+[SUSPIRA]
+
+226
+00:09:24,980 --> 00:09:28,379
+Quiero decirles unas palabras
+a todos aquí
+
+227
+00:09:28,379 --> 00:09:30,546
+sobre la victoria.
+
+228
+00:09:30,546 --> 00:09:35,112
+Desafortunadamente, no hay
+absolutamente tiempo para entrenarlos.
+
+229
+00:09:35,112 --> 00:09:39,312
+Pero les he comprado a cada uno
+un par de zapatillas nuevas.
+
+230
+00:09:39,312 --> 00:09:40,713
+Estos zapatos fueron hechos a mano
+
+231
+00:09:40,713 --> 00:09:44,546
+con la mano de obra infantil
+de talleres clandestinos chinos más joven que pudimos encontrar.
+
+232
+00:09:44,546 --> 00:09:46,179
+Úsenlos con orgullo.
+
+233
+00:09:46,179 --> 00:09:49,012
+Voy a ser como, "Toma esto,
+bastardo rata amarilla".
+
+234
+00:09:49,012 --> 00:09:50,012
+[GRUNTIDOS]
+
+235
+00:09:50,012 --> 00:09:52,012
+¡Hijo de puta!
+
+236
+00:09:52,012 --> 00:09:55,980
+Saludos, amigos.
+Perdonen nuestra intrusión.
+
+237
+00:09:55,980 --> 00:09:59,312
+Vinimos a desearles suerte
+en el partido de mañana.
+
+238
+00:09:59,312 --> 00:10:03,179
+Espero con ansias
+un concurso inolvidable.
+
+239
+00:10:03,179 --> 00:10:04,980
+[RÍE]
+
+240
+00:10:04,980 --> 00:10:06,946
+Devuélvanles su pelota.
+
+241
+00:10:10,546 --> 00:10:11,613
+ABUELO:
+Maldita sea.
+
+242
+00:10:11,613 --> 00:10:13,980
+[CUERVOS GRAZNAN]
+
+243
+00:10:13,980 --> 00:10:16,379
+[ÁRBOL SE ESTRELLA]
+
+244
+00:10:22,746 --> 00:10:24,081
+ANUNCIADOR [EN PA]:
+ <i>Bienvenidos, aficionados al deporte,</i>
+
+245
+00:10:24,180 --> 00:10:27,180
+ <i>al 43º Torneo Armonioso de Kickball</i>
+ <i>Junior/Senior bianual de Wushung/Woodcrest.</i>
+
+246
+00:10:27,180 --> 00:10:29,513
+ <i>Torneo Armonioso de Kickball.</i>
+
+247
+00:10:29,513 --> 00:10:31,979
+ <i>Ambos equipos en el campo</i>
+ <i>y ya parece que hay</i>
+
+248
+00:10:31,979 --> 00:10:33,246
+ <i>algún tipo de problema.</i>
+
+249
+00:10:33,246 --> 00:10:35,013
+ <i>Parece que el dueño</i>
+ <i>del equipo de Wushung</i>
+
+250
+00:10:35,014 --> 00:10:36,781
+ <i>está acusando a uno de los</i>
+ <i>jugadores de Woodcrest</i>
+
+251
+00:10:36,781 --> 00:10:39,114
+ <i>de ser un suplente ilegal.</i>
+ <i>Las reglas dicen que</i>
+
+252
+00:10:39,114 --> 00:10:41,847
+ <i>cualquier jugador debe ser residente</i>
+ <i>de Wushung o Woodcrest.</i>
+
+253
+00:10:41,847 --> 00:10:44,414
+Él es absolutamente residente.
+
+254
+00:10:44,414 --> 00:10:48,880
+Aquí está su esposa caucásica buenísima
+y su bebé medio asiático.
+
+255
+00:10:48,879 --> 00:10:52,113
+ANUNCIADOR:
+ <i>Y ahora el equipo de Woodcrest</i>
+ <i>está presentando una queja.</i>
+
+256
+00:10:52,113 --> 00:10:55,413
+ <i>Parece que el equipo de Wushung</i>
+ <i>tiene demasiados miembros adultos.</i>
+
+257
+00:10:55,413 --> 00:10:57,946
+ <i>Todo el mundo sabe que las reglas</i>
+ <i>del Torneo Junior/Senior</i>
+
+258
+00:10:57,947 --> 00:10:59,847
+ <i>dicen que la lista debe tener</i>
+ <i>un número igual</i>
+
+259
+00:10:59,847 --> 00:11:01,514
+ <i>de niños y adultos.</i>
+
+260
+00:11:01,514 --> 00:11:04,748
+Dolo es fuerte y saludable
+como muchos niños en China,
+
+261
+00:11:04,747 --> 00:11:09,747
+pero les aseguro que solo tiene
+12 años.
+
+262
+00:11:09,747 --> 00:11:12,814
+Aquí está el guardián oficial
+de los registros gubernamentales
+
+263
+00:11:12,815 --> 00:11:15,847
+para verificar ese hecho.
+
+264
+00:11:15,847 --> 00:11:17,980
+ANUNCIADOR:
+ <i>¡Je! Parece que el árbitro</i>
+
+265
+00:11:17,980 --> 00:11:21,281
+ <i>va a dejarlo pasar.</i>
+ <i>Mala suerte para el equipo local.</i>
+
+266
+00:11:21,281 --> 00:11:23,314
+Jueguen kickball.
+
+267
+00:11:23,314 --> 00:11:24,548
+[MULTITUD VITOREA]
+
+268
+00:11:24,548 --> 00:11:26,214
+ANUNCIADOR:
+ <i>Huey Freeman en el montículo.</i>
+
+269
+00:11:26,214 --> 00:11:29,014
+ <i>Hay mucha emoción por el regreso</i>
+ <i>de este joven</i>
+
+270
+00:11:29,014 --> 00:11:30,648
+ <i>al deporte del kickball.</i>
+
+271
+00:11:30,648 --> 00:11:32,614
+ <i>La pequeña Ming Do</i>
+ <i>se acerca al plato.</i>
+
+272
+00:11:32,614 --> 00:11:35,348
+ <i>Qué placer ver a estos</i>
+ <i>dos titanes del juego</i>
+
+273
+00:11:35,347 --> 00:11:36,913
+ <i>enfrentarse</i>
+ <i>el uno al otro.</i>
+
+274
+00:11:36,913 --> 00:11:38,313
+¡Vamos, Huey!
+
+275
+00:11:38,313 --> 00:11:39,979
+¡Muéstrales lo que es bueno, Huey!
+
+276
+00:11:42,815 --> 00:11:45,815
+ANUNCIADOR:
+ <i>Huey parece absolutamente</i>
+ <i>decidido ahí fuera, amigos...</i>
+
+277
+00:11:45,815 --> 00:11:47,681
+ <i>¡Oh! ¡Hola! ¡Y adiós!</i>
+
+278
+00:11:47,681 --> 00:11:51,581
+ <i>Y esa se va de aquí.</i>
+ <i>No es un buen comienzo para Freeman.</i>
+
+279
+00:11:51,581 --> 00:11:52,880
+¡Eres un asco, Huey!
+
+280
+00:11:52,880 --> 00:11:54,481
+Inútil hijo de puta.
+
+281
+00:11:54,481 --> 00:11:56,181
+ANUNCIADOR:
+ <i>La siguiente pateadora es Lily Chang,</i>
+
+282
+00:11:56,181 --> 00:11:59,247
+ <i>una trabajadora agrícola jubilada</i>
+ <i>de 73 años con diabetes.</i>
+
+283
+00:11:59,247 --> 00:12:01,614
+ <i>Amigos, está experimentando</i>
+ <i>una insuficiencia renal completa.</i>
+
+284
+00:12:01,614 --> 00:12:03,181
+ <i>No ha orinado en tres años.</i>
+
+285
+00:12:03,181 --> 00:12:05,914
+ <i>Esto podría ser solo el calentamiento</i>
+ <i>que Freeman necesita.</i>
+
+286
+00:12:05,914 --> 00:12:07,414
+ <i>Y aquí viene el lanzamiento.</i>
+
+287
+00:12:10,414 --> 00:12:11,348
+[GRUNTIDOS]
+
+288
+00:12:12,514 --> 00:12:14,414
+ANUNCIADOR:
+ <i>¡Oh, madre!</i>
+
+289
+00:12:17,448 --> 00:12:18,748
+¿Qué demonios llamas a esto?
+
+290
+00:12:18,748 --> 00:12:20,947
+Lo estoy intentando, ¿de acuerdo?
+Ponte las pilas.
+
+291
+00:12:20,947 --> 00:12:22,181
+Siguiente pateador.
+
+292
+00:12:22,181 --> 00:12:23,847
+ANUNCIADOR:
+ <i>Huey no está teniendo el mejor</i>
+
+293
+00:12:23,847 --> 00:12:25,314
+ <i>día de su vida hoy aquí,</i>
+ <i>amigos.</i>
+
+294
+00:12:25,314 --> 00:12:26,914
+ <i>Veamos si no puede</i>
+ <i>recomponerse.</i>
+
+295
+00:12:26,914 --> 00:12:29,214
+¡Strike!
+ <i>Lanza uno y strike.</i>
+
+296
+00:12:29,214 --> 00:12:31,648
+ <i>Y otro strike.</i>
+
+297
+00:12:31,648 --> 00:12:34,980
+ <i>Huey Freeman está calentando</i>
+ <i>ese brazo de lanzamiento ahora,</i>
+
+298
+00:12:34,980 --> 00:12:37,681
+ <i>y eso son dos</i>
+ <i>ponches seguidos.</i>
+
+299
+00:12:37,681 --> 00:12:39,514
+[TODOS GRUÑEN]
+
+300
+00:12:41,681 --> 00:12:44,014
+ANUNCIADOR:
+ <i>Dolo se acerca al plato.</i>
+
+301
+00:12:44,014 --> 00:12:46,448
+ <i>Y hemos estado esperando este</i>
+ <i>enfrentamiento todo el día y...</i>
+
+302
+00:12:46,448 --> 00:12:47,980
+ <i>¡Oh, miren eso!</i>
+
+303
+00:12:47,980 --> 00:12:50,781
+ <i>Eso va a dejar marca...</i>
+
+304
+00:12:50,781 --> 00:12:53,014
+ <i>en sus pantalones.</i>
+¡Maldita sea!
+
+305
+00:12:53,014 --> 00:12:56,014
+Buen trabajo, muchacho. Este partido
+es más importante que tú.
+
+306
+00:12:56,014 --> 00:12:57,548
+Que alguien le traiga algo de Demerol.
+
+307
+00:12:57,548 --> 00:12:59,014
+Y asegúrense de que
+sea de la buena.
+
+308
+00:12:59,014 --> 00:13:00,947
+ANUNCIADOR:
+ <i>En la caja de pateo ahora mismo</i>
+
+309
+00:13:00,947 --> 00:13:02,715
+ <i>está Huey Freeman,</i>
+ <i>el orgullo de Woodcrest.</i>
+
+310
+00:13:02,715 --> 00:13:04,414
+¡Sí!
+
+311
+00:13:04,414 --> 00:13:06,514
+ANUNCIADOR:
+ <i>Todo el mundo está animando.</i>
+ <i>Aquí va.</i>
+
+312
+00:13:06,514 --> 00:13:08,181
+ <i>Se concentra</i>
+ <i>y la pelota está subiendo...</i>
+
+313
+00:13:08,181 --> 00:13:09,748
+ <i>Tiene un...</i>
+ <i>Un poco femenino,</i>
+
+314
+00:13:09,748 --> 00:13:10,847
+ <i>pero servirá.</i>
+
+315
+00:13:10,847 --> 00:13:12,414
+[TODOS VITOREAN]
+
+316
+00:13:12,414 --> 00:13:14,581
+ <i>El siguiente es Riley Freeman.</i>
+
+317
+00:13:14,581 --> 00:13:16,914
+Espera un min...
+Espera, ¿qué es esto?
+
+318
+00:13:16,914 --> 00:13:19,514
+ <i>Oh, vaya.</i>
+ <i>Su primera vez en el plato</i>
+
+319
+00:13:19,514 --> 00:13:21,548
+ <i>y está pidiendo un jonrón.</i>
+
+320
+00:13:21,548 --> 00:13:24,348
+ <i>Y Ming suelta</i>
+ <i>una bola de fuego.</i>
+
+321
+00:13:24,348 --> 00:13:26,181
+ <i>Riley tiene el ojo...</i>
+
+322
+00:13:27,815 --> 00:13:28,815
+¡Strike!
+
+323
+00:13:28,815 --> 00:13:30,047
+¡Segundo strike!
+
+324
+00:13:30,047 --> 00:13:31,514
+¡Tercer strike!
+
+325
+00:13:31,514 --> 00:13:32,514
+Madre mía.
+
+326
+00:13:32,514 --> 00:13:33,581
+[MULTITUD ABUCHEA]
+
+327
+00:13:36,715 --> 00:13:39,414
+ANUNCIADOR:
+ <i>Sigue Tom.</i>
+ <i>Está estirando bien.</i>
+
+328
+00:13:39,414 --> 00:13:42,081
+ <i>No esperamos mucho</i>
+ <i>de este tipo Tom, pero...</i>
+
+329
+00:13:42,081 --> 00:13:43,114
+[TODOS VITOREAN]
+
+330
+00:13:43,114 --> 00:13:44,581
+ANUNCIADOR:
+ <i>Disculpándome aquí.</i>
+
+331
+00:13:44,581 --> 00:13:47,014
+ <i>Tom realmente está devolviendo</i>
+ <i>este relevo directo a Ming.</i>
+
+332
+00:13:47,014 --> 00:13:50,014
+ <i>Ella se concentra, Tom está</i>
+ <i>en medio de la celebración.</i>
+
+333
+00:13:50,014 --> 00:13:52,081
+ <i>No puede hacer nada malo.</i>
+
+334
+00:13:52,081 --> 00:13:54,748
+ <i>Oh, parece que</i>
+ <i>se acabaron las luces para Tom.</i>
+
+335
+00:13:54,748 --> 00:13:56,348
+[MULTITUD MURMURA]
+
+336
+00:13:56,348 --> 00:13:58,247
+ <i>Amigos, Ming realmente está dando</i>
+ <i>a la multitud aquí</i>
+
+337
+00:13:58,247 --> 00:14:00,481
+ <i>una buena lección</i>
+ <i>de kickball hoy.</i>
+
+338
+00:14:01,614 --> 00:14:04,047
+ <i>El Sr. Freeman se acerca.</i>
+
+339
+00:14:04,047 --> 00:14:05,748
+ <i>Va a darlo</i>
+ <i>todo lo que tiene.</i>
+
+340
+00:14:05,748 --> 00:14:07,448
+ <i>Y lo da</i>
+ <i>todo lo que tiene,</i>
+
+341
+00:14:07,448 --> 00:14:09,481
+ <i>lo cual francamente</i>
+ <i>no es mucho.</i>
+
+342
+00:14:09,481 --> 00:14:11,114
+ <i>Bastante anémico,</i>
+
+343
+00:14:11,114 --> 00:14:13,614
+ <i>pero el Sr. Freeman va a llegar</i>
+ <i>a primera base tan pronto como pueda.</i>
+
+344
+00:14:13,614 --> 00:14:15,381
+ <i>Parece que va a dar</i>
+ <i>uno de esos</i>
+
+345
+00:14:15,381 --> 00:14:18,947
+ <i>paseos tranquilos de "viejos</i>
+ <i>caminando por el centro comercial".</i>
+
+346
+00:14:18,947 --> 00:14:21,214
+Estoy fuera. Sí, estoy fuera.
+
+347
+00:14:21,214 --> 00:14:23,114
+[MULTITUD ABUCHEA]
+
+348
+00:14:23,114 --> 00:14:24,381
+ANUNCIADOR:
+ <i>Ahí va.</i>
+
+349
+00:14:24,381 --> 00:14:26,348
+ <i>Se acabaron las luces para el viejo.</i>
+¡Estás fuera!
+
+350
+00:14:29,281 --> 00:14:32,548
+ANUNCIADOR:
+ <i>Estos tipos les están dando</i>
+ <i>a los estadounidenses una buena lección.</i>
+
+351
+00:14:32,548 --> 00:14:34,114
+ <i>Ahora tenemos un out fácil</i>
+ <i>y la pelota...</i>
+
+352
+00:14:34,114 --> 00:14:37,748
+ <i>Oh, parece que no tenemos</i>
+ <i>un out fácil.</i>
+
+353
+00:14:37,748 --> 00:14:39,247
+ <i>No sé</i>
+ <i>qué está pasando aquí,</i>
+
+354
+00:14:39,247 --> 00:14:41,147
+ <i>pero este equipo estadounidense</i>
+ <i>ha perdido las ruedas.</i>
+
+355
+00:14:41,147 --> 00:14:43,081
+ <i>Ahora tienen un hit,</i>
+ <i>tenemos un corredor,</i>
+
+356
+00:14:43,081 --> 00:14:44,815
+ <i>lo están apedreando con zapatos.</i>
+
+357
+00:14:44,815 --> 00:14:46,348
+ <i>Bonitos tenis,</i>
+ <i>por cierto.</i>
+
+358
+00:14:46,348 --> 00:14:49,181
+ <i>Probablemente hechos por pequeñas</i>
+ <i>manitas en una fábrica china.</i>
+
+359
+00:14:49,181 --> 00:14:50,914
+ <i>Ahora los chinos tienen...</i>
+
+360
+00:14:50,914 --> 00:14:52,548
+ <i>Ahora eso...</i>
+ <i>Vale, eso está mal.</i>
+
+361
+00:14:52,548 --> 00:14:54,614
+ <i>Ahora eso es tres contra uno,</i>
+ <i>y eso es horrible.</i>
+
+362
+00:14:54,614 --> 00:14:56,514
+¿Qué demonios crees
+que estás haciendo?
+
+363
+00:14:56,514 --> 00:14:58,147
+Te pagué buen dinero
+por este partido.
+
+364
+00:14:58,147 --> 00:14:59,414
+¿Sí? Él también.
+
+365
+00:15:01,014 --> 00:15:03,481
+Aceptaré el dinero chino.
+
+366
+00:15:05,081 --> 00:15:07,548
+WUNCLER:
+Escucha, no me importa que los árbitros
+estén haciendo trampa.
+
+367
+00:15:07,548 --> 00:15:10,648
+No podemos perder este partido.
+Hay demasiado en juego.
+
+368
+00:15:10,648 --> 00:15:12,781
+Bueno, ¿quién apostó todo el pueblo
+a un partido de kickball?
+
+369
+00:15:12,781 --> 00:15:14,748
+Vale, tal vez fue
+una decisión equivocada
+
+370
+00:15:14,748 --> 00:15:18,214
+apostar todos nuestros futuros
+económicos a un partido de kickball,
+
+371
+00:15:18,214 --> 00:15:19,614
+pero somos estadounidenses.
+
+372
+00:15:19,614 --> 00:15:21,648
+No nos rendimos
+solo porque estamos equivocados.
+
+373
+00:15:21,648 --> 00:15:25,047
+Simplemente seguimos haciendo lo incorrecto
+hasta que salga bien.
+
+374
+00:15:25,047 --> 00:15:26,847
+Esto es estúpido.
+Me voy a casa.
+
+375
+00:15:26,847 --> 00:15:28,548
+¿Qué pasa con ellos, Huey?
+
+376
+00:15:28,548 --> 00:15:31,481
+Tus compañeros de equipo.
+Tú los metiste en esto.
+
+377
+00:15:31,481 --> 00:15:33,348
+¿Ahora les estás dando
+la espalda?
+
+378
+00:15:33,348 --> 00:15:34,947
+Tenemos que hacer que
+los hijos de puta paguen.
+
+379
+00:15:34,947 --> 00:15:37,047
+Vamos, yo tampoco quiero
+seguir jugando,
+
+380
+00:15:37,047 --> 00:15:39,147
+pero no podemos irnos
+como un montón de nenitas.
+
+381
+00:15:39,147 --> 00:15:41,214
+¿Abuelo?
+Estoy tratando de salvar mi casa
+
+382
+00:15:41,214 --> 00:15:42,980
+y mi porno de tetas grandes.
+
+383
+00:15:42,980 --> 00:15:44,648
+Depende de ti, Huey.
+
+384
+00:15:44,648 --> 00:15:46,548
+Cuanto antes dejes
+de contenerte
+
+385
+00:15:46,548 --> 00:15:48,214
+y decidas jugar
+como un ganador,
+
+386
+00:15:48,214 --> 00:15:50,381
+antes podremos irnos todos a casa.
+
+387
+00:15:52,681 --> 00:15:54,748
+ANUNCIADOR:
+ <i>Woodcrest realmente necesita</i>
+ <i>que algo</i>
+
+388
+00:15:54,748 --> 00:15:57,014
+ <i>les suceda hoy,</i>
+ <i>porque este equipo chino</i>
+
+389
+00:15:57,014 --> 00:15:58,980
+ <i>realmente se está apoderando de su cu... ¡Oh!</i>
+
+390
+00:15:58,980 --> 00:16:00,481
+[GRUNTIDOS]
+
+391
+00:16:00,481 --> 00:16:03,181
+[MULTITUD VITOREA]
+ANUNCIADOR: <i>¡Ahora sí estamos hablando!</i>
+
+392
+00:16:03,181 --> 00:16:05,847
+ <i>Ese es el Huey Freeman del que esta</i>
+ <i>ciudad se ha enamorado</i>
+
+393
+00:16:05,847 --> 00:16:07,815
+ <i>y al que también teme un poco,</i>
+ <i>tengo que admitirlo.</i>
+
+394
+00:16:07,815 --> 00:16:11,114
+ <i>Amigos, de repente tenemos</i>
+ <i>un partido aquí.</i>
+
+395
+00:16:11,114 --> 00:16:13,147
+[MIERDA]
+
+396
+00:16:14,281 --> 00:16:15,715
+[GRUNTIDOS]
+
+397
+00:16:15,715 --> 00:16:18,247
+Amigos, estamos listos para volver
+a la acción aquí,
+
+398
+00:16:18,247 --> 00:16:20,381
+pero no hay árbitro.
+
+399
+00:16:20,381 --> 00:16:21,947
+[MULTITUD MURMURA]
+
+400
+00:16:24,514 --> 00:16:25,715
+Así que esto es todo.
+
+401
+00:16:25,715 --> 00:16:27,581
+¿Este es tu último concurso?
+
+402
+00:16:27,581 --> 00:16:29,548
+En China, existe este lugar.
+
+403
+00:16:29,548 --> 00:16:32,414
+Nunca lo he visto,
+pero sé que existe.
+
+404
+00:16:32,414 --> 00:16:35,147
+Se llama el Glorioso Centro de
+Rehabilitación Deportiva.
+
+405
+00:16:35,147 --> 00:16:37,548
+ <i>Pero en realidad es un campo de prisioneros</i>
+ <i>para atletas</i>
+
+406
+00:16:37,548 --> 00:16:39,715
+ <i>que han avergonzado a su país</i>
+ <i>al perder.</i>
+
+407
+00:16:39,715 --> 00:16:42,381
+ <i>Mi abuelo me dijo que</i>
+ <i>si lo avergonzaba con el fracaso,</i>
+
+408
+00:16:42,381 --> 00:16:43,748
+ <i>me enviaría allí.</i>
+
+409
+00:16:43,748 --> 00:16:45,081
+Yo también sueño con el día
+
+410
+00:16:45,081 --> 00:16:47,681
+en que pueda alejarme
+de este juego para siempre.
+
+411
+00:16:47,681 --> 00:16:49,548
+No tengo tanta suerte como tú
+
+412
+00:16:49,548 --> 00:16:50,847
+de tener esa opción.
+
+413
+00:16:50,847 --> 00:16:52,314
+De vivir en Estados Unidos.
+
+414
+00:16:52,314 --> 00:16:53,414
+LONG DO: ¡Ming!
+[JADEA]
+
+415
+00:16:59,781 --> 00:17:01,781
+Trágicamente,
+acabamos de recibir noticias
+
+416
+00:17:01,781 --> 00:17:03,880
+de que el árbitro se estranguló,
+
+417
+00:17:03,880 --> 00:17:07,448
+ <i>saltó de un puente</i>
+ <i>y luego tuvo una sobredosis de anfetaminas.</i>
+
+418
+00:17:07,448 --> 00:17:10,880
+Oh, envíen mis condolencias
+a su familia.
+
+419
+00:17:10,880 --> 00:17:13,381
+Pero afortunadamente,
+hemos encontrado un reemplazo
+
+420
+00:17:13,381 --> 00:17:15,214
+completamente justo e imparcial.
+
+421
+00:17:15,214 --> 00:17:16,648
+Hola, Presidente Mao.
+
+422
+00:17:16,648 --> 00:17:18,247
+[HABLANDO CHINO BURLÓN]
+
+423
+00:17:18,247 --> 00:17:21,715
+Abre los ojos y juguemos
+un poco de béisbol japonés.
+
+424
+00:17:21,715 --> 00:17:23,448
+ANUNCIADOR:
+ <i>Freeman en el montículo,</i>
+
+425
+00:17:23,448 --> 00:17:26,847
+ <i>y realmente debe estar sintiendo</i>
+ <i>la presión ahora mismo.</i>
+
+426
+00:17:29,681 --> 00:17:30,648
+[GRUNTIDOS]
+
+427
+00:17:31,980 --> 00:17:33,581
+ <i>Freeman cede una patada de base</i>
+
+428
+00:17:33,581 --> 00:17:35,581
+ <i>en lo que debería haber sido</i>
+ <i>un strike-out fácil.</i>
+
+429
+00:17:35,581 --> 00:17:36,781
+[TODOS GRUÑEN]
+
+430
+00:17:36,781 --> 00:17:39,147
+ANUNCIADOR:
+ <i>¿Qué está pasando?</i>
+
+431
+00:17:39,147 --> 00:17:42,548
+ <i>Freeman está cediendo</i>
+ <i>varias patadas de base cruciales.</i>
+
+432
+00:17:44,181 --> 00:17:46,147
+[EN CHINO]
+Oye, ¿por qué el chico
+de pelo grande
+
+433
+00:17:46,147 --> 00:17:47,715
+apesta de repente?
+
+434
+00:17:47,715 --> 00:17:49,481
+[EN CHINO]
+¡Ming le dijo que si perdemos,
+
+435
+00:17:49,481 --> 00:17:52,014
+todos vamos a un campo de prisioneros!
+
+436
+00:17:52,014 --> 00:17:53,681
+[AMBOS RÍEN]
+
+437
+00:17:53,681 --> 00:17:55,581
+¿Se creyó eso?
+Qué idiota estúpido.
+
+438
+00:17:57,147 --> 00:17:59,980
+[RISAS]
+
+439
+00:17:59,980 --> 00:18:01,748
+Qué imbécil.
+Es un capullo enorme.
+
+440
+00:18:01,748 --> 00:18:04,847
+[HABLANDO EN CHINO]
+No me gusta que se rían de mí.
+
+441
+00:18:04,847 --> 00:18:05,847
+¿Eh?
+
+442
+00:18:05,847 --> 00:18:07,681
+Oye, ¿acaba de...?
+
+443
+00:18:07,681 --> 00:18:09,648
+[MULTITUD JADEA]
+
+444
+00:18:09,648 --> 00:18:11,147
+ANUNCIADOR:
+ <i>Y una patada brutal</i>
+
+445
+00:18:11,147 --> 00:18:12,880
+ <i>elimina</i>
+ <i>al corredor de primera base.</i>
+
+446
+00:18:14,114 --> 00:18:15,581
+Ambos están fuera.
+
+447
+00:18:15,581 --> 00:18:16,914
+O como dicen en su idioma:
+
+448
+00:18:16,914 --> 00:18:18,348
+[HABLANDO CHINO BURLÓN]
+
+449
+00:18:18,348 --> 00:18:19,448
+Negro amarillo.
+
+450
+00:18:19,448 --> 00:18:22,114
+ANUNCIADOR:
+ <i>Increíble.</i>
+
+451
+00:18:22,114 --> 00:18:24,947
+ <i>Estamos viendo un tipo</i>
+ <i>de juego de kickball totalmente diferente</i>
+
+452
+00:18:24,947 --> 00:18:26,681
+ <i>aquí hoy.</i>
+
+453
+00:18:26,681 --> 00:18:29,847
+ <i>Huey con un lanzamiento</i>
+ <i>en el aire por encima, por encima y... ¡Oh!</i>
+
+454
+00:18:29,847 --> 00:18:30,947
+ <i>¡Vaya!</i>
+
+455
+00:18:30,947 --> 00:18:32,247
+[RÍE]
+
+456
+00:18:32,247 --> 00:18:33,348
+Toma tu base.
+
+457
+00:18:33,348 --> 00:18:35,947
+¿No? Bueno, descuéntale a este chino
+un día de paga
+
+458
+00:18:35,947 --> 00:18:37,448
+por dormirse en el trabajo.
+
+459
+00:18:41,181 --> 00:18:42,181
+¡Oh!
+Toma tu base.
+
+460
+00:18:42,181 --> 00:18:43,381
+ANUNCIADOR:
+ <i>Oh, Dios mío.</i>
+
+461
+00:18:43,381 --> 00:18:45,581
+ <i>Nunca había visto</i>
+ <i>movimientos como estos antes.</i>
+
+462
+00:18:45,581 --> 00:18:47,381
+[TODOS ABUCHEAN]
+
+463
+00:18:47,381 --> 00:18:48,514
+[GRUNTIDOS]
+
+464
+00:18:48,514 --> 00:18:49,980
+ANUNCIADOR:
+ <i>Esto no es kickball,</i>
+
+465
+00:18:49,980 --> 00:18:52,581
+ <i>es una pelea campal completa.</i>
+
+466
+00:18:52,581 --> 00:18:55,514
+ <i>Y ni a los entrenadores</i>
+ <i>ni al árbitro parece importarles.</i>
+
+467
+00:18:55,514 --> 00:18:56,548
+[INAUDIBLE]
+
+468
+00:18:56,548 --> 00:18:57,681
+Espera, espera.
+
+469
+00:18:57,681 --> 00:18:59,548
+Tu dinero no vale
+una mierda para mí,
+
+470
+00:18:59,548 --> 00:19:01,481
+así que no desperdicies
+tu aliento con sabor a gato.
+
+471
+00:19:01,481 --> 00:19:03,348
+Súbete a tu rickshaw
+y lárgate de aquí.
+
+472
+00:19:03,348 --> 00:19:04,481
+[MULTITUD VITOREA]
+
+473
+00:19:04,481 --> 00:19:06,081
+ANUNCIADOR:
+ <i>Entrando en el último inning</i>
+
+474
+00:19:06,081 --> 00:19:08,381
+ <i>el marcador ahora está empatado</i>
+ <i>8 a 8.</i>
+
+475
+00:19:08,381 --> 00:19:11,014
+ <i>Ambos equipos reducidos</i>
+ <i>a un solo jugador,</i>
+
+476
+00:19:11,014 --> 00:19:13,448
+ <i>y dentro de años la gente</i>
+ <i>preguntará sobre este juego,</i>
+
+477
+00:19:13,448 --> 00:19:15,147
+ <i>¿sucedió?</i>
+
+478
+00:19:15,147 --> 00:19:19,781
+ <i>Y les digo ahora,</i>
+ <i>oh, sí. Sí, sucedió.</i>
+
+479
+00:19:19,781 --> 00:19:23,047
+[MULTITUD CANTA
+"AMERICA THE BEAUTIFUL"]
+
+480
+00:19:23,047 --> 00:19:27,314
+* América, América *
+
+481
+00:19:27,314 --> 00:19:32,181
+* Dios derramó su gracia en ti *
+
+482
+00:19:32,181 --> 00:19:37,047
+* Y corona tu bondad
+con hermandad *
+
+483
+00:19:37,047 --> 00:19:42,381
+* De mar a mar brillante *
+
+484
+00:19:42,381 --> 00:19:44,481
+[MIERDA]
+
+485
+00:19:55,414 --> 00:19:57,781
+[GRITOS]
+[GRITOS]
+
+486
+00:19:59,815 --> 00:20:01,147
+[CHIRRIDOS]
+
+487
+00:20:07,815 --> 00:20:08,914
+[HUESO SE ROMPE]
+
+488
+00:20:08,914 --> 00:20:11,980
+[MULTITUD JADEA]
+
+489
+00:20:11,980 --> 00:20:13,381
+ANUNCIADOR:
+ <i>¡Espera un minuto!</i>
+
+490
+00:20:13,381 --> 00:20:15,681
+ <i>Literalmente han</i>
+ <i>destruido la pelota.</i>
+
+491
+00:20:15,681 --> 00:20:17,914
+ <i>Y esas pelotas rojas</i>
+ <i>son indestructibles.</i>
+
+492
+00:20:17,914 --> 00:20:20,014
+Espera. Espera.
+
+493
+00:20:20,014 --> 00:20:22,514
+ANUNCIADOR:
+ <i>Y miren la determinación.</i>
+
+494
+00:20:22,514 --> 00:20:24,781
+ <i>Ming intentando gatear</i>
+ <i>a primera base.</i>
+
+495
+00:20:24,781 --> 00:20:27,247
+ <i>Pero, ¿qué es esto?</i>
+[QUEJIDOS]
+
+496
+00:20:27,247 --> 00:20:28,947
+ <i>Freeman se pone de pie.</i>
+
+497
+00:20:28,947 --> 00:20:30,648
+ <i>Va a poncharla</i>
+
+498
+00:20:30,648 --> 00:20:33,681
+ <i>con los restos humeantes</i>
+ <i>de la pelota.</i>
+
+499
+00:20:33,681 --> 00:20:35,247
+[MIERDA]
+
+500
+00:20:43,781 --> 00:20:45,014
+[MING SE QUEJA]
+
+501
+00:20:45,014 --> 00:20:47,114
+Estás fuera, niña.
+
+502
+00:20:47,114 --> 00:20:49,114
+[TODOS VITOREAN]
+ANUNCIADOR: <i>¡Y Woodcrest gana!</i>
+
+503
+00:20:49,114 --> 00:20:50,314
+ <i>¡Se acabó!</i>
+
+504
+00:20:50,314 --> 00:20:52,548
+ <i>Amigos, ¡qué momento</i>
+ <i>en la historia!</i>
+
+505
+00:20:52,548 --> 00:20:54,414
+[QUEJIDOS]
+
+506
+00:20:54,414 --> 00:20:56,914
+LONG DO:
+Ming. ¿Estás bien?
+
+507
+00:21:00,448 --> 00:21:02,181
+[RADIO DE AMBULANCIA PARLOTEA]
+
+508
+00:21:04,481 --> 00:21:05,781
+[MOTOR ARRANCA]
+
+509
+00:21:05,781 --> 00:21:06,847
+[SIRENA SUENA]
+
+510
+00:21:06,847 --> 00:21:10,147
+Un trato es un trato, Long.
+
+511
+00:21:10,147 --> 00:21:13,748
+Por supuesto.
+No estoy triste por mi pérdida.
+
+512
+00:21:13,748 --> 00:21:17,548
+No quedan muchos oponentes
+dignos, mi viejo amigo.
+
+513
+00:21:17,548 --> 00:21:20,847
+¿Qué gracia tendría si el juego
+terminara para siempre?
+
+514
+00:21:23,314 --> 00:21:25,214
+Felicitaciones,
+Sr. Wuncler, señor.
+
+515
+00:21:25,214 --> 00:21:28,681
+Su gran liderazgo blanco marcó
+la diferencia en el mundo.
+
+516
+00:21:28,681 --> 00:21:30,314
+Ahora, ¿qué deberíamos hacer
+con ellos?
+
+517
+00:21:30,314 --> 00:21:32,314
+[TODOS GRUÑEN]
+RILEY: Ay, me duele el páncreas.
+
+518
+00:21:32,314 --> 00:21:35,548
+Déjenlos disfrutar del momento.
+
+519
+00:21:35,548 --> 00:21:38,014
+Vencimos a esos hijos de puta
+amarillos.
+
+520
+00:21:38,014 --> 00:21:40,614
+Misión cumplida.
+
+521
+00:21:40,614 --> 00:21:44,748
+Sí, no salimos
+como unas nenitas.
+
+522
+00:21:44,748 --> 00:21:47,815
+Aunque la gente del Tíbet
+todavía no es libre,
+
+523
+00:21:47,815 --> 00:21:50,581
+en cuanto a victorias simbólicas,
+esta no está mal.
+
+524
+00:21:50,581 --> 00:21:53,781
+RILEY:
+Creo que la Sra. Von Hausen
+podría estar muerta.
+
+525
+00:21:53,781 --> 00:21:55,414
+ABUELO:
+¡Whoo! Vámonos a casa
+
+526
+00:21:55,414 --> 00:21:57,114
+y pidamos algo de comida china.
+[HUEY SUSPIRA]
+
+527
+00:21:57,114 --> 00:21:59,448
+ABUELO:
+A menos que no tengas ganas
+de comida china.
+
+528
+00:21:59,448 --> 00:22:02,381
+[MIERDA]

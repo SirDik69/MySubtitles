@@ -1,0 +1,2883 @@
+1
+00:00:01,507 --> 00:00:03,074
+ <i>* Soy la piedra</i>
+ <i>que el constructor rechazó *</i>
+
+2
+00:00:03,074 --> 00:00:04,540
+ <i>* Soy lo visual</i>
+ <i>La inspiración *</i>
+
+3
+00:00:04,540 --> 00:00:06,007
+ <i>* Que hizo que la dama</i>
+ <i>Cantara blues *</i>
+
+4
+00:00:06,007 --> 00:00:07,907
+ <i>* Soy la chispa</i>
+ <i>Que ilumina tu idea *</i>
+
+5
+00:00:07,907 --> 00:00:09,507
+ <i>* La misma chispa</i>
+ <i>Que enciende la oscuridad *</i>
+
+6
+00:00:09,507 --> 00:00:11,240
+ <i>* Para que puedas saber</i>
+ <i>Distinguir la izquierda de la derecha *</i>
+
+7
+00:00:11,240 --> 00:00:13,473
+ <i>* Soy la papeleta en tu urna</i>
+ <i>La bala en el arma *</i>
+
+8
+00:00:13,473 --> 00:00:14,974
+ <i>* El brillo interior</i>
+ <i>Que te permite saber *</i>
+
+9
+00:00:14,974 --> 00:00:16,206
+ <i>* Llamar sol a tu hermano *</i>
+
+10
+00:00:16,206 --> 00:00:17,507
+ <i>* La historia que recién comienza *</i>
+
+11
+00:00:17,507 --> 00:00:18,874
+ <i>* La promesa</i>
+ <i>De lo que vendrá *</i>
+
+12
+00:00:18,874 --> 00:00:20,074
+ <i>* Y seguiré siendo un soldado *</i>
+
+13
+00:00:20,074 --> 00:00:22,007
+ <i>* Hasta que la guerra se gane</i>
+ <i>Gane *</i>
+
+14
+00:00:22,007 --> 00:00:24,640
+ <i>* Chop, chop, chop</i>
+ <i>Llave de judo *</i>
+
+15
+00:00:24,640 --> 00:00:27,306
+ <i>* Chop, chop, chop</i>
+ <i>Llave de judo *</i>
+
+16
+00:00:27,306 --> 00:00:29,107
+ <i>* Chop, chop, chop</i>
+ <i>Llave de judo *</i>
+
+17
+00:00:29,107 --> 00:00:31,206
+ <i>* Chop, chop, chop *</i>
+
+18
+00:00:33,495 --> 00:00:36,461
+[ALARMA SONANDO]
+
+19
+00:00:36,461 --> 00:00:37,762
+[RONQUIDOS]
+
+20
+00:00:37,762 --> 00:00:38,962
+Oh.
+
+21
+00:00:38,962 --> 00:00:40,862
+Mis gafas.
+
+22
+00:00:40,862 --> 00:00:41,895
+¡Oye!
+
+23
+00:00:41,895 --> 00:00:42,895
+¡Dorothy!
+
+24
+00:00:42,895 --> 00:00:43,995
+¡Ya voy, cariño!
+
+25
+00:00:43,995 --> 00:00:45,062
+¡Ya voy!
+
+26
+00:00:45,062 --> 00:00:47,129
+[JADEANDO]
+
+27
+00:00:47,129 --> 00:00:48,495
+¡No te llevarás a Dorothy!
+
+28
+00:00:48,495 --> 00:00:50,528
+¡Debiste haber pagado
+la cuota del coche, imbécil!
+
+29
+00:00:50,528 --> 00:00:53,428
+¡Ese coche está pagado
+desde 1975!
+
+30
+00:00:53,428 --> 00:00:55,695
+E-Es-Espere, espere.
+¿Es este el 324 de Timid Deer Lane?
+
+31
+00:00:55,695 --> 00:00:57,662
+¡Claro que no!
+¡Este es el 327!
+
+32
+00:00:57,662 --> 00:00:59,328
+¡Ese es el 324!
+
+33
+00:00:59,328 --> 00:01:01,828
+ <i>* Demasiados coches</i>
+ <i>En mi entrada *</i>
+
+34
+00:01:01,828 --> 00:01:03,828
+[Bosteza]
+
+35
+00:01:05,161 --> 00:01:06,161
+¿Huh?
+
+36
+00:01:06,161 --> 00:01:07,261
+ <i>* En mi entrada *</i>
+
+37
+00:01:07,261 --> 00:01:09,261
+ <i>* Tengo barcos</i>
+ <i>Tengo aviones *</i>
+
+38
+00:01:09,261 --> 00:01:11,261
+[MÚSICA RAP SONANDO A LA DISTANCIA]
+
+39
+00:01:12,428 --> 00:01:14,095
+[TIMBRE DE PUERTA]
+
+40
+00:01:14,095 --> 00:01:15,662
+¡Maldita sea! ¿Ahora qué?
+
+41
+00:01:16,862 --> 00:01:18,194
+[SUSPIRA]
+
+42
+00:01:18,194 --> 00:01:19,895
+¡Ja, ja! ¿Qué pasa, hombrecito?
+¿Qué pasa?
+
+43
+00:01:19,895 --> 00:01:21,595
+¿Trajiste el mando extra?
+Sí.
+
+44
+00:01:21,595 --> 00:01:23,662
+Eso es todo.
+Pasa, negro.
+
+45
+00:01:24,962 --> 00:01:27,161
+Oye, hombre, discúlpate
+con tu abuelo de mi parte
+
+46
+00:01:27,161 --> 00:01:28,528
+por la confusión de antes.
+
+47
+00:01:28,528 --> 00:01:30,928
+De todos modos, estaba esperando
+deshacerme de esa mierda de coche.
+
+48
+00:01:30,928 --> 00:01:32,662
+Sabes,
+porque los llamé, ¿verdad?
+
+49
+00:01:32,662 --> 00:01:35,228
+Yo estaba como: "Tienen que sacar
+a ese hijo de puta de aquí,
+
+50
+00:01:35,228 --> 00:01:36,695
+porque ya no lo quiero".
+
+51
+00:01:36,695 --> 00:01:38,294
+Estoy a punto de pillar lo nuevo,
+negro.
+
+52
+00:01:38,294 --> 00:01:41,361
+¿Sabes lo que digo?
+Oh, vale.
+
+53
+00:01:41,361 --> 00:01:42,728
+¿Entonces todo está bien?
+¿Bien?
+
+54
+00:01:42,728 --> 00:01:45,294
+¡Todo está mejor
+que bien, es Thugnificent!
+
+55
+00:01:45,294 --> 00:01:47,428
+Solo espera a ver
+los movimientos que está haciendo tu chico.
+
+56
+00:01:47,428 --> 00:01:49,995
+¿Sabes lo que digo? La Reserva
+Federal me llama para préstamos,
+
+57
+00:01:49,995 --> 00:01:51,628
+¿Obama y mierda?
+¿Sabes lo que digo?
+
+58
+00:01:51,628 --> 00:01:52,928
+Negro, ¿necesitas dinero?
+
+59
+00:01:52,928 --> 00:01:54,662
+Hombre, ¿quién coño me está
+llamando...?
+
+60
+00:01:54,662 --> 00:01:56,795
+Ja.
+Warren Jodido Buffett.
+
+61
+00:01:56,795 --> 00:01:58,328
+¿Qué pasa, negro?
+Oh, negro,
+
+62
+00:01:58,328 --> 00:02:00,662
+deja de andarte por las ramas.
+¿Cuánto necesitas?
+
+63
+00:02:00,662 --> 00:02:01,795
+¿Dos mil millones?
+
+64
+00:02:01,795 --> 00:02:02,895
+Te daré ocho.
+
+65
+00:02:02,895 --> 00:02:04,695
+Y no me lo devuelvas,
+negro, todo bien.
+
+66
+00:02:04,695 --> 00:02:07,795
+De acuerdo, mi negro.
+
+67
+00:02:07,795 --> 00:02:10,095
+Eh, vamos a encender
+la consola.
+
+68
+00:02:10,095 --> 00:02:12,862
+RILEY:
+¡Oh, yo! ¡Es el sargento Gutta!
+
+69
+00:02:12,862 --> 00:02:14,361
+¡Súbelo, hombre!
+¡Súbelo!
+
+70
+00:02:14,361 --> 00:02:16,828
+THUGNIFICENT:
+Oh, hombre,
+no este hijo de puta otra vez.
+
+71
+00:02:16,828 --> 00:02:18,662
+Juro por Dios, cada vez
+que enciendo la televisión,
+
+72
+00:02:18,662 --> 00:02:20,129
+veo a este negro.
+
+73
+00:02:20,129 --> 00:02:21,962
+ <i>* Dale, dale</i>
+ <i>Dale alcachofa *</i>
+
+74
+00:02:21,962 --> 00:02:23,461
+ <i>* Sargento Gutta</i>
+ <i>Haz ese baile *</i>
+
+75
+00:02:23,461 --> 00:02:24,962
+ <i>* Mírame, mírame *</i>
+¿Esto es todo?
+
+76
+00:02:24,962 --> 00:02:26,461
+¿Esto es lo que les gusta a los niños?
+
+77
+00:02:26,461 --> 00:02:28,129
+¿Esto es lo que está de moda
+en las calles, Riley?
+
+78
+00:02:28,129 --> 00:02:30,361
+Bueno, ha vendido más de
+un millón de discos
+
+79
+00:02:30,361 --> 00:02:32,695
+y tiene la canción número uno
+del país
+
+80
+00:02:32,695 --> 00:02:33,828
+y tiene un baile.
+
+81
+00:02:33,828 --> 00:02:34,828
+ <i>* Dale alcachofa *</i>
+
+82
+00:02:34,828 --> 00:02:36,194
+¿Es eso lo que se necesita
+para que un negro
+
+83
+00:02:36,194 --> 00:02:38,228
+sea platino hoy en día,
+un baile?
+
+84
+00:02:38,228 --> 00:02:40,862
+Hombre, cualquiera puede inventar
+un baile.
+
+85
+00:02:40,862 --> 00:02:42,361
+ <i>* Dale, dale</i>
+ <i>Dale alcachofa *</i>
+
+86
+00:02:42,361 --> 00:02:43,695
+[Risas]
+
+87
+00:02:43,695 --> 00:02:45,294
+Hombre, pareces loco.
+
+88
+00:02:45,294 --> 00:02:47,029
+No tienes que inventar
+ningún baile
+
+89
+00:02:47,029 --> 00:02:48,528
+solo porque él tenga uno.
+
+90
+00:02:48,528 --> 00:02:52,029
+Aunque no voy a mentir,
+me mola un poco.
+
+91
+00:02:52,029 --> 00:02:54,361
+Quiero decir, pero lo tuyo
+también es bueno.
+
+92
+00:02:54,361 --> 00:02:56,161
+Oye, solo espera
+a que salga mi nuevo álbum.
+
+93
+00:02:56,161 --> 00:02:59,194
+Todos ustedes, negros, van a ver
+que todavía tengo el control del juego.
+
+94
+00:02:59,194 --> 00:03:01,361
+Oye, ¿quieres escuchar
+algunas pistas?
+
+95
+00:03:01,361 --> 00:03:04,495
+[MÚSICA HIP-HOP LENTA SONANDO]
+
+96
+00:03:04,495 --> 00:03:06,728
+[VOCES CON AUTO-TUNE]
+ <i>* Soy un matón magnífico *</i>
+
+97
+00:03:06,728 --> 00:03:07,962
+ <i>* Soy Thugnificent *</i>
+
+98
+00:03:07,962 --> 00:03:12,194
+Vaya. Así que estás usando
+el efecto de robot en tu voz.
+
+99
+00:03:12,194 --> 00:03:14,161
+Sí, es ese
+Auto-Tuner, hijo.
+
+100
+00:03:14,161 --> 00:03:17,029
+Te permite cantar,
+incluso si no sabes cantar.
+
+101
+00:03:17,029 --> 00:03:19,528
+[VOCES CON AUTO-TUNE]
+ <i>* Es terrible</i>
+ <i>En Terrabelle *</i>
+
+102
+00:03:19,528 --> 00:03:21,228
+ <i>* De ahí vengo</i>
+ <i>Es terrible *</i>
+
+103
+00:03:21,228 --> 00:03:24,461
+Vaya. Así que también lo usaste
+en esta.
+
+104
+00:03:24,461 --> 00:03:26,695
+Sí. Cada canción
+de todo el CD.
+
+105
+00:03:26,695 --> 00:03:27,828
+Genial, ¿verdad?
+
+106
+00:03:27,828 --> 00:03:30,795
+Je, sí.
+
+107
+00:03:30,795 --> 00:03:33,895
+RILEY:
+Pensé que Flonominal
+volvería esta semana.
+
+108
+00:03:33,895 --> 00:03:35,728
+THUGNIFICENT:
+Hombre, ese negro, hombre.
+
+109
+00:03:35,728 --> 00:03:37,095
+¿Sabes que fue a buscar trabajo?
+
+110
+00:03:37,095 --> 00:03:38,428
+¿Un qué?
+Lo sé, negro.
+
+111
+00:03:38,428 --> 00:03:40,495
+Eso es lo que dije. ¿Un trabajo?
+¿Puedes creerlo?
+
+112
+00:03:40,495 --> 00:03:42,695
+Diciendo que necesita
+seguro médico y mierda.
+
+113
+00:03:42,695 --> 00:03:44,695
+Yo le digo: "Maldita sea, negro,
+bájate la falda".
+
+114
+00:03:44,695 --> 00:03:46,795
+¿Sabes lo que digo?
+Sácate la polla del culo.
+
+115
+00:03:46,795 --> 00:03:48,395
+Actuando como
+unas maricas, hombre.
+
+116
+00:03:48,395 --> 00:03:50,862
+Y ese negro Macktastic,
+volvió a ser proxeneta y mierda.
+
+117
+00:03:50,862 --> 00:03:52,628
+Es gracioso cómo los negros
+cambian contigo, hombre,
+
+118
+00:03:52,628 --> 00:03:54,895
+¿sabes lo que digo?
+¿Así que estás aquí solo?
+
+119
+00:03:54,895 --> 00:03:56,728
+Sí, solo yo.
+
+120
+00:03:56,728 --> 00:03:58,194
+Oigan, ¿qué pasa?
+
+121
+00:03:58,194 --> 00:04:01,161
+Acabo de volver del trabajo.
+Oigan, ¿tienen hambre?
+
+122
+00:04:01,161 --> 00:04:02,995
+Oh, y Leonard.
+
+123
+00:04:02,995 --> 00:04:04,895
+¡Oh, hombre!
+
+124
+00:04:04,895 --> 00:04:07,095
+¡Mi Frosty se ha derretido!
+¡Maldita sea, Leonard!
+
+125
+00:04:07,095 --> 00:04:09,561
+¿Qué carajo, negro, volviste
+a tomar el camino largo a casa?
+
+126
+00:04:09,561 --> 00:04:12,328
+Lo siento, tardé más
+porque tuve que venir en bici
+
+127
+00:04:12,328 --> 00:04:14,862
+ya que se habían llevado el coche...
+Eh, no importa, hombre, a la mierda.
+
+128
+00:04:14,862 --> 00:04:17,228
+LEONARD:
+¿Debería contarte
+lo que le pasó al coche?
+
+129
+00:04:17,228 --> 00:04:18,728
+THUGNIFICENT:
+¡Dije que no importa!
+
+130
+00:04:18,728 --> 00:04:20,762
+HOMBRE:
+Vale, volvemos.
+
+131
+00:04:20,762 --> 00:04:23,495
+Esto es DJ Vlad
+y les dije que tenemos un invitado
+
+132
+00:04:23,495 --> 00:04:25,528
+muy, muy especial
+en el estudio esta mañana.
+
+133
+00:04:25,528 --> 00:04:27,328
+Este hombre de aquí
+es una leyenda en el juego.
+
+134
+00:04:27,328 --> 00:04:28,928
+Un pionero, si se quiere.
+
+135
+00:04:28,928 --> 00:04:31,194
+¡Denle respeto, Thugnificent!
+
+136
+00:04:31,194 --> 00:04:33,962
+¿Qué pasa, a todos?
+Hombre, qué honor.
+
+137
+00:04:33,962 --> 00:04:35,161
+¿Cómo estás, hombre?
+¿Quién, yo?
+
+138
+00:04:35,161 --> 00:04:37,361
+Je, oh, ya sabes,
+¡soy Thugnificent!
+
+139
+00:04:37,361 --> 00:04:38,595
+[RÍE]
+
+140
+00:04:38,595 --> 00:04:40,595
+¿Cómo es para ustedes, los veteranos,
+estar ahora en el juego
+
+141
+00:04:40,595 --> 00:04:42,695
+en términos de, ya sabes,
+dónde encajan musicalmente?
+
+142
+00:04:42,695 --> 00:04:44,194
+Quiero decir, ¿cómo fue,
+ya sabes,
+
+143
+00:04:44,194 --> 00:04:45,862
+cuando estabas en tu apogeo,
+por así decirlo?
+
+144
+00:04:45,862 --> 00:04:47,762
+Que fue hace mucho tiempo.
+Digo, quiero decir,
+
+145
+00:04:47,762 --> 00:04:50,662
+mi primer tema salió hace, como,
+cuatro años. ¿Lo sabes?
+
+146
+00:04:50,662 --> 00:04:53,029
+Lo sé, parece que 40,
+¿verdad?
+
+147
+00:04:53,029 --> 00:04:55,328
+Ahora, el nuevo CD sale
+la semana que viene, ¿verdad?
+
+148
+00:04:55,328 --> 00:04:57,228
+Sin duda, sin duda.
+El CD es una locura.
+
+149
+00:04:57,228 --> 00:05:00,294
+Está que arde. Tiene
+algo para todos.
+
+150
+00:05:00,294 --> 00:05:03,528
+Tiene temas para la calle,
+tiene temas para las damas,
+
+151
+00:05:03,528 --> 00:05:06,095
+tiene temas para las damas
+en las calles.
+
+152
+00:05:06,095 --> 00:05:08,228
+El CD se llama,
+ <i>Más Putas, Más Problemas,</i>
+
+153
+00:05:08,228 --> 00:05:09,928
+¿sabes lo que digo?,
+así que vayan a comprarlo.
+
+154
+00:05:09,928 --> 00:05:11,895
+Un saludo a B.I.G.
+Hip-hop real, ¿me entienden?
+
+155
+00:05:11,895 --> 00:05:14,561
+¿B.I.G.? Uf,
+hablando de la vieja escuela.
+
+156
+00:05:14,561 --> 00:05:16,328
+Bien, entonces, Thugnificent,
+
+157
+00:05:16,328 --> 00:05:17,928
+¿a quién sientes
+en el juego ahora mismo?
+
+158
+00:05:17,928 --> 00:05:19,828
+¿Qué estás poniendo
+en tu coche ahora mismo?
+
+159
+00:05:19,828 --> 00:05:21,795
+Vale, vale. Ya sabes,
+definitivamente siento
+
+160
+00:05:21,795 --> 00:05:23,095
+a muchos negros ahora mismo.
+
+161
+00:05:23,095 --> 00:05:25,228
+Siento a mi hermano,
+eh, Young Cow Tipper,
+
+162
+00:05:25,228 --> 00:05:26,662
+Joc Daddy Pimp, Lil' Hob Nobba,
+
+163
+00:05:26,662 --> 00:05:28,161
+Goo Goo da Bone Mouf.
+Little Rich.
+
+164
+00:05:28,161 --> 00:05:30,528
+Ezbot y Rose, siento
+a Willie Whistle Work C, eh,
+
+165
+00:05:30,528 --> 00:05:31,995
+a mi hermano,
+Trick Money Smitty.
+
+166
+00:05:31,995 --> 00:05:33,561
+Lil Phanta,
+poniendo de su parte.
+
+167
+00:05:33,561 --> 00:05:34,762
+Estén atentos a su mixtape.
+
+168
+00:05:34,762 --> 00:05:36,695
+Pew Boi Pimp,
+Nasty Murda Trae, Epis Green,
+
+169
+00:05:36,695 --> 00:05:38,261
+Lil' Big Dolla,
+Snowbunny Sampson.
+
+170
+00:05:38,261 --> 00:05:39,928
+Eh, siento
+a muchos negros ahora mismo.
+
+171
+00:05:39,928 --> 00:05:41,294
+Mucha gente haciendo lo suyo.
+
+172
+00:05:41,294 --> 00:05:43,695
+Ja, ja. ¿Y qué pasa con
+el sargento Gutta?
+
+173
+00:05:43,695 --> 00:05:46,361
+THUGNIFICENT:
+Hombre...
+
+174
+00:05:46,361 --> 00:05:47,628
+¡Que se joda el sargento Gutta!
+
+175
+00:05:47,628 --> 00:05:48,828
+¡Que ese negro coma polla!
+
+176
+00:05:48,828 --> 00:05:51,029
+[TODOS RÍEN]
+
+177
+00:05:51,029 --> 00:05:53,194
+¡Un momento, un momento, todos
+cállense, cállense!
+
+178
+00:05:53,194 --> 00:05:55,595
+Vaya. Solo quiero asegurarme
+de que te he oído bien.
+
+179
+00:05:55,595 --> 00:05:56,862
+¡Dije que se joda ese negro!
+
+180
+00:05:56,862 --> 00:05:58,862
+No soy... No soy realmente
+el tipo de negro que está,
+
+181
+00:05:58,862 --> 00:06:00,828
+ya sabes, todo el tiempo en la radio,
+abriendo la boca,
+
+182
+00:06:00,828 --> 00:06:03,294
+empezando movidas y todo eso,
+¿sabes lo que digo?
+
+183
+00:06:03,294 --> 00:06:05,928
+Pero solo digo, ¡esa mierda
+suena a pura mierda!
+
+184
+00:06:05,928 --> 00:06:07,361
+Y ese baile de retrasado, hombre.
+
+185
+00:06:07,361 --> 00:06:09,995
+Ves, eso es lo que pasa
+cuando dejas que raperos de 13 años.
+
+186
+00:06:09,995 --> 00:06:11,695
+¿Cuántos... cuántos años...
+cuántos años tiene ese negro?
+
+187
+00:06:11,695 --> 00:06:13,062
+Ese negro tiene 15 años, tío.
+
+188
+00:06:13,062 --> 00:06:15,029
+Yo, bueno, suena como
+si tuviera 15 meses.
+
+189
+00:06:15,029 --> 00:06:17,762
+Ese negro suena como si tuviera
+un pezón en la boca.
+
+190
+00:06:17,762 --> 00:06:19,328
+Oye, sargento Gutta,
+tengo una idea.
+
+191
+00:06:19,328 --> 00:06:21,595
+¿Por qué no te sacas
+la jodida teta de tu mamá
+
+192
+00:06:21,595 --> 00:06:23,728
+de la boca
+para que puedas rapear, negro?
+
+193
+00:06:23,728 --> 00:06:25,728
+[TODOS RÍEN]
+
+194
+00:06:25,728 --> 00:06:27,261
+[***]
+
+195
+00:06:27,261 --> 00:06:30,328
+RILEY:
+ <i>El CD de Thugnificent salió</i>
+ <i>la semana siguiente.</i>
+
+196
+00:06:30,328 --> 00:06:33,228
+ <i>SoundScan dice</i>
+ <i>que no ha vendido nada.</i>
+
+197
+00:06:33,228 --> 00:06:36,161
+ <i>Thugnificent</i>
+ <i>estaba hecho polvo.</i>
+
+198
+00:06:36,161 --> 00:06:38,095
+[LLORANDO]
+
+199
+00:06:43,662 --> 00:06:46,228
+ <i>Yo, soy Thugnificent.</i>
+ <i>Sabes qué, de hecho,</i>
+
+200
+00:06:46,228 --> 00:06:47,828
+ <i>no soy Thugnificent.</i>
+ <i>¿Sabes por qué?</i>
+
+201
+00:06:47,828 --> 00:06:50,095
+ <i>Porque no me siento</i>
+ <i>muy Thugnificent ahora mismo.</i>
+
+202
+00:06:50,095 --> 00:06:52,495
+Este es Otis. Así es,
+todos ustedes, negros, están recibiendo
+
+203
+00:06:52,495 --> 00:06:54,294
+el nombre del gobierno.
+Soy Otis Jenkins.
+
+204
+00:06:54,294 --> 00:06:55,928
+Y tengo que hablarles
+a todos rápidamente
+
+205
+00:06:55,928 --> 00:06:58,228
+sobre por qué no están saliendo
+a apoyar a su chico.
+
+206
+00:06:58,228 --> 00:06:59,895
+No están apoyando
+a Thugnificent
+
+207
+00:06:59,895 --> 00:07:01,395
+y creo
+que eso es muy jodido.
+
+208
+00:07:01,395 --> 00:07:02,762
+Todos ustedes, negros,
+coman polla.
+
+209
+00:07:02,762 --> 00:07:04,728
+Todos ustedes, hijos de puta,
+en mi lista de amigos.
+
+210
+00:07:04,728 --> 00:07:07,029
+Estoy hablando de los negros
+de Facebook y también de MySpace.
+
+211
+00:07:07,029 --> 00:07:09,395
+Si no van a comprar el CD,
+no me hablen en línea,
+
+212
+00:07:09,395 --> 00:07:11,561
+ni solicitudes de amistad, nada.
+Todos ustedes me envían
+
+213
+00:07:11,561 --> 00:07:12,695
+estúpidos mensajes de mierda todo el día,
+
+214
+00:07:12,695 --> 00:07:14,062
+¿pero no van a pagar por mi maldita canción?
+
+215
+00:07:14,062 --> 00:07:16,662
+Los odio a todos, negros, hombre.
+"Oye, oye, Thugnificent,
+
+216
+00:07:16,662 --> 00:07:18,261
+"¿Es 'nalgas de trasero'
+
+217
+00:07:18,261 --> 00:07:19,762
+o es
+'mueve esas nalgas'?"
+
+218
+00:07:19,762 --> 00:07:22,395
+Negro, ¿a quién le importa?
+¡Es una canción sobre nalgas!
+
+219
+00:07:22,395 --> 00:07:24,728
+THUGNIFICENT:
+Bueno, ¿por qué no estoy
+teniendo rotación en la radio?
+
+220
+00:07:24,728 --> 00:07:27,294
+No, no, no, es tu trabajo
+asegurarte de que se reproduzca
+
+221
+00:07:27,294 --> 00:07:30,294
+en la radio, no...
+¿Qué dices? ¿Quieres despedirme?
+
+222
+00:07:30,294 --> 00:07:32,795
+¿Quieres despedir a Thugnifi...?
+¿Hola?
+
+223
+00:07:34,428 --> 00:07:38,995
+¡Maldita sea, maldita sea, maldita sea!
+
+224
+00:07:38,995 --> 00:07:40,728
+¿Todo bien?
+
+225
+00:07:40,728 --> 00:07:42,762
+¿Huh? Oh, oh, sí, sí,
+hombrecito.
+
+226
+00:07:42,762 --> 00:07:45,595
+Todo está bien. Eh, solo es hora
+de hacer movimientos más grandes.
+
+227
+00:07:45,595 --> 00:07:47,294
+¿Sabes lo que digo?
+Eso es todo.
+
+228
+00:07:47,294 --> 00:07:48,294
+[PUERTA SE ABRE]
+
+229
+00:07:48,294 --> 00:07:50,595
+Oigan, ¿qué pasa?
+
+230
+00:07:50,595 --> 00:07:51,762
+[TARAREANDO]
+
+231
+00:07:51,762 --> 00:07:53,395
+Oye, hombre.
+Tengo una sorpresa para ti.
+
+232
+00:07:53,395 --> 00:07:55,294
+He visto ese video
+que pusiste en tu MySpace.
+
+233
+00:07:55,294 --> 00:07:58,161
+Ya sabes, cómo no te están
+comprando tu CD y esas cosas, ¿verdad?
+
+234
+00:07:58,161 --> 00:08:00,695
+Bueno, aquí tienes.
+Los compré hoy después del trabajo.
+
+235
+00:08:00,695 --> 00:08:03,062
+Gasté todo mi cheque,
+pero quiero que sepas
+
+236
+00:08:03,062 --> 00:08:04,361
+que te apoyo, hombre.
+
+237
+00:08:04,361 --> 00:08:06,428
+Mira, eso... ¡Míralos!
+¿Para qué coño necesito
+
+238
+00:08:06,428 --> 00:08:09,095
+varias copias
+de mi propio CD, Leonard?
+
+239
+00:08:09,095 --> 00:08:11,294
+Vamos, hombre,
+no podemos permitirnos que tú
+
+240
+00:08:11,294 --> 00:08:12,662
+solo estés tirando el dinero.
+
+241
+00:08:12,662 --> 00:08:13,795
+No lo tiré.
+
+242
+00:08:13,795 --> 00:08:15,528
+Yo-Yo compré los...
+Tú no...
+
+243
+00:08:15,528 --> 00:08:16,695
+Y eso me recuerda, hombre.
+
+244
+00:08:16,695 --> 00:08:17,962
+No sé qué vamos a hacer,
+
+245
+00:08:17,962 --> 00:08:19,728
+pero no creo
+que pueda seguir manteniéndonos
+
+246
+00:08:19,728 --> 00:08:21,895
+con mis cheques de Wendy's.
+Oh, aquí vamos.
+
+247
+00:08:21,895 --> 00:08:23,561
+¿Qué estás tratando de decir,
+Leonard? ¿Huh?
+
+248
+00:08:23,561 --> 00:08:24,962
+¿Cuánto tiempo te he mantenido, negro?
+
+249
+00:08:24,962 --> 00:08:27,095
+¿Cuánto tiempo he pagado las facturas
+en esta casa de mierda
+
+250
+00:08:27,095 --> 00:08:28,928
+en la que estás viviendo?
+¿Ves cómo los negros olvidan?
+
+251
+00:08:28,928 --> 00:08:30,828
+¿Lo ves? ¿Ves
+cómo los negros olvidan?
+
+252
+00:08:30,828 --> 00:08:33,029
+No, no, Thugnificent,
+es que solo gano, como,
+
+253
+00:08:33,029 --> 00:08:35,828
+7,50 la hora y la hipoteca
+de este lugar es, como,
+
+254
+00:08:35,828 --> 00:08:37,561
+12.000 al mes.
+
+255
+00:08:37,561 --> 00:08:39,895
+Así que hice los cálculos
+y eso significa que tendría que trabajar,
+
+256
+00:08:39,895 --> 00:08:42,129
+como, 82 horas al día.
+Así que fui,
+
+257
+00:08:42,129 --> 00:08:44,194
+le pedí al gerente
+algunas horas extra y me dijo:
+
+258
+00:08:44,194 --> 00:08:47,261
+[CON VOZ GRAVE]
+"No podía hacerlo porque va
+en contra de la política de la empresa.
+
+259
+00:08:47,261 --> 00:08:49,228
+"Acabas de empezar aquí.
+¿Quién te crees que eres?
+
+260
+00:08:49,228 --> 00:08:50,828
+"Ten suerte con las horas
+que te dan.
+
+261
+00:08:50,828 --> 00:08:52,995
+"Cindy está embarazada
+y tiene que trabajar".
+
+262
+00:08:52,995 --> 00:08:56,062
+[CON VOZ NORMAL]
+Yo estaba como, "pero Cindy..."
+Pensé que tal vez podría trabajar
+
+263
+00:08:56,062 --> 00:08:57,628
+en dos trabajos al mismo tiempo.
+
+264
+00:08:57,628 --> 00:09:00,095
+Tal vez podría estar en el teléfono
+haciendo algo de telemarketing,
+
+265
+00:09:00,095 --> 00:09:02,161
+y trabajar en, como,
+algo de arte y vender arte
+
+266
+00:09:02,161 --> 00:09:04,528
+desde la parte de atrás de Wendy's.
+¡Oh, hombre! ¿Por qué a mí?
+
+267
+00:09:04,528 --> 00:09:06,194
+Hice todo
+lo que se suponía que debía hacer.
+
+268
+00:09:06,194 --> 00:09:08,361
+Usé ese estúpido
+Auto-Tuner en mi voz,
+
+269
+00:09:08,361 --> 00:09:09,695
+instigué una pelea de rap.
+
+270
+00:09:09,695 --> 00:09:11,395
+E incluso intenté
+hacer un baile, negro.
+
+271
+00:09:11,395 --> 00:09:13,361
+Nada parece funcionar.
+Eh...
+
+272
+00:09:13,361 --> 00:09:16,129
+¿Thugnificent?
+Puede que sea un mal momento,
+
+273
+00:09:16,129 --> 00:09:19,261
+pero el sargento Gutta acaba de publicar
+una respuesta para ti en YouTube.
+
+274
+00:09:19,261 --> 00:09:21,294
+ <i>Oye, tío.</i>
+ <i>Primero que nada, quiero decir</i>
+
+275
+00:09:21,294 --> 00:09:23,029
+ <i>que soy un gran fan</i>
+ <i>de Thugnificent.</i>
+
+276
+00:09:23,029 --> 00:09:24,628
+ <i>Crecí escuchando</i>
+ <i>a Thugnificent.</i>
+
+277
+00:09:24,628 --> 00:09:26,161
+ <i>De hecho,</i>
+ <i>incluso iría tan lejos,</i>
+
+278
+00:09:26,161 --> 00:09:28,361
+ <i>como para decir que amo</i>
+ <i>a este negro, no homo.</i>
+
+279
+00:09:28,361 --> 00:09:29,495
+ <i>Él es uno de los negros de verdad</i>
+
+280
+00:09:29,495 --> 00:09:31,428
+ <i>que me dieron ganas</i>
+ <i>de hacer esta mierda.</i>
+
+281
+00:09:31,428 --> 00:09:33,361
+ <i>¡Pero que se joda este viejo negro,</i>
+ <i>hombre!</i>
+
+282
+00:09:33,361 --> 00:09:34,561
+ <i>[Risas]</i>
+
+283
+00:09:34,561 --> 00:09:36,695
+ <i>Este viejo negro</i>
+ <i>tiene la edad suficiente para ser mi padre</i>
+
+284
+00:09:36,695 --> 00:09:38,161
+ <i>¿y me está diciendo</i>
+ <i>que coma polla?</i>
+
+285
+00:09:38,161 --> 00:09:40,228
+ <i>Negro,</i>
+ <i>¿qué te pasa?</i>
+
+286
+00:09:40,228 --> 00:09:43,062
+ <i>Eres un hombre adulto</i>
+ <i>y le estás diciendo a un niño de 15 años</i>
+
+287
+00:09:43,062 --> 00:09:44,662
+ <i>que coma polla?</i>
+ <i>Sé que tu madre</i>
+
+288
+00:09:44,662 --> 00:09:47,228
+ <i>te educó mejor que eso,</i>
+ <i>tío. De hecho...</i>
+
+289
+00:09:47,228 --> 00:09:49,095
+[TELÉFONO MARCANDO]
+
+290
+00:09:49,095 --> 00:09:50,928
+ <i>Disculpe,</i>
+ <i>¿es la señorita Jenkins?</i>
+
+291
+00:09:50,928 --> 00:09:53,129
+MUJER: <i>Sí, soy yo.</i>
+ <i>Mi nombre es sargento Gutta.</i>
+
+292
+00:09:53,129 --> 00:09:54,395
+ <i>Y no sé</i>
+ <i>si es consciente,</i>
+
+293
+00:09:54,395 --> 00:09:56,062
+ <i>pero su hijo dijo</i>
+ <i>algunas cosas muy groseras</i>
+
+294
+00:09:56,062 --> 00:09:57,895
+ <i>sobre mí en la radio.</i>
+ <i>Sí, lo sé.</i>
+
+295
+00:09:57,895 --> 00:10:00,662
+ <i>Dijo algunas cosas muy groseras.</i>
+ <i>Es demasiado viejo</i>
+
+296
+00:10:00,662 --> 00:10:02,795
+ <i>para comportarse así,</i>
+ <i>y sé que tampoco me gusta</i>
+
+297
+00:10:02,795 --> 00:10:04,328
+ <i>que use ese lenguaje.</i>
+
+298
+00:10:04,328 --> 00:10:07,161
+ <i>Ya sabes, una vez...</i>
+ <i>Esa era tu mamá, negro.</i>
+
+299
+00:10:07,161 --> 00:10:08,228
+ <i>Tu mamá.</i>
+
+300
+00:10:08,228 --> 00:10:09,795
+ <i>Madura de una vez,</i>
+ <i>negro.</i>
+
+301
+00:10:09,795 --> 00:10:11,595
+ <i>Espero que te arruines,</i>
+ <i>¿me entiendes?</i>
+
+302
+00:10:11,595 --> 00:10:13,495
+ <i>Espero que el IRS</i>
+ <i>esté de camino</i>
+
+303
+00:10:13,495 --> 00:10:15,528
+ <i>ahora mismo para quitarte</i>
+ <i>tus mierdas, negro.</i>
+
+304
+00:10:15,528 --> 00:10:17,029
+[TIMBRE DE PUERTA]
+
+305
+00:10:17,029 --> 00:10:19,795
+[***]
+
+306
+00:10:19,795 --> 00:10:21,129
+[SUSPIRA]
+
+307
+00:10:21,129 --> 00:10:24,662
+Creo que este es el caballero
+que están buscando.
+
+308
+00:10:24,662 --> 00:10:25,895
+HOMBRE:
+¿Otis Jenkins?
+
+309
+00:10:25,895 --> 00:10:28,029
+Somos del
+Servicio de Impuestos Internos.
+
+310
+00:10:28,029 --> 00:10:30,095
+¡Adiós!
+
+311
+00:10:30,095 --> 00:10:33,662
+THUGNIFICENT:
+¡Maldita sea! ¡Maldita sea! ¡Maldita sea!
+
+312
+00:10:35,862 --> 00:10:37,862
+[***]
+
+313
+00:10:43,795 --> 00:10:45,428
+[TIMBRE DE PUERTA]
+
+314
+00:10:47,294 --> 00:10:50,294
+[***]
+
+315
+00:11:04,289 --> 00:11:06,289
+¿Cuánto debes?
+Hombre, esos hijos de puta
+
+316
+00:11:06,289 --> 00:11:08,356
+quieren que pague 121.000
+en las próximas seis semanas
+
+317
+00:11:08,356 --> 00:11:09,823
+o se llevarán mi casa.
+
+318
+00:11:09,823 --> 00:11:11,322
+Mira, te dije
+lo que tienes que hacer.
+
+319
+00:11:11,322 --> 00:11:13,222
+Lo sé, hombre,
+pero digo, ¿un trabajo?
+
+320
+00:11:13,222 --> 00:11:15,322
+Quiero decir, ¿no era ese el punto
+de ser raperos,
+
+321
+00:11:15,322 --> 00:11:17,289
+para no tener
+que conseguir un trabajo? Mira, hombre.
+
+322
+00:11:17,289 --> 00:11:18,988
+No deberías haberte rendido
+tan fácilmente.
+
+323
+00:11:18,988 --> 00:11:20,456
+Si tú y Mack
+todavía estuvieran aquí...
+
+324
+00:11:20,456 --> 00:11:21,823
+Otis, se acabó.
+
+325
+00:11:21,823 --> 00:11:23,155
+Tuvimos suerte, hombre.
+
+326
+00:11:23,155 --> 00:11:25,222
+Lo pasamos genial,
+llegamos a ser estrellas de rock,
+
+327
+00:11:25,222 --> 00:11:27,389
+y vimos algunas mierdas que la mayoría
+de la gente nunca llega a ver.
+
+328
+00:11:27,389 --> 00:11:29,322
+Pero se acabó.
+Tienes un título, negro.
+
+329
+00:11:29,322 --> 00:11:31,422
+Tienes opciones.
+Eso es más que la mayoría de la gente.
+
+330
+00:11:35,189 --> 00:11:36,589
+Puedo meterte por la puerta, hombre.
+
+331
+00:11:36,589 --> 00:11:37,589
+Piénsalo.
+
+332
+00:11:40,255 --> 00:11:41,489
+ <i>* Hago que llueva, negro *</i>
+
+333
+00:11:41,489 --> 00:11:44,222
+HOMBRE:
+Vale, Sr. Otis Jenkins.
+
+334
+00:11:44,222 --> 00:11:46,855
+Dice aquí que tiene una licenciatura
+en comunicaciones.
+
+335
+00:11:46,855 --> 00:11:49,289
+Sí, pero, eh, normalmente no uso
+mi nombre del gobierno.
+
+336
+00:11:49,289 --> 00:11:50,922
+Así que puede llamarme
+Thugnificent.
+
+337
+00:11:50,922 --> 00:11:52,922
+¿Puedo llamarte Thugnificent?
+
+338
+00:11:52,922 --> 00:11:55,556
+¿Nunca has oído mi música?
+Pensé que Flo te lo habría dicho.
+
+339
+00:11:55,556 --> 00:11:57,489
+Estábamos en
+Lethal Interjection Crew.
+
+340
+00:11:57,489 --> 00:11:59,589
+¿Por "Flo" te refieres a Derrick?
+
+341
+00:11:59,589 --> 00:12:00,855
+No, no mencionó eso.
+
+342
+00:12:00,855 --> 00:12:02,689
+¿Raperos, dices?
+Oh, sí.
+
+343
+00:12:02,689 --> 00:12:04,456
+Hicimos una canción llamada
+"FuckGranddad", eh,
+
+344
+00:12:04,456 --> 00:12:05,723
+sobre joder a los ancianos.
+
+345
+00:12:05,723 --> 00:12:07,489
+Hice una canción llamada
+"Stomp 'Em in the Nuts",
+
+346
+00:12:07,489 --> 00:12:09,988
+que era, irónicamente, sobre
+pisotear a los negros en las pelotas.
+
+347
+00:12:09,988 --> 00:12:11,089
+Ya sabes, mierda real.
+
+348
+00:12:13,289 --> 00:12:15,456
+Derrick olvidó
+mencionar esto en su currículum.
+
+349
+00:12:15,456 --> 00:12:17,622
+Sí, la música está en nuestra sangre,
+hombre, eso es lo que hacemos.
+
+350
+00:12:17,622 --> 00:12:19,422
+Ya sabes, solo estamos
+en un período de transición
+
+351
+00:12:19,422 --> 00:12:21,522
+con nuestra carrera ahora mismo,
+así que, cualquier cosa que hagamos ahora
+
+352
+00:12:21,522 --> 00:12:23,955
+sería solo temporal.
+¿Derrick también, supongo?
+
+353
+00:12:23,955 --> 00:12:25,622
+Claro que sí.
+Flo es mi negro.
+
+354
+00:12:25,622 --> 00:12:27,522
+Tan pronto como yo vuelva,
+él vuelve, ya sabes.
+
+355
+00:12:27,522 --> 00:12:28,622
+¡Pum! Nos vamos de aquí.
+
+356
+00:12:28,622 --> 00:12:29,622
+[RÍE]
+
+357
+00:12:29,622 --> 00:12:31,988
+Bien saberlo.
+
+358
+00:12:31,988 --> 00:12:34,155
+Oye, Flo. Oye, no sabía
+que él no sabía...
+
+359
+00:12:34,155 --> 00:12:36,122
+Flo. Vamos, hombre,
+no seas así.
+
+360
+00:12:36,122 --> 00:12:38,422
+¡Flo! ¡No lo sabía, Flo!
+
+361
+00:12:38,422 --> 00:12:40,489
+Te quiero, hombre.
+
+362
+00:12:40,489 --> 00:12:41,556
+No homo.
+
+363
+00:12:41,556 --> 00:12:43,888
+[***]
+
+364
+00:12:43,888 --> 00:12:45,789
+LEONARD:
+Hombre, no sé
+qué vamos a hacer.
+
+365
+00:12:45,789 --> 00:12:48,622
+Todos sabíamos
+que iba a llegar a esto.
+
+366
+00:12:48,622 --> 00:12:50,589
+LEONARD:
+Yo, ¿es eso lo que creo que es?
+
+367
+00:12:50,589 --> 00:12:52,055
+¿Nunca has visto yayo?
+
+368
+00:12:52,055 --> 00:12:54,489
+Sí, solo estoy tratando
+de averiguar qué es esto.
+
+369
+00:12:54,489 --> 00:12:56,823
+Eso es cocaína de verdad, negro.
+Hm. ¿Dónde la conseguiste?
+
+370
+00:12:56,823 --> 00:13:00,888
+Negro, no te preocupes por dónde
+la conseguí. Tengo mis contactos.
+
+371
+00:13:00,888 --> 00:13:02,922
+Ed el Tercero.
+¿Entonces qué vas a hacer con ella?
+
+372
+00:13:02,922 --> 00:13:04,222
+"¿Entonces qué vas a hacer con ella?"
+
+373
+00:13:04,222 --> 00:13:06,122
+Vamos a cocinarla,
+venderla en las calles,
+
+374
+00:13:06,122 --> 00:13:07,988
+y a ganar dinero, negro.
+¿Cómo hacemos eso?
+
+375
+00:13:07,988 --> 00:13:09,222
+Quiero decir, ¿qué tan difícil puede ser?
+
+376
+00:13:09,222 --> 00:13:10,522
+Creo que hay algunas canciones de rap
+
+377
+00:13:10,522 --> 00:13:12,522
+que te dicen cómo hacerlo,
+¿verdad?
+
+378
+00:13:12,522 --> 00:13:14,189
+ <i>* Saca el agua del aceite *</i>
+
+379
+00:13:14,189 --> 00:13:17,222
+ <i>* Consigue una jeringa de pavo</i>
+ <i>También ese bicarbonato de sodio *</i>
+
+380
+00:13:17,222 --> 00:13:19,089
+ <i>* Te ayudará a estirar eso *</i>
+
+381
+00:13:19,089 --> 00:13:20,955
+Vale, dijo algo
+sobre bicarbonato de sodio.
+
+382
+00:13:20,955 --> 00:13:23,789
+Maldita sea. Hombre, esta mierda
+en realidad no dice cómo hacerlo.
+
+383
+00:13:23,789 --> 00:13:25,656
+Oh, qué demonios,
+vamos a consultar Wikipedia.
+
+384
+00:13:25,656 --> 00:13:28,022
+ <i>* Clientes toda la noche</i>
+ <i>Solo asegúrate *</i>
+
+385
+00:13:28,022 --> 00:13:29,823
+ <i>* De que tenga un poco de tez *</i>
+
+386
+00:13:29,823 --> 00:13:31,322
+ <i>* Metaphor the Great</i>
+ <i>Encuéntrame *</i>
+
+387
+00:13:31,322 --> 00:13:33,289
+ <i>* Sirviendo en</i>
+ <i>La sección de fumadores *</i>
+
+388
+00:13:33,289 --> 00:13:35,723
+* <i>Te mostraré cómo cocinar eso</i>
+ <i>Te mostraré cómo hornear crack *</i>
+
+389
+00:13:35,723 --> 00:13:38,222
+ <i>* Te mostraré cómo llegar</i>
+ <i>A esa manzana para hacer trap *</i>
+
+390
+00:13:38,222 --> 00:13:39,723
+ <i>* Te mostraré</i>
+ <i>Cómo cocinar eso *</i>
+
+391
+00:13:39,723 --> 00:13:41,055
+ <i>* Te mostraré</i>
+ <i>Cómo hornear crack *</i>
+
+392
+00:13:41,055 --> 00:13:43,222
+ <i>* Te mostraré cómo llegar</i>
+ <i>A esa manzana *</i>
+
+393
+00:13:43,222 --> 00:13:45,556
+ <i>* Y hacer trap todo el día *</i>
+
+394
+00:13:45,556 --> 00:13:47,155
+[SIRENA SONANDO A LA DISTANCIA]
+
+395
+00:13:50,322 --> 00:13:52,222
+Disculpe,
+¿está vendiendo crack?
+
+396
+00:13:52,222 --> 00:13:53,955
+Eh, ¿qué parece
+que estoy haciendo?
+
+397
+00:13:53,955 --> 00:13:55,723
+Aquí tiene.
+Oh, encantador, encantador.
+
+398
+00:13:55,723 --> 00:13:57,556
+Tomaré dos, por favor.
+
+399
+00:13:59,356 --> 00:14:02,689
+Gracias.
+Que tenga un día maravilloso.
+
+400
+00:14:04,022 --> 00:14:06,589
+Disculpe, hombre,
+estoy buscando algo de crack.
+
+401
+00:14:06,589 --> 00:14:08,489
+Eh, sí.
+Aquí tienes tu crack.
+
+402
+00:14:08,489 --> 00:14:11,723
+Espera un minuto.
+¡Eres Thugnificent! Oh, Dios mío.
+
+403
+00:14:11,723 --> 00:14:13,422
+No sé
+de qué estás hablando.
+
+404
+00:14:13,422 --> 00:14:15,089
+No, no, eres tú.
+Definitivamente eres tú.
+
+405
+00:14:15,089 --> 00:14:16,789
+Oh, hombre,
+me encanta tu trabajo, hombre.
+
+406
+00:14:16,789 --> 00:14:18,589
+¿Qué estás haciendo
+aquí vendiendo crack?
+
+407
+00:14:18,589 --> 00:14:20,955
+No soy Thugnificent.
+Soy un traficante de crack ordinario.
+
+408
+00:14:20,955 --> 00:14:22,656
+No sé
+de qué estás hablando.
+
+409
+00:14:22,656 --> 00:14:24,656
+¿Puedes darme
+el crack, por favor? Necesito tres.
+
+410
+00:14:24,656 --> 00:14:26,222
+Tío,
+¿qué pasó con tu último CD?
+
+411
+00:14:26,222 --> 00:14:27,589
+Eres mucho mejor que eso.
+
+412
+00:14:27,589 --> 00:14:29,089
+No sé
+de qué estás hablando.
+
+413
+00:14:29,089 --> 00:14:31,122
+¿Pueden esperar esto
+un minuto? Crack...
+
+414
+00:14:31,122 --> 00:14:33,622
+Quiero decir, un par de ritmos
+estaban bien, pero ¿Auto-Tuner?
+
+415
+00:14:33,622 --> 00:14:35,055
+El Auto-Tune es una mierda.
+
+416
+00:14:35,055 --> 00:14:37,955
+El Auto-Tune es terrible.
+¡Mira, no soy Thugnificent!
+
+417
+00:14:37,955 --> 00:14:39,255
+Ahora, lárguense de aquí.
+
+418
+00:14:39,255 --> 00:14:40,988
+¡Yo, hablo en serio!
+Eh, disculpe, señor.
+
+419
+00:14:40,988 --> 00:14:43,089
+Me gustaría devolver este crack.
+¿Qué?
+
+420
+00:14:43,089 --> 00:14:45,255
+Todavía no he recibido el mío,
+y tú estás devolviendo mierda.
+
+421
+00:14:45,255 --> 00:14:46,955
+Dije que me gustaría
+devolver este crack.
+
+422
+00:14:46,955 --> 00:14:49,322
+Esto no es Walmart.
+No hay políticas de devolución,
+
+423
+00:14:49,322 --> 00:14:50,823
+¡ni putos intercambios!
+
+424
+00:14:50,823 --> 00:14:52,888
+No, no, está defectuoso.
+Mira, está todo quemado.
+
+425
+00:14:52,888 --> 00:14:54,289
+Mira, chamuscado por los bordes.
+
+426
+00:14:54,289 --> 00:14:56,389
+No le pasa nada
+a este crack. Buen crack.
+
+427
+00:14:56,389 --> 00:14:58,055
+No le pasa nada
+a mi crack.
+
+428
+00:14:58,055 --> 00:15:00,589
+No eres bueno en esto, porque mi
+traficante de crack es mucho más rápido.
+
+429
+00:15:00,589 --> 00:15:02,089
+¿Vas a estar aquí
+por un rato?
+
+430
+00:15:02,089 --> 00:15:04,322
+Quiero decir, me gustaría ir a buscar
+a mi primo. Es un gran fan.
+
+431
+00:15:04,322 --> 00:15:05,522
+No vayas a buscar a tu...
+
+432
+00:15:05,522 --> 00:15:07,389
+No, no, espera...
+Mira, no hay razón
+
+433
+00:15:07,389 --> 00:15:09,589
+para ser grosero, pagué buen dinero
+por este crack
+
+434
+00:15:09,589 --> 00:15:11,055
+¡y está todo quemado!
+¡Mira!
+
+435
+00:15:11,055 --> 00:15:12,922
+NIÑO: ¡Ves, te lo dije!
+Mira, ¿ves?
+
+436
+00:15:12,922 --> 00:15:14,955
+Señor, señor, señor,
+ni siquiera estás mirando.
+
+437
+00:14:17,122
+Oh, Dios mío, es Thugnificent,
+
+438
+00:15:17,122 --> 00:15:18,988
+no puedo creerlo.
+¿Puedo hacerte una foto?
+
+439
+00:15:18,988 --> 00:15:20,189
+¡No! No me... Ne...
+
+440
+00:15:20,189 --> 00:15:21,689
+¿No ves
+que estoy vendiendo crack?
+
+441
+00:15:21,689 --> 00:15:23,888
+¿Podría recibir el mío e irme?
+Se suponía que debía recoger
+
+442
+00:15:23,888 --> 00:15:25,656
+a mi hija de la escuela
+hace ocho horas.
+
+443
+00:15:25,656 --> 00:15:28,589
+Ahora, si no me das
+un crack nuevo, o un reembolso,
+
+444
+00:15:28,589 --> 00:15:31,422
+yo, señor, llevaré
+mi negocio a otra parte.
+
+445
+00:15:31,422 --> 00:15:33,356
+¿Se van a largar
+de aquí, hijos de puta?
+
+446
+00:15:33,356 --> 00:15:35,122
+[GRITANDO]
+
+447
+00:15:35,122 --> 00:15:37,723
+Hombre, Leonard, ¿a quién conozco
+que todavía consuma cocaína?
+
+448
+00:15:37,723 --> 00:15:40,155
+Piensa, piensa, piensa. ¡Oh!
+
+449
+00:15:40,155 --> 00:15:42,322
+Yo, Steve. Steve
+de Hollow Point Records.
+
+450
+00:15:42,322 --> 00:15:45,888
+Yo, ese negro consume cocaína
+y tiene mucho dinero.
+
+451
+00:15:47,289 --> 00:15:49,155
+Oye, yo, Steve.
+Eh, soy tu chico, Otis.
+
+452
+00:15:49,155 --> 00:15:50,222
+Sí, sí, sí, hombre.
+
+453
+00:15:50,222 --> 00:15:52,022
+Eh, mira,
+tengo algunas cosas que, eh,
+
+454
+00:15:52,022 --> 00:15:54,756
+podrían interesarte.
+Ja, ja.
+
+455
+00:15:54,756 --> 00:15:56,422
+Sin duda, sin duda.
+Sí, solo, eh,
+
+456
+00:15:56,422 --> 00:15:59,389
+dime cuándo y dónde.
+Estaré allí, negro.
+
+457
+00:16:05,089 --> 00:16:07,589
+¿Así que conoces a este tipo,
+y definitivamente tiene el dinero?
+
+458
+00:16:07,589 --> 00:16:10,055
+Claro que sí. El negro dirige
+el sello con el que casi firmo.
+
+459
+00:16:10,055 --> 00:16:11,955
+Pero no intentes
+ninguna mierda tonta, hombre,
+
+460
+00:16:11,955 --> 00:16:13,322
+porque Steve está un poco loco.
+
+461
+00:16:13,322 --> 00:16:15,055
+No, más le vale que no intente
+ninguna mierda tonta,
+
+462
+00:16:15,055 --> 00:16:16,855
+porque yo estoy un poco loco.
+
+463
+00:16:16,855 --> 00:16:19,289
+[MÚSICA ROCK SONANDO DENTRO]
+
+464
+00:16:19,289 --> 00:16:20,589
+¿Vienes a ver a Steve?
+
+465
+00:16:20,589 --> 00:16:22,489
+¿Qué coño crees?
+
+466
+00:16:22,489 --> 00:16:24,155
+Entra.
+
+467
+00:16:27,888 --> 00:16:30,422
+¡Ja! Otis, ¿qué pasa?
+
+468
+00:16:30,422 --> 00:16:31,756
+Me alegro de que hayas podido venir, hombre.
+
+469
+00:16:31,756 --> 00:16:33,656
+Yo, ¿qué pasa, Steve?
+Estos son mis amigos, eh,
+
+470
+00:16:33,656 --> 00:16:35,556
+Leonard y Ed el Tercero.
+Encantado de conocerte.
+
+471
+00:16:35,556 --> 00:16:37,055
+Siéntense.
+¿Alguien quiere algo?
+
+472
+00:16:37,055 --> 00:16:38,556
+[PETARDO EXPLOTA]
+
+473
+00:16:38,556 --> 00:16:39,723
+¿Cómo has estado, Otis?
+
+474
+00:16:39,723 --> 00:16:40,888
+No muy bien, para ser honesto.
+
+475
+00:16:40,888 --> 00:16:42,189
+Oí que perdiste tu contrato.
+
+476
+00:16:42,189 --> 00:16:43,456
+Me alegro de que me hayas llamado.
+
+477
+00:16:43,456 --> 00:16:45,888
+Creo que la gente se está cansando
+de todo esto, ¿sabes?
+
+478
+00:16:45,888 --> 00:16:48,022
+Tú, sargento Gutter,
+todo lo que la música ha sido
+
+479
+00:16:48,022 --> 00:16:49,855
+durante la última década.
+Ahora es una nueva era.
+
+480
+00:16:49,855 --> 00:16:51,222
+La gente quiere algo más.
+
+481
+00:16:51,222 --> 00:16:54,122
+Sí, probablemente tengas razón.
+Pero creo en ti, Otis.
+
+482
+00:16:54,122 --> 00:16:55,389
+[INHALA] Siempre lo he hecho.
+
+483
+00:16:55,389 --> 00:16:57,689
+Gracias, hombre. Lo aprecio.
+[PETARDO EXPLOTA]
+
+484
+00:16:57,689 --> 00:16:59,689
+Ahora, vamos al grano.
+
+485
+00:16:59,689 --> 00:17:01,022
+¿Tienes algo para mí?
+
+486
+00:17:01,022 --> 00:17:02,823
+Eso es aproximadamente un kilo.
+
+487
+00:17:02,823 --> 00:17:04,689
+Tal vez un octavo
+menos, aunque.
+
+488
+00:17:04,689 --> 00:17:06,855
+Je, je.
+¿Qué es esto, cocaína?
+
+489
+00:17:06,855 --> 00:17:08,988
+Sí.
+Yo, eh, pensé
+
+490
+00:17:08,988 --> 00:17:11,489
+que íbamos a hablar
+de un contrato discográfico, no de un trato de drogas.
+
+491
+00:17:11,489 --> 00:17:12,988
+¿Huh?
+Dijiste que tenías algo
+
+492
+00:17:12,988 --> 00:17:14,189
+que podría interesarme
+
+493
+00:17:14,189 --> 00:17:16,055
+y pensé que estabas hablando
+de música.
+
+494
+00:17:16,055 --> 00:17:17,756
+Oh, hombre.
+
+495
+00:17:17,756 --> 00:17:20,155
+Quiero volver
+al negocio de Thugnificent.
+
+496
+00:17:20,155 --> 00:17:22,322
+¿Qué tal 150.000 dólares de adelanto?
+
+497
+00:17:22,322 --> 00:17:23,823
+¿Qué? ¿Hablas en serio?
+
+498
+00:17:23,823 --> 00:17:25,589
+¿150.000?
+¿Tienes ese tipo de dinero?
+
+499
+00:17:25,589 --> 00:17:27,689
+Por supuesto que tengo
+ese tipo de dinero. ¿Quién es este tipo?
+
+500
+00:17:27,689 --> 00:17:29,422
+¡Yo! ¡No puedo creer esto!
+
+501
+00:17:29,422 --> 00:17:31,389
+Yo, de verdad,
+de verdad aprecio esto, Steve.
+
+502
+00:17:31,389 --> 00:17:32,988
+Yo, en serio, ¡esto es un milagro!
+
+503
+00:17:32,988 --> 00:17:35,456
+Voy a... No te voy a
+decepcionar, hombre. Lo prometo.
+
+504
+00:17:35,456 --> 00:17:36,855
+¿Todavía quieres
+las drogas, verdad?
+
+505
+00:17:36,855 --> 00:17:40,022
+No. He estado limpio
+durante un año.
+
+506
+00:17:40,022 --> 00:17:42,489
+Felicitaciones, Otis.
+
+507
+00:17:42,489 --> 00:17:44,756
+Muchas gracias por creer
+en mí, Steve, de verdad.
+
+508
+00:17:44,756 --> 00:17:46,222
+Yo-Yo, esto significa
+mucho para mí.
+
+509
+00:17:46,222 --> 00:17:48,022
+STEVE:
+Lo vamos a hacer bien
+esta vez.
+
+510
+00:17:48,022 --> 00:17:49,556
+Vas a volver a la cima.
+
+511
+00:17:49,556 --> 00:17:52,522
+Vine hasta este hijo de puta.
+Quiero mi dinero.
+
+512
+00:17:52,522 --> 00:17:55,756
+THUGNIFICENT:
+Pensé que veníamos aquí
+a hacer un trato de drogas loco.
+
+513
+00:17:55,756 --> 00:17:57,055
+Mi corazón latía muy rápido.
+
+514
+00:17:05,055
+Resulta que quieres darme
+dinero por un contrato discográfico.
+
+515
+00:17:59,322 --> 00:18:01,122
+Quiero mi dinero.
+Tengo este nuevo sonido
+
+516
+00:18:01,122 --> 00:18:03,789
+en el que he estado trabajando también.
+Quiero que lo escuches. Es una locura.
+
+517
+00:18:03,789 --> 00:18:06,689
+Esto va a hacer que todo
+en tu vida mejore,
+
+518
+00:18:06,689 --> 00:18:08,656
+y nada, nadie podrá hacer
+para detenerlo.
+
+519
+00:18:08,656 --> 00:18:10,556
+Quiero mi puto dinero.
+
+520
+00:18:10,556 --> 00:18:12,622
+Ed, ¿qué estás haciendo?
+¿A quién le importan las drogas?
+
+521
+00:18:12,622 --> 00:18:14,155
+Steve, lo siento mucho, hombre.
+
+522
+00:18:14,155 --> 00:18:16,456
+[RISITAS]
+¿Esto es una broma?
+
+523
+00:18:16,456 --> 00:18:17,756
+¿Sabes quién soy?
+
+524
+00:18:17,756 --> 00:18:19,255
+¿Sabes quién soy,
+hijo de puta?
+
+525
+00:18:19,255 --> 00:18:21,656
+¡Soy Ed Wuncler! Traje
+las drogas hasta aquí.
+
+526
+00:18:21,656 --> 00:18:22,922
+Hice lo que se suponía que debía hacer.
+
+527
+00:18:22,922 --> 00:18:25,122
+Cumplí con mi jodida
+parte del trato,
+
+528
+00:18:25,122 --> 00:18:27,622
+¡y quiero mi maldito dinero!
+
+529
+00:18:27,622 --> 00:18:30,055
+¡Espera, no tan rápido,
+gordo hijo de puta!
+
+530
+00:18:30,055 --> 00:18:31,456
+Ed, Ed, no, no, ¡para!
+¡Para!
+
+531
+00:18:31,456 --> 00:18:33,456
+Sr. Steve, espero
+que esto no afecte nuestro trato.
+
+532
+00:18:33,456 --> 00:18:35,789
+¡Dime dónde está la caja fuerte,
+o el corredor de la muerte de aquí,
+
+533
+00:18:35,789 --> 00:18:37,855
+está acabado!
+[GRUNTIDOS]
+
+534
+00:18:37,855 --> 00:18:40,823
+HOMBRE:
+Creo que estoy teniendo
+un paro cardíaco.
+
+535
+00:18:40,823 --> 00:18:42,089
+[QUEJIDOS]
+
+536
+00:18:42,089 --> 00:18:44,255
+[***]
+
+537
+00:18:44,255 --> 00:18:45,789
+[GRITOS]
+
+538
+00:18:48,988 --> 00:18:50,789
+[AMBOS GRITANDO]
+
+539
+00:19:05,089 --> 00:19:06,122
+[PISTOLA HACE CLIC]
+
+540
+00:19:06,122 --> 00:19:08,456
+Hijo de puta me disparó.
+
+541
+00:19:08,456 --> 00:19:09,888
+¿Qué coño estás mirando?
+
+542
+00:19:09,888 --> 00:19:11,823
+¿No quieren
+mi maldita cocaína, eh?
+
+543
+00:19:11,823 --> 00:19:14,255
+Bueno, llevaré mi mierda
+a otra parte.
+
+544
+00:19:17,656 --> 00:19:20,289
+[QUEJÁNDOSE]
+
+545
+00:19:24,122 --> 00:19:26,122
+[TARAREANDO]
+
+546
+00:19:26,122 --> 00:19:27,589
+[GRUNTIDOS]
+
+547
+00:19:31,656 --> 00:19:34,155
+[***]
+
+548
+00:19:34,155 --> 00:19:35,322
+[TARAREANDO]
+
+549
+00:19:35,322 --> 00:19:37,222
+[GRUNTIDOS]
+
+550
+00:19:43,522 --> 00:19:46,356
+[***]
+
+551
+00:19:46,356 --> 00:19:48,988
+ABUELO:
+Chico, ¿qué diablos
+estás haciendo?
+
+552
+00:19:48,988 --> 00:19:50,489
+¿Estás tratando de que
+te maten?
+
+553
+00:19:50,489 --> 00:19:52,189
+No sé qué hacer.
+Bueno, consigue un trabajo.
+
+554
+00:19:52,189 --> 00:19:54,289
+Lo intenté.
+Bueno, inténtalo de nuevo.
+
+555
+00:19:54,289 --> 00:19:55,489
+No entiendes, viejo.
+
+556
+00:19:55,489 --> 00:19:57,289
+Siempre quise
+hacer esto del rap.
+
+557
+00:19:57,289 --> 00:19:58,855
+Y luego, ya sabes,
+por algún milagro,
+
+558
+00:19:58,855 --> 00:20:01,089
+en realidad lo logré.
+Solo pensé...
+
+559
+00:20:01,089 --> 00:20:02,656
+Solo pensé
+que duraría más.
+
+560
+00:20:02,656 --> 00:20:04,689
+No se ha acabado, Thugnificent.
+
+561
+00:20:04,689 --> 00:20:07,656
+Creo en ti.
+Eres como un genio musical.
+
+562
+00:20:07,656 --> 00:20:09,422
+Como... Como...
+Como Ray Charles,
+
+563
+00:20:09,422 --> 00:20:10,789
+pero sin las habilidades con el piano
+
+564
+00:20:10,789 --> 00:20:12,888
+o la capacidad de cantar
+o componer música.
+
+565
+00:20:12,888 --> 00:20:15,622
+Mira, hombre.
+Yo-Yo no puedo hacer esto más.
+
+566
+00:20:15,622 --> 00:20:16,988
+Gracias, viejo.
+
+567
+00:20:16,988 --> 00:20:18,789
+Sé que te dije
+que comieras muchas pollas.
+
+568
+00:20:18,789 --> 00:20:21,089
+Pero estás bien conmigo.
+
+569
+00:20:22,222 --> 00:20:23,656
+[PUERTA SE ABRE]
+
+570
+00:20:23,656 --> 00:20:25,756
+[***]
+
+571
+00:20:25,756 --> 00:20:27,255
+HOMBRE:
+Bájenlo.
+
+572
+00:20:27,255 --> 00:20:28,255
+[RUCKUS RÍE]
+
+573
+00:20:28,255 --> 00:20:29,789
+¡Oh, Señor, ten piedad!
+
+574
+00:20:29,789 --> 00:20:31,789
+¡Se fue! ¡Se fue!
+
+575
+00:20:31,789 --> 00:20:33,289
+Jesús, respondiste a mis oraciones.
+
+576
+00:20:33,289 --> 00:20:36,589
+Estoy contento como un mapache
+el día de la investidura.
+
+577
+00:20:36,589 --> 00:20:38,756
+[GENTE CONVERSANDO]
+
+578
+00:20:44,789 --> 00:20:47,122
+[MÚSICA RAP SONANDO A LA DISTANCIA]
+
+579
+00:20:47,122 --> 00:20:48,955
+[RONQUIDOS]
+
+580
+00:20:50,322 --> 00:20:52,322
+ <i>* Nalgas</i>
+ <i>Trasero, trasero *</i>
+
+581
+00:20:52,322 --> 00:20:54,556
+ <i>* Trasero, trasero,</i>
+ <i>Nalgas de trasero *</i>
+
+582
+00:20:54,556 --> 00:20:56,888
+[ALARMAS DE COCHES SONANDO]
+
+583
+00:20:56,888 --> 00:20:59,222
+Espera. ¡Conozco esa canción!
+
+584
+00:20:59,222 --> 00:21:00,656
+* Nalgas *
+
+585
+00:21:00,656 --> 00:21:03,389
+* Trasero, trasero, trasero
+Nalgas de trasero *
+
+586
+00:21:03,389 --> 00:21:06,456
+ <i>* Trasero, trasero, trasero</i>
+ <i>Nalgas de trasero *</i>
+
+587
+00:21:06,456 --> 00:21:09,723
+[FRENOS CHILLANDO]
+
+588
+00:21:09,723 --> 00:21:12,289
+ <i>* Es terrible</i>
+ <i>En Terrabelle *</i>
+
+589
+00:21:12,289 --> 00:21:14,189
+¿Qué pasa, pequeño?
+Mira, salgo a las 5.
+
+590
+00:21:14,189 --> 00:21:16,389
+Podría venir,
+conduciendo el coche de la empresa.
+
+591
+00:21:16,389 --> 00:21:17,723
+¿Qué tal el nuevo trabajo?
+
+592
+00:21:17,723 --> 00:21:19,122
+Oh, hombre,
+es una vieja mierda.
+
+593
+00:21:19,122 --> 00:21:20,222
+Pero mira, mira.
+
+594
+00:21:20,222 --> 00:21:22,422
+Tu chico está grabando
+su propio reality show.
+
+595
+00:21:22,422 --> 00:21:23,622
+¿En serio?
+Sí, negro,
+
+596
+00:21:23,622 --> 00:21:24,756
+¡estás en él ahora mismo!
+
+597
+00:21:24,756 --> 00:21:26,823
+Yo, ¿qué pasa, qué pasa, qué pasa?
+
+598
+00:21:26,823 --> 00:21:29,988
+Young Reezy,
+a.k.a. el Recaudador de Fondos, negro.
+
+599
+00:21:29,988 --> 00:21:31,589
+Lethal Interjection, perra.
+
+600
+00:21:31,589 --> 00:21:34,955
+Sí, hombre, todo el dinero está
+en los reality shows, ahora mismo, negro.
+
+601
+00:21:34,955 --> 00:21:36,155
+La industria de la música está muerta.
+
+602
+00:21:36,155 --> 00:21:37,855
+Estoy tratando de conseguir
+ese dinero de Flava Flav,
+
+603
+00:21:37,855 --> 00:21:40,322
+¿sabes lo que digo? A eso
+estoy aspirando ahora mismo.
+
+604
+00:21:40,322 --> 00:21:43,122
+Vaya, eso suena como
+un plan muy bueno, Thugnificent.
+
+605
+00:21:43,122 --> 00:21:46,122
+Oye, ¿está tu abuelo en casa?
+¡Oye! ¡Despierta, viejo negro!
+
+606
+00:21:46,122 --> 00:21:48,823
+Quería hacerte saber que hasta que
+consigamos el dinero del reality show,
+
+607
+00:21:48,823 --> 00:21:50,756
+tu chico Thugnificent
+va a estar aquí mismo
+
+608
+00:21:50,756 --> 00:21:53,255
+manejando todas tus necesidades
+de envío urgente, ¿me entiendes?
+
+609
+00:21:53,255 --> 00:21:56,556
+Así que pregúntate, ¿qué puede hacer
+toda esta Thugnificencia por ti?
+
+610
+00:21:56,556 --> 00:21:57,556
+[Risas]
+
+611
+00:21:57,556 --> 00:21:59,322
+Negro, ¿quieres cerrar
+la puta boca?
+
+612
+00:21:59,322 --> 00:22:00,689
+Algunos de nosotros pagamos nuestros impuestos,
+
+613
+00:22:00,689 --> 00:22:03,122
+¡Sr. Punkassnificent!
+
+614
+00:22:03,122 --> 00:22:05,055
+[GRUNTIDOS]
+
+615
+00:22:05,055 --> 00:22:08,055
+[***]
