@@ -1,0 +1,869 @@
+1
+00:00:01,670 --> 00:00:03,505
+[Suena "If I Had A Heart"]
+
+2
+00:00:07,509 --> 00:00:11,513
+<i>Más, dame más
+Dame más</i>
+
+3
+00:00:12,806 --> 00:00:17,811
+<i>Si tuviera un corazón
+Podría amarte</i>
+
+4
+00:00:18,395 --> 00:00:22,024
+<i>Si tuviera una voz
+Cantaría</i>
+
+5
+00:00:24,067 --> 00:00:28,071
+<i>Después de la noche
+Cuando despierte</i>
+
+6
+00:00:29,281 --> 00:00:33,744
+<i>Veré
+Lo que el mañana trae</i>
+
+7
+00:00:35,078 --> 00:00:39,708
+[Vocalización]
+
+8
+00:00:40,918 --> 00:00:44,922
+<i>Si tuviera una voz
+Cantaría</i>
+
+9
+00:00:52,012 --> 00:00:53,347
+[Tambores sonando]
+
+10
+00:01:00,479 --> 00:01:01,479
+[Pájaros graznando]
+
+11
+00:01:05,984 --> 00:01:07,736
+[Gritos indistintos]
+
+12
+00:01:16,703 --> 00:01:18,288
+Jarl Thorkell.
+
+13
+00:01:18,372 --> 00:01:19,873
+- [Thorkell] Rey Olaf.
+- Saludos.
+
+14
+00:01:20,415 --> 00:01:22,209
+- Bienvenido.
+- Me sorprendió
+
+15
+00:01:22,292 --> 00:01:23,460
+recibir tu llamado.
+
+16
+00:01:23,710 --> 00:01:24,753
+¿Es realmente cierto
+
+17
+00:01:24,836 --> 00:01:27,965
+que quieres que todos votemos
+por un rey de toda Noruega?
+
+18
+00:01:29,258 --> 00:01:30,676
+Si no fuera cierto,
+
+19
+00:01:30,759 --> 00:01:34,429
+no habría perdido tu tiempo
+al convocarte aquí.
+
+20
+00:01:35,180 --> 00:01:38,684
+Nos estás pidiendo a todos que renunciemos
+
+21
+00:01:38,767 --> 00:01:41,561
+a lo que es más querido
+y precioso para nosotros...
+
+22
+00:01:42,729 --> 00:01:43,855
+nuestro poder.
+
+23
+00:01:44,314 --> 00:01:46,650
+Oh, Thorkell,
+
+24
+00:01:46,984 --> 00:01:51,613
+tu poder reside en tu prestigio,
+
+25
+00:01:51,697 --> 00:01:54,908
+en la voluntad
+de tus guerreros de luchar
+
+26
+00:01:54,992 --> 00:01:56,326
+y morir por ti.
+
+27
+00:01:56,410 --> 00:01:57,744
+Eso no cambiará.
+
+28
+00:01:58,078 --> 00:02:01,873
+Todo lo que pido
+es que haya un señor supremo,
+
+29
+00:02:02,249 --> 00:02:05,544
+a quien todos podamos
+deber nuestra lealtad.
+
+30
+00:02:06,169 --> 00:02:09,965
+Un rey de toda Noruega
+que nos defienda
+
+31
+00:02:10,215 --> 00:02:12,467
+de todas las fuerzas externas.
+
+32
+00:02:13,218 --> 00:02:14,803
+Ese es mi sueño.
+
+33
+00:02:15,595 --> 00:02:19,266
+Seguramente, no es
+mucho pedir, ¿o sí?
+
+34
+00:02:24,146 --> 00:02:25,355
+[Cabra balando]
+
+35
+00:02:29,318 --> 00:02:30,902
+[Doncellas escuderas trinan]
+
+36
+00:02:39,828 --> 00:02:41,121
+[Caballos relinchando]
+
+37
+00:02:47,002 --> 00:02:48,378
+[Lagertha] Gracias a los dioses.
+
+38
+00:02:48,712 --> 00:02:50,005
+Estás aquí.
+
+39
+00:02:56,720 --> 00:02:57,846
+¿Pero por qué?
+
+40
+00:02:59,431 --> 00:03:00,891
+Tuve un sueño, Lagertha.
+
+41
+00:03:02,059 --> 00:03:04,019
+Y en mi sueño,
+tu aldea fue atacada.
+
+42
+00:03:04,853 --> 00:03:06,146
+Así que quería estar contigo.
+
+43
+00:03:06,730 --> 00:03:08,315
+Contigo y con los hijos de Torvi.
+
+44
+00:03:09,274 --> 00:03:11,693
+Tenía miedo de que algo hubiera pasado.
+
+45
+00:03:13,695 --> 00:03:15,072
+Hali está muerto.
+
+46
+00:03:16,198 --> 00:03:17,198
+[Suspira]
+
+47
+00:03:17,824 --> 00:03:18,867
+Fue mi culpa.
+
+48
+00:03:19,076 --> 00:03:20,702
+No lo protegí.
+
+49
+00:03:20,786 --> 00:03:21,787
+Fallé.
+
+50
+00:03:24,039 --> 00:03:28,085
+Está enterrado no lejos de una aldea
+que intentó proteger.
+
+51
+00:03:29,086 --> 00:03:31,296
+Con todos los demás
+que también murieron en la incursión.
+
+52
+00:03:31,380 --> 00:03:32,756
+¿Así que es verdad?
+
+53
+00:03:32,839 --> 00:03:35,717
+¿Tu sueño? Sí.
+Fuimos atacados por bandidos.
+
+54
+00:03:36,635 --> 00:03:38,678
+Los mismos bandidos
+que Bjorn marcó y liberó.
+
+55
+00:03:38,762 --> 00:03:40,514
+¿Entonces quizás Bjorn cometió un error?
+
+56
+00:03:40,597 --> 00:03:41,699
+Nunca debió haberlos liberado.
+
+57
+00:03:41,723 --> 00:03:43,683
+¡No hables de errores!
+Todos cometemos errores,
+
+58
+00:03:44,142 --> 00:03:47,479
+a veces por malas razones
+y a veces por buenas.
+
+59
+00:03:48,730 --> 00:03:50,273
+En cualquier caso,
+
+60
+00:03:50,357 --> 00:03:52,067
+ya no es importante.
+
+61
+00:03:52,401 --> 00:03:54,569
+Lo importante es que estoy segura,
+
+62
+00:03:54,653 --> 00:03:56,738
+ya que no lograron
+robar nuestro grano,
+
+63
+00:03:56,822 --> 00:03:58,532
+que atacarán de nuevo pronto.
+
+64
+00:04:00,283 --> 00:04:02,035
+Es bueno que estemos aquí.
+
+65
+00:04:03,036 --> 00:04:04,162
+Tenemos que hacer planes.
+
+66
+00:04:05,580 --> 00:04:07,457
+Incluso con tus doncellas escuderas,
+
+67
+00:04:07,541 --> 00:04:10,001
+no estoy segura de que podamos resistir
+a Pelo Blanco y sus bandidos,
+
+68
+00:04:10,085 --> 00:04:11,586
+ni una segunda vez.
+
+69
+00:04:14,548 --> 00:04:17,676
+Esas no son palabras
+que esperaba escuchar de Lagertha,
+
+70
+00:04:18,301 --> 00:04:19,845
+la famosa doncella escudera.
+
+71
+00:04:22,764 --> 00:04:25,642
+Quizás esa Lagertha ya está muerta.
+
+72
+00:04:28,145 --> 00:04:29,563
+Yo misma la enterré.
+
+73
+00:04:31,356 --> 00:04:32,983
+Entonces tuve que desenterrarla de nuevo.
+
+74
+00:04:34,359 --> 00:04:35,902
+Pero ella no es la misma.
+
+75
+00:04:37,028 --> 00:04:38,488
+Ella nunca podrá ser la misma.
+
+76
+00:04:51,001 --> 00:04:52,377
+[Doncellas escuderas trinan]
+
+77
+00:04:52,752 --> 00:04:53,752
+[Ríe suavemente]
+
+78
+00:04:55,797 --> 00:04:56,923
+[Metal chirriando]
+
+79
+00:04:57,549 --> 00:04:59,342
+[Hombres gruñendo]
+
+80
+00:05:04,014 --> 00:05:07,017
+[Hvitserk] ¡Ven aquí! ¡Vamos!
+[Ríe]
+
+81
+00:05:07,809 --> 00:05:09,519
+¡Sí, sí! ¡Vamos!
+
+82
+00:05:09,603 --> 00:05:10,645
+¡Empujen!
+
+83
+00:05:11,146 --> 00:05:15,192
+¡Empujen y empujen y empujen! ¡Aquí!
+
+84
+00:05:17,319 --> 00:05:19,404
+¡Vamos! ¡Ayúdenme! ¡Vamos!
+
+85
+00:05:20,572 --> 00:05:23,825
+¡Vamos, chicos! ¡Vamos! ¡Vamos! ¡Ayúdenme!
+
+86
+00:05:23,909 --> 00:05:26,286
+¡Vamos! ¡Vamos! ¡Ayúdenme!
+
+87
+00:05:26,912 --> 00:05:30,874
+¡Sí! ¡Bien hecho! ¡Tú!
+¡Tú empuja! ¡Tú! ¡Tú empuja!
+
+88
+00:05:30,957 --> 00:05:32,083
+¡Empuja! ¡Vamos!
+
+89
+00:05:35,253 --> 00:05:36,588
+¡Empuja! ¡Vamos, ayuda a empujar!
+
+90
+00:05:36,713 --> 00:05:38,882
+¡Hvitserk! ¿Qué es esto?
+
+91
+00:05:38,965 --> 00:05:42,385
+Esta es una de las puertas de hierro
+que Ivar hizo para proteger la ciudad.
+
+92
+00:05:43,929 --> 00:05:45,347
+¿Pero para qué la quieres?
+
+93
+00:05:46,723 --> 00:05:48,433
+La necesito para mi propia protección.
+
+94
+00:05:49,726 --> 00:05:51,394
+Es la única manera
+de mantener alejados a los fantasmas.
+
+95
+00:05:53,146 --> 00:05:54,146
+[Gruñe]
+
+96
+00:05:54,189 --> 00:05:58,235
+¡Vamos! ¡Empújenla! ¡Vamos!
+
+97
+00:05:58,318 --> 00:06:02,155
+¡Vamos! ¡Sí! ¡Vamos!
+
+98
+00:06:11,122 --> 00:06:12,374
+[Trina]
+
+99
+00:06:12,666 --> 00:06:13,624
+[Ríe]
+
+100
+00:06:13,625 --> 00:06:14,751
+[Mujer] Inge los tiene.
+
+101
+00:06:15,210 --> 00:06:17,963
+¡Ven, Inge! ¡Ven! ¡Trae más!
+
+102
+00:06:18,463 --> 00:06:19,714
+[Hombre] ¿Quién hizo esto?
+
+103
+00:06:23,051 --> 00:06:24,177
+¡Hey!
+
+104
+00:06:26,263 --> 00:06:27,347
+[Ríe]
+
+105
+00:06:33,895 --> 00:06:34,938
+Gunnhild.
+
+106
+00:06:35,021 --> 00:06:37,232
+[Mujer] Sí. Sigan.
+Sí. Uno más.
+
+107
+00:06:37,315 --> 00:06:38,567
+Tráelo para acá.
+
+108
+00:06:39,234 --> 00:06:40,234
+[Ambos gruñen]
+
+109
+00:06:41,319 --> 00:06:44,698
+[Mujer] Bien, ¿eh? Está terminado.
+El siguiente.
+
+110
+00:06:50,078 --> 00:06:53,081
+[Trinando]
+
+111
+00:06:55,584 --> 00:06:56,793
+No esperarán esto.
+
+112
+00:06:58,712 --> 00:06:59,712
+No.
+
+113
+00:07:00,171 --> 00:07:01,798
+¿Pero quién sabe si es suficiente?
+
+114
+00:07:08,263 --> 00:07:09,681
+¿Has sabido algo de Bjorn?
+
+115
+00:07:14,102 --> 00:07:15,353
+Sé que regresará.
+
+116
+00:07:18,690 --> 00:07:19,691
+Sí.
+
+117
+00:07:24,404 --> 00:07:25,447
+Mira.
+
+118
+00:07:34,497 --> 00:07:36,207
+[Mujer hablando indistintamente]
+
+119
+00:07:45,717 --> 00:07:47,510
+Aw. Oh.
+
+120
+00:07:48,845 --> 00:07:50,639
+[Besos y gruñidos]
+
+121
+00:07:52,223 --> 00:07:53,223
+[Ríe suavemente]
+
+122
+00:07:56,061 --> 00:07:57,228
+Pobre Asa.
+
+123
+00:08:00,440 --> 00:08:01,440
+[Mujer] Huele bien.
+
+124
+00:08:03,485 --> 00:08:05,153
+No puedo esperar a eso.
+
+125
+00:08:05,362 --> 00:08:06,488
+Tenía tanta sed. Sí.
+
+126
+00:08:06,571 --> 00:08:07,947
+Demasiado.
+
+127
+00:08:08,031 --> 00:08:10,158
+Lo será. Vale la pena la espera.
+
+128
+00:08:11,785 --> 00:08:12,869
+¿Quién se cree que es?
+
+129
+00:08:15,497 --> 00:08:17,540
+Por supuesto. Es un largo camino.
+
+130
+00:08:19,751 --> 00:08:20,960
+¿Qué es lo que ves?
+
+131
+00:08:22,796 --> 00:08:24,172
+Me veo a mí misma, Lagertha.
+
+132
+00:08:25,215 --> 00:08:26,925
+Así era yo, hace muchos años.
+
+133
+00:08:27,550 --> 00:08:28,927
+Así éramos todos.
+
+134
+134
+00:08:29,886 --> 00:08:31,513
+Ahora es como ver fantasmas.
+
+135
+00:08:31,596 --> 00:08:32,596
+[Riendo]
+
+136
+00:08:34,641 --> 00:08:36,059
+Por alguna razón, quiero llorar.
+
+137
+00:08:37,227 --> 00:08:40,271
+Pero también me alegra verme de nuevo.
+
+138
+00:08:41,272 --> 00:08:43,525
+Ven. Únete a nuestra fiesta.
+
+139
+00:08:44,109 --> 00:08:46,027
+Seremos doncellas escuderas juntas.
+
+140
+00:08:46,736 --> 00:08:47,904
+¡Sí!
+
+141
+00:08:48,113 --> 00:08:49,739
+[Doncellas escuderas trinan]
+
+142
+00:08:51,324 --> 00:08:53,159
+[Trina]
+
+143
+00:08:56,121 --> 00:08:57,163
+¡Skol!
+
+144
+00:08:57,247 --> 00:08:58,873
+[Todos] ¡Skol!
+
+145
+00:09:05,505 --> 00:09:07,090
+[Golpe fuerte]
+
+146
+00:09:07,590 --> 00:09:09,551
+[Gimiendo]
+
+147
+00:09:13,012 --> 00:09:14,305
+[Golpe fuerte]
+
+148
+00:09:17,684 --> 00:09:18,642
+[Jadeando]
+
+149
+00:09:18,643 --> 00:09:20,271
+[Golpe fuerte]
+
+150
+00:09:21,896 --> 00:09:22,981
+[Metal crujiendo, golpes]
+
+151
+00:09:23,064 --> 00:09:25,775
+¡Vete! ¡Déjame en paz! ¡Vete!
+
+152
+00:09:32,031 --> 00:09:33,283
+[Resuella con miedo]
+
+153
+00:09:33,616 --> 00:09:36,369
+[Llorando y gimiendo]
+
+154
+00:09:39,831 --> 00:09:41,291
+[Thora] Mírame, Hvitserk.
+
+155
+00:09:41,499 --> 00:09:43,209
+¡Vete! ¡Vete!
+
+156
+00:09:43,293 --> 00:09:45,044
+Ivar me hizo esto.
+
+157
+00:09:46,463 --> 00:09:47,630
+¡Mírame!
+
+158
+00:09:48,757 --> 00:09:50,216
+No tengas miedo.
+
+159
+00:09:57,515 --> 00:09:58,850
+¿Por qué has vuelto aquí?
+
+160
+00:10:00,018 --> 00:10:01,352
+¿Por qué quieres atormentarme?
+
+161
+00:10:01,436 --> 00:10:03,480
+Quiero venganza.
+
+162
+00:10:04,522 --> 00:10:08,610
+La única persona que puede vengar
+mi muerte, Hvitserk, eres tú.
+
+163
+00:10:09,277 --> 00:10:11,196
+Dime. Dime cómo.
+
+164
+00:10:11,571 --> 00:10:13,740
+Tienes que matar a Ivar.
+
+165
+00:10:14,449 --> 00:10:15,784
+Ivar me mató.
+
+166
+00:10:16,743 --> 00:10:18,244
+Mató a mi familia.
+
+167
+00:10:20,163 --> 00:10:21,623
+Lo harás, ¿verdad?
+
+168
+00:10:22,957 --> 00:10:24,334
+¿Me vengarás?
+
+169
+00:10:24,584 --> 00:10:26,669
+- Sí.
+- Promételo.
+
+170
+00:10:28,463 --> 00:10:30,131
+Jura por tu brazalete sagrado.
+
+171
+00:10:38,348 --> 00:10:39,390
+Lo juro.
+
+172
+00:10:41,392 --> 00:10:42,560
+[Jadeando]
+
+173
+00:10:43,144 --> 00:10:45,939
+Lo juro. Lo juro.
+
+174
+00:10:46,523 --> 00:10:47,816
+¡Te dije, lo juro!
+
+175
+00:11:02,831 --> 00:11:04,431
+- [Charla indistinta]
+- [Cuerno bramando]
+
+176
+00:11:22,475 --> 00:11:23,977
+[Hombres riendo]
+
+177
+00:11:39,701 --> 00:11:40,741
+- [Gruñe]
+- [Gente vitorea]
+
+178
+00:11:42,662 --> 00:11:45,331
+Eh... me gustaría
+proponer un brindis...
+
+179
+00:11:46,749 --> 00:11:48,585
+por Bjorn Ironside.
+
+180
+00:11:48,960 --> 00:11:50,086
+Esta es nuestra primera reunión,
+
+181
+00:11:50,169 --> 00:11:53,464
+pero a lo largo de los años he escuchado
+todo sobre tus hazañas
+
+182
+00:11:53,548 --> 00:11:55,758
+de los vagabundos y poetas
+en mi Gran Salón.
+
+183
+00:11:55,842 --> 00:11:58,511
+Es un gran honor
+conocerte en persona por fin.
+
+184
+00:11:58,595 --> 00:11:59,721
+Skol.
+
+185
+00:11:59,804 --> 00:12:00,805
+Skol.
+
+186
+00:12:01,014 --> 00:12:02,223
+- Skol.
+- Skol.
+
+187
+00:12:02,891 --> 00:12:04,058
+Eres muy amable.
+
+188
+00:12:04,809 --> 00:12:07,520
+Pero yo también he escuchado historias
+de Thorkell el Alto
+
+189
+00:12:07,604 --> 00:12:09,397
+y sus hermanos
+Herring y el Conde Sigvald.
+
+190
+00:12:10,356 --> 00:12:12,859
+En un país como el nuestro,
+tan pequeño como el nuestro,
+
+191
+00:12:13,651 --> 00:12:14,694
+la fama se extiende fácilmente.
+
+192
+00:12:14,777 --> 00:12:16,362
+Eso dicen, Bjorn Ironside.
+
+193
+00:12:16,863 --> 00:12:21,784
+Entonces, ¿el plan es que todos nosotros
+te designemos como rey?
+
+194
+00:12:22,035 --> 00:12:24,871
+Elegirlo como rey, elegir.
+
+195
+00:12:25,288 --> 00:12:26,623
+Esa es nuestra manera.
+
+196
+00:12:26,706 --> 00:12:29,876
+En ese caso, Rey Olaf, insisto
+en que debe ser una elección real.
+
+197
+00:12:30,543 --> 00:12:34,631
+Y que cualquier otro, sea rey,
+o incluso un simple Jarl como yo,
+
+198
+00:12:34,714 --> 00:12:36,257
+también pueda presentarse, si lo desea.
+
+199
+00:12:37,342 --> 00:12:39,802
+[Suspira] En principio, sí.
+
+200
+00:12:40,470 --> 00:12:44,641
+Pero ya sabes cómo somos los noruegos.
+
+201
+00:12:45,308 --> 00:12:48,394
+Les das la oportunidad
+de pelear y luchar,
+
+202
+00:12:48,478 --> 00:12:51,481
+y luego pelearán y lucharán.
+
+203
+00:12:52,398 --> 00:12:54,484
+Aún así, Jarl Thorkell tiene un punto.
+
+204
+00:12:54,984 --> 00:12:56,277
+Sí. Y estoy de acuerdo con él.
+
+205
+00:12:56,945 --> 00:13:00,198
+Personalmente, nunca querría
+ser nombrado rey en una elección
