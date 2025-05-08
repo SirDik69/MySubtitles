@@ -1,0 +1,7 @@
+msubtitles:
+  - source: https://raw.githubusercontent.com/SirDik69/MySubtitles/main/Vikings/
+    subtitles:
+      - season: 6
+        items:
+          - path: S6/Vikings.S06E07.[1080p.10bit.BluRay.AAC5.1.HEVC].srt
+            episode: 07      
