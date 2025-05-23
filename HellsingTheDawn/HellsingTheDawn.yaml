@@ -1,0 +1,11 @@
+msubtitles:
+  - source: https://raw.githubusercontent.com/SirDik69/MySubtitles/main/HellsingTheDawn/
+    subtitles:
+      - season: 1
+        items:
+          - path: “Hellsing:TheDawn.l[SPA].srt”
+            episode: 1      
+          - path: “Hellsing:TheDawn.ll[SPA].srt”
+            episode: 2
+          - path: “Hellsing:TheDawn.lll[SPA].srt”
+            episode: 3      
