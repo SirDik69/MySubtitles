@@ -3,9 +3,9 @@ msubtitles:
     subtitles:
       - season: 1
         items:
-          - path: “Hellsing:TheDawn.l[SPA].srt”
+          - path: “Hellsing:TheDawn.1[SPA].srt”
             episode: 1      
-          - path: “Hellsing:TheDawn.ll[SPA].srt”
+          - path: “Hellsing:TheDawn.2[SPA].srt”
             episode: 2
-          - path: “Hellsing:TheDawn.lll[SPA].srt”
+          - path: “Hellsing:TheDawn.3[SPA].srt”
             episode: 3      
