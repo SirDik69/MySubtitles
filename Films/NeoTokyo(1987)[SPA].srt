@@ -1085,3 +1085,7 @@ Se ha decidido que el proyecto de construcción 444 continuará.
 269
 00:46:54,040 --> 00:46:55,910
 Bienvenido.
+
+270
+00:47:00,040 --> 00:47:11,000
+[Subtítulo by Zync]
