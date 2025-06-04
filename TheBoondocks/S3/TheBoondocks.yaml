@@ -3,11 +3,15 @@ msubtitles:
     subtitles:
       - season: 3
         items:
-          - path: S3/TheBoondocksS03E02.srt
-            episode: 2      
-          - path: S3/TheBoondocksS03E03.srt
-            episode: 3
-          - path: S3/TheBoondocksS03E04.srt
-            episode: 4      
-          - path: S3/TheBoondocksS03E05.srt
-            episode: 5
+          - path: S3/The.Boondocks.S03E10.[1080p.HMAX.WEB-DL][SDH][ESP][zync].srt
+            episode: 10      
+          - path: S3/The.Boondocks.S03E11.[1080p.HMAX.WEB-DL][SDH][ESP][zync].srt
+            episode: 11
+          - path: S3/The.Boondocks.S03E12.[1080p.HMAX.WEB-DL][SDH][ESP][zync].srt
+            episode: 12      
+          - path: S3/The.Boondocks.S03E13.[1080p.HMAX.WEB-DL][SDH][ESP][zync].srt
+            episode: 13
+          - path: S3/The.Boondocks.S03E14.[1080p.HMAX.WEB-DL][SDH][ESP][zync].srt
+            episode: 14
+          - path: S3/The.Boondocks.S03E15.[1080p.HMAX.WEB-DL][SDH][ESP][zync].srt
+            episode: 15
